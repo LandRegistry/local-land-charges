@@ -1,0 +1,7 @@
+
+/* Setting the baseurl variable allows the site to be published at a
+   path, as is the default with GitHub Pages. */
+$baseurl: "{{ site.baseurl }}";
+
+/* This imports the CSS from the theme */
+@import "govuk-jekyll";
