@@ -1,0 +1,12 @@
+# config.yml
+
+backend:
+  name: github
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: 'assets/images/uploads'
+collections:
+  - name: 'docs'
+    label: 'Documents'
+    folder: '_docs/'
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
