@@ -1,7 +1,7 @@
 # config.yml
 
 backend:
-  name: git-gateway
+  name: github
   repo: Louis331/Louis331.github.io
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/images/uploads'
