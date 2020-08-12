@@ -1,7 +1,7 @@
 # config.yml
 
 backend:
-  name: github
+  name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/images/uploads'
 collections:
