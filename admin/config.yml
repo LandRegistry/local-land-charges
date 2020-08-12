@@ -2,6 +2,7 @@
 
 backend:
   name: git-gateway
+  repo: Louis331/Louis331.github.io
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/images/uploads'
 collections:
