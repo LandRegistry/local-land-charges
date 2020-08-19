@@ -4,5 +4,5 @@ title: Home
 published: true
 ---
 
-{:. heading-large}
+{: .heading-large}
 Hello World. 
