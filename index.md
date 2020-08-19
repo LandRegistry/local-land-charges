@@ -8,7 +8,10 @@ Hello World.
 
 This is a new paragraph
 
-{ .heading-small}
+{: .heading-small}
 Table of contents
 
-1. [Documentation](https://www.google.com)
+<ol class="govuk-list govuk-list--bullet">
+  <li>item</li>
+  <li>dsf</li>
+</ol>
