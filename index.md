@@ -77,6 +77,7 @@ Deliver and measure
 </ol>
 
 ---
+
 {: .heading-large}
 Transition guidance
 
