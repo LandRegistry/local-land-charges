@@ -18,7 +18,7 @@ The Migration Guidance section includes an array of informative documents on dif
 {: .heading-large}
 Table of contents
 
-<ol class="list list-bullet">
+<ol class="list list-number">
   <li><a href='/'>Documentation</a></li>
   <li><a href='/'>Transistion Guidence</a></li>
   <li><a href='/'>Other supporting material</a></li>
@@ -31,7 +31,7 @@ Documentation
 {: .heading-medium}
 Overview
 
-<ol class="govuk-list govuk-list--number">
+<ol class="list list-number">
   <li><a href='/'>Overview of the LLC digital register</a></li>
   <li><a href='/'>Information about the Local Land Charges programme</a></li>
   <li><a href='/'>Local Authority Information Pack </a></li>
@@ -40,7 +40,7 @@ Overview
 {: .heading-medium}
 Plan
 
-<ol class="govuk-list govuk-list--bullet">
+<ol class="list list-bullet">
   <li>Business Change Playbook Part 1 (Plan)</li>
   <li>Checklist with recommended order of activities</li>
   <li>Role of local authority advocates</li>
@@ -55,7 +55,7 @@ Plan
   <li><a href='/'>RACI</a></li>
   <li>
     Data
-    <ol class="govuk-list govuk-list--bullet">
+    <ol class="list list-number">
         <li><a href='/'>Data assesment template</a>- for return to HMLR</li>
         <li>Self-serve scanning mini guide </li>
     </ol>
@@ -67,7 +67,7 @@ Plan
 {: .heading-medium}
 Deliver and measure
 
-<ol class="govuk-list govuk-list--bullet">
+<ol class="list list-bullet">
     <li>Business Change Playbook Part 2 (Deliver) and Part 3 (Measure)</li>
     <li>Change management strategy</li>
     <li>Commuications approach</li>
@@ -83,17 +83,17 @@ Transition guidance
 {: .heading-medium}
 General guidance
 
-<ol class="govuk-list govuk-list--bullet">
+<ol class="list list-bullet">
     <li>Local Land Charges Bussiness Change strategy</li>
     <li><a href='/'>Pre-Migration guide - getting your data ready</a></li>
-    <li><a href'/'>LLC migration case studies</a></li>
+    <li><a href='/'>LLC migration case studies</a></li>
 </ol>
 
 {: .heading-medium}
 Specfic guidance
 
 To be preocess map:
-<ol class="govuk-list govuk-list--bullet">
+<ol class="list list-bullet">
     <li><a href='/'>LLCO updating the register (user interface)</a></li>
     <li><a href='/'>LLCO updating register (API)</a></li>
     <li><a href='/'>Feeder depts updating the register (user interface)</a></li>
@@ -103,7 +103,7 @@ To be preocess map:
 {: .heading-medium}
 Migration tracker
 
-<ol class="govuk-list govuk-list--bullet">
+<ol class="list list-bullet">
     <li><a href='/'> Migration live tracker</a> - see who is working with us on migration activity</li>
 </ol>
 
@@ -115,7 +115,7 @@ Other supporting documentation
 {: .heading-medium}
 General information
 
-<ol class="govuk-list govuk-list--bullet">
+<ol class="list list-bullet">
     <li>Local Land Charges Bussiness Change strategy</li>
     <li><a href='/'>Pre-Migration guide - getting your data ready</a></li>
     <li><a href='/'>LLC migration case studies</a></li>
@@ -124,7 +124,7 @@ General information
 {: .heading-medium}
 Anual conference 2019
 
-<ol class="govuk-list govuk-list--bullet">
+<ol class="list list-bullet">
     <li><a href='/'>Presentation slides</a></li>
     <li><a href='/'>Responses to questions</a></li>
 </ol>
@@ -132,6 +132,6 @@ Anual conference 2019
 {: .heading-medium}
 Data analysis dashboard
 
-<ol class="govuk-list govuk-list--bullet">
+<ol class="list list-bullet">
     <li><a href='/'>Data analysis dashboard service</a> - guidance video</li>
 </ol>
