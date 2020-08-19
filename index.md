@@ -17,7 +17,7 @@ The Migration Guidance section includes an array of informative documents on dif
 {: .heading-large}
 Table of contents
 
-<ol class="govuk-list govuk-list--number">
+<ol class="list list-bullet">
   <li><a href='/'>Documentation</a></li>
   <li><a href='/'>Transistion Guidence</a></li>
   <li><a href='/'>Other supporting material</a></li>
