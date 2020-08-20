@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Business Chnage
+title: Business Change
 ---
 
 Welcome to the Business Change page.
