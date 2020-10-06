@@ -1,138 +1,70 @@
 ---
 layout: page
-title: Business Chnage
+title: Documentation
 ---
-
-Welcome to the Business Change page.
-
-Here you will find all the support materials your authority needs to manage your migration over to HMLR digital
-register.
-
-The Documentation section of this page lists all the useful templates/documents you will need to carry out migration
-activities.
-
-The Migration Guidance section includes an array of informative documents on different migration topics. 
-
-----
-
 {: .heading-large}
-Table of contents
+Make it Essential – useful information to help your migration 
 
-<ol class="list list-number">
-  <li><a href='/'>Documentation</a></li>
-  <li><a href='/'>Transistion Guidence</a></li>
-  <li><a href='/'>Other supporting material</a></li>
-</ol>
----
+The information in this section will help you understand the purpose of the new service, what support you can get from HM Land Registry and more about your role in migrating your data. All of the documents and links below contain information only and requires no direct action from you. 
 
-{: .heading-large}
-Documentation
-
-{: .heading-medium}
-Overview
-
-<ol class="list list-number">
-  <li><a href='/'>Overview of the LLC digital register</a></li>
-  <li><a href='/'>Information about the Local Land Charges programme</a></li>
-  <li><a href='/'>Local Authority Information Pack </a></li>
+<ol class='list list-number'>
+    <li><a href="/">Information about the Local Land Charges programme</a></li>
+    <li><a href="/">Overview of the LLC digital register</a></li>
+    <li><a href="/">High-level roadmap</a></li>
+    <li><a href="/">Local Authority Delivery Models</a></li>
+    <li><a href="/">Live service options</a></li>
+    <li><a href="/">New Burdens information</a></li>
+    <li><a href="/">Lessons Learned</a></li>
 </ol>
 
-{: .heading-medium}
-Plan
+{:. heading-large}
+Make it Ready
 
-<ol class="list list-bullet">
-  <li>Business Change Playbook Part 1 (Plan)</li>
-  <li>Checklist with recommended order of activities</li>
-  <li>Role of local authority advocates</li>
-  <li>Process map and data sources</li>
-  <li><a href='/'>Extent of change</a></li>
-  <li><a href='/'>Migration readiness assesment</a></li>
-  <li><a href='/'>Stakeholder table</a></li>
-  <li><a href='/'>Roles to support migration activity</a></li>
-  <li><a href='/'>High-level roadmap</a></li>
-  <li>Bussiness case template</li>
-  <li><a href='/'>Delivery plan</a></li>
-  <li><a href='/'>RACI</a></li>
-  <li>
-    Data
-    <ol class="list list-number">
-        <li><a href='/'>Data assesment template</a>- for return to HMLR</li>
-        <li>Self-serve scanning mini guide </li>
-    </ol>
-  </li>
-  <li>Terms of collaboration - for pre-migration work to begin</li>
-  <li>Collaboration agreement - migration</li>
+The information in this section is designed to help you get your service ready for migration to the HM Land registry digital register. It contains useful tools and guides to enable you to complete the ‘Make it Ready’ stage. 
+
+<ol class='list list-number'>
+    <li><a href="/">Business Change Playbook Part 1 (Make it Ready)</a></li>
+    <li><a href="/">Checklist with and recommended order of activities</a></li>
+    <li><a href="/">Business case template</a></li>
+    <li><a href="/">Mapping current processes and data sources</a></li>
+    <li><a href="/">Stakeholder mapping</a></li>
+    <li><a href="/">Migration readiness assessment</a></li>
+    <li><a href="/">RACI matrix</a></li>
+    <li><a href="/">Extent of change analysis</a></li>
+    <li><a href="/">Service Assessment</a>- for return to HMLR</li>
+    <li><a href="/">Self-serve scanning mini guide</a> (Khub video)</li>
+    <li><a href="/">Data analysis dashboard service</a> - guidance video (YouTube)</li>
+    <li><a href="/">Terms of collaboration</a> - for pre-migration work to begin (Khub)</li>
 </ol>
 
-{: .heading-medium}
-Deliver and measure
+{:. heading-large}
+Make it Happen
 
-<ol class="list list-bullet">
-    <li>Business Change Playbook Part 2 (Deliver) and Part 3 (Measure)</li>
-    <li>Change management strategy</li>
-    <li>Commuications approach</li>
-    <li>Training approach</li>
-    <li>Benefits and progress checker</li>
-    <li>Risk and issue log</li>
+The information in this section will support you during the delivery stage of your migration. It contains tool and guides to help you plan, track and measure your migration activity while in the ‘Make it Happen’ stage.
+
+<ol class='list list-number'>
+    <li><a href='/'>Business Change Playbook Part 2 (Make it Happen)</a></li>
+    <li><a href='/'>Collaboration agreement</a></li>
+    <li><a href='/'>Delivery workbook</a></li>
+    <li><a href='/'>Training approach</a></li>
+    <li><a href='/'>Benefits and progress checker</a></li>
 </ol>
 
----
+{:. heading-large}
+Make it Stick
 
-{: .heading-large}
-Transition guidance
+The information in this section will help you review your migration experience and feedback your experience and learning to HM Land Registry as part of the ‘Make it Stick’ stage. 
 
-{: .heading-medium}
-General guidance
+<ol class='list list-number'>
+    <li><a href='/'>Business Change Playbook Part 3 (Make it Stick)</a></li>
+    <li><a href='/'>Lessons Learned template</a></li>
+</ol>
 
-<ol class="list list-bullet">
-    <li>Local Land Charges Bussiness Change strategy</li>
+{:. General guidance}
+
+<ol class='list list-bullet'>
     <li><a href='/'>Pre-Migration guide - getting your data ready</a></li>
+    <li><a href='/'>LLC Data Assessment case studies</a></li>
     <li><a href='/'>LLC migration case studies</a></li>
 </ol>
 
-{: .heading-medium}
-Specfic guidance
-
-To be preocess map:
-<ol class="list list-bullet">
-    <li><a href='/'>LLCO updating the register (user interface)</a></li>
-    <li><a href='/'>LLCO updating register (API)</a></li>
-    <li><a href='/'>Feeder depts updating the register (user interface)</a></li>
-    <li><a href='/'>Feeder depts updating ther register (API)</a></li>
-</ol>
-
-{: .heading-medium}
-Migration tracker
-
-<ol class="list list-bullet">
-    <li><a href='/'> Migration live tracker</a> - see who is working with us on migration activity</li>
-</ol>
-
----
-
-{: .heading-large}
-Other supporting documentation
-
-{: .heading-medium}
-General information
-
-<ol class="list list-bullet">
-    <li>Local Land Charges Bussiness Change strategy</li>
-    <li><a href='/'>Pre-Migration guide - getting your data ready</a></li>
-    <li><a href='/'>LLC migration case studies</a></li>
-</ol>
-
-{: .heading-medium}
-Anual conference 2019
-
-<ol class="list list-bullet">
-    <li><a href='/'>Presentation slides</a></li>
-    <li><a href='/'>Responses to questions</a></li>
-</ol>
-
-{: .heading-medium}
-Data analysis dashboard
-
-<ol class="list list-bullet">
-    <li><a href='/'>Data analysis dashboard service</a> - guidance video</li>
-</ol>
