@@ -1,20 +1,77 @@
----
-# This layout inherits from the default one in the GOVUK theme using the line below.
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
 
-<main id="content">
-  <div class=column-two-thirds>
+    
+    <title>Local Land Charges programme</title>
+    
 
-    <h1 class="heading-xlarge">{{ page.title }}</h1>
+    <link rel="stylesheet" media="screen" href="/local-land-charge/assets/main.css"/>
 
-    {{ content }}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93698222-5"></script>
+    <script src="static/js/ga-link.js"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-93698222-5');
+    </script>
+
+  </head>
+
+  <body>
+
+    <div id="skiplink-container">
+      <div>
+        <a href="#content" class="skiplink">Skip to main content</a>
+      </div>
+    </div>
+
+    <header role="banner" id="global-header" class="with-proposition">
+  <div class="header-wrapper">
+    <div class="header-proposition">
+      <div class="content">
+          <a href="/local-land-charge/" id="proposition-name">Local Land Charges programme</a>
+        <nav id="proposition-menu">
+          <ol id="proposition-links">
+            <li><a href='communications'>Communications</a></li>
+            <li><a href='data-tools'>Tools</a></li>
+            <li><a href='key-learnings'>Key learnings</a></li>
+          </ol>
+        </nav>
+      </div>
+    </div>
 
   </div>
-</main>
+  </header>
 
-<style>
-  .header-logo{
-    display: none;
-  }
-</style>
+
+  <div id="global-header-bar"></div>
+  <main id="content">
+    <div class=column-two-thirds>
+      <h1 class="heading-xlarge">{{ page.title }}</h1>
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="group js-footer" id="footer" role="contentinfo">
+    <div class="footer-wrapper">
+      <div class="footer-meta">
+        <div class="footer-meta-inner">
+          <div class="open-government-licence">
+            <p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
+              <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
+          </div>
+        </div>
+        <div class="copyright">
+          <a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/">&copy; Crown copyright</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+  </body>
+</html>
