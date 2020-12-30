@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: Local Land Charges Migration Hub
 ---
 {: .heading-large}
 Local Land Charges Migration Hub
