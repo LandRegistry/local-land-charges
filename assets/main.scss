@@ -6,3 +6,6 @@ $baseurl: "{{ site.baseurl }}";
 /* This imports the CSS from the theme */
 @import "govuk-jekyll";
 
+.header-custom{
+    width: max-content;
+}

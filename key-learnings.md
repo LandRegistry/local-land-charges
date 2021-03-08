@@ -8,11 +8,11 @@ The information on this page contains key learnings from the local authority’s
 {: .heading-medium}
 Digital LLC Data
 <ol class='list list-number'>
-    <li><a href='files/Key%20learnings/Watford%20Key%20Learnings%20FINAL.odt' onclick='linkClicked("Watford Borough Council")'>Watford Borough Council</a></li>
-    <li><a href='files/Key%20learnings/Lambeth%20-%20case%20study%20FINAL.odt' onclick='linkClicked("Lambeth Borough Council")'>Lambeth Borough Council</a></li>
-    <li><a href='files/Key%20learnings/Blackpool%20Council%20Case%20Study.odt' onclick='linkClicked("Blackpool Council")'>Blackpool Council</a></li>
-    <li><a href='files/Key%20learnings/Warwick%20District%20Council%20case%20study.odt' onclick='linkClicked("Warwick District Council")'>Warwick District Council</a></li>
-    <li><a href='files/Key%20learnings/Liverpool%20City%20Council%20case%20study.odt' onclick='linkClicked("Liverpool City Council")'>Liverpool City Council</a></li>
+    <li><a href='files/Key%20learnings/Watford%20Key%20Learnings%20FINAL.odt' onclick='linkClicked("Watford Borough Council key learnings")'>Watford Borough Council</a></li>
+    <li><a href='files/Key%20learnings/Lambeth%20-%20case%20study%20FINAL.odt' onclick='linkClicked("Lambeth Borough Council key learnings")'>Lambeth Borough Council</a></li>
+    <li><a href='files/Key%20learnings/Blackpool%20Council%20Case%20Study.odt' onclick='linkClicked("Blackpool Council key learnings")'>Blackpool Council</a></li>
+    <li><a href='files/Key%20learnings/Warwick%20District%20Council%20case%20study.odt' onclick='linkClicked("Warwick District Council key learnings")'>Warwick District Council</a></li>
+    <li><a href='files/Key%20learnings/Liverpool%20City%20Council%20case%20study.odt' onclick='linkClicked("Liverpool City Council key learnings")'>Liverpool City Council</a></li>
 </ol>
 
 {: .heading-medium}
