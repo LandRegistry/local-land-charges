@@ -7,7 +7,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
 
 <ol class='list list-number'>
     <li><a href='files/Communications/FEB%20newsletter%202021.pdf' onclick='linkClicked("February 2021")'>February 2021</a></li>
-    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202021.pdf' onclick='linkClicked("January" 2021")'>January" 2021</a></li>
+    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202021.pdf' onclick='linkClicked("January" 2021")'>January 2021</a></li>
     <li><a href='files/Communications/NOV-DEC%20newsletter%202020.pdf' onclick='linkClicked("November/December 2020")'>November/December 2020</a></li>
     <li><a href='files/Communications/October%20LLC%20Final.pdf' onclick='linkClicked("October 2020")'>October 2020</a></li>
     <li><a href='files/Communications/email%20newsletter%20SEPT%202020.pdf' onclick='linkClicked("September 2020")'>September 2020</a></li>

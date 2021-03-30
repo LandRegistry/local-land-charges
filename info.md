@@ -6,7 +6,7 @@ title: Information to help your migration
 The resources in this section explain the purpose of the LLC service, what support you can get from HM Land Registry and more about your role in migrating your data. All of the documents and links below contain information only and require no direct action from you. 
 
 <ol class='list list-number'>
-    <li><a href='https://www.gov.uk/government/publications/hm-land-registry-local-land-charges-programme/local-land-charges-programme' onclick='linkClicked("Information about the Local Land Charges programme")'>Information about the Local Land Charges programme</a></li>
+    <li><a href='https://www.gov.uk/government/publications/hm-land-registry-local-land-charges-programme/local-land-charges-programme' onclick='linkClicked("Information about the Local Land Charges Programme")'>Information about the Local Land Charges Programme</a></li>
     <li><a href='files/Info/Options%20for%20updating%20the%20register%20in%20live%20service.odt' onclick='linkClicked("Options for updating the register in live service")'>Options for updating the register in live service</a> (ODT 32KB)</li>
     <li><a href='files/Info/New%20burdens%20information.odt' onclick='linkClicked("New Burdens information")'>New Burdens information</a> (ODT 40KB)</li>
     <li><a href='https://www.gov.uk/government/publications/local-land-charges-local-authority-pre-digitisation-and-migration-guide' onclick='linkClicked("Preparing data for the new digital register ")'>Preparing data for the new digital register </a></li>
