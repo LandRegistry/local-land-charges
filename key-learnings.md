@@ -3,7 +3,7 @@ layout: page
 title: Key learnings from completed local authority migrations
 ---
 
-The information on this page contains key learnings from the local authority’s perspective for each completed migration to date.
+The information on this page contains key learnings from the local authorities perspective for each completed migration to date.
 
 {: .heading-medium}
 Digital LLC Data

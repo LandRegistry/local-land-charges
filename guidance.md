@@ -17,7 +17,7 @@ Videos
 {: .heading-large}
 Practice guides 
 <ol class='list list-number'>
-    <li><a href='https://www.gov.uk/government/publications/local-land-charges-pg79' onclick='linkClicked("Practice guide 79: local land charges")'>Practice guide 79: local land charges</a></li>
+    <li><a href='https://www.gov.uk/government/publications/local-land-charges-pg79' onclick='linkClicked("Local land charges (practice guide 79)")'>Local land charges (practice guide 79)</a></li>
 </ol>
 
 {: .heading-large}

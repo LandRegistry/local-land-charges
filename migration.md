@@ -14,9 +14,9 @@ To make sure delivery is a success, we’ve provided:
 </ol>
 
 {: .heading-large}
-Getting your service ready for migration 
+Get your service ready for migration
 
-The information in this section is designed to help you get your service ready for migration to the HM Land registry digital register. Use the Playbooks at the start of each section to  
+The information in this section is designed to help you get your service ready for migration to the HM Land registry digital register. Use the Playbooks at the start of each section for an overview of each resource
 
 <ol class='list list-number'>
     <li><a href='files/Migration/Getting%20your%20service%20ready/Business%20Change%20Playbook%20(Make%20it%20Ready).pdf' onclick='linkClicked("Business Change Playbook Part 1 (Make it Ready)")'>Business Change Playbook Part 1 (Make it Ready)</a> (PDF 273KB)</li>
@@ -25,7 +25,7 @@ The information in this section is designed to help you get your service ready f
     <li><a href='files/Migration/Getting%20your%20service%20ready/LLCR%20Data%20Scoping.xlsx' onclick='linkClicked("Data source mapping template")'>Data source mapping template</a> (XLSX 46KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/How%20to%20approach%20scanning%20your%20data.pdf' onclick='linkClicked("How to approach scanning your data")'>How to approach scanning your data</a> (PDF 95KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/How%20to%20approach%20extracting%20your%20electronic%20and%20digital%20data%20.pdf' onclick='linkClicked("How to approach extracting your electronic and digital data")'>How to approach extracting your electronic and digital data</a> (PDF 93KB)</li>
-    <li><a href='files/Migration/Getting%20your%20service%20ready/How%20to%20approach%20Positional%20Accuracy%20Issues%20(PAI)%20in%20your%20data.pdf' onclick='linkClicked("How to approach Positional Accuracy Issues (PAI) in your data")'>How to approach Positional Accuracy Issues (PAI) in your data</a> (PDF 60KB)</li>
+    <li><a href='files/Migration/Getting%20your%20service%20ready/How%20to%20approach%20Positional%20Accuracy%20Issues%20(PAI)%20in%20your%20data.pdf' onclick='linkClicked("How to approach positional accuracy issues (PAI) in your data")'>How to approach positional accuracy issues (PAI) in your data</a> (PDF 60KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/Extent%20of%20change%20analysis%20tool.odt' onclick='linkClicked("Extent of change analysis tool")'>Extent of change analysis tool</a> (ODT 11KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/Migration%20readiness%20assessment%20tool.xlsx' onclick='linkClicked("Migration readiness assessment tool")'>Migration readiness assessment tool</a> (XLSX 25KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/Terms%20of%20collaboration.odt' onclick='linkClicked("Terms of collaboration")'>Terms of collaboration</a> (ODT 23KB)</li>
@@ -34,9 +34,9 @@ The information in this section is designed to help you get your service ready f
 Videos
 <ol class='list list-number' start='11'>
     <li><a href='files/Migration/Getting%20your%20service%20ready/A%20detailed%20guide%20to%20extracting%20your%20electronic%20and%20digital%20data.mp4' onclick='linkClicked("A detailed guide to extracting your electronic and digital data")'>A detailed guide to extracting your electronic and digital data</a>(MP4 3 minutes 25 seconds)</li>
-    <li><a href='files/Migration/Getting%20your%20service%20ready/A%20video%20guide%20to%20scanning%20your%20data.mp4' onclick='linkClicked("A video guide to scanning your data")'>A video guide to scanning your data</a> (MP4 4 minutes 47 second)</li>
-    <li><a href='https://www.youtube.com/watch?v=w9ZBruK5xCU' onclick='linkClicked("How the Data Analysis Dashboard tool works")'>How the Data Analysis Dashboard tool works</a> (5 minutes 15 second)</li>
-    <li><a href='files/Migration/Getting%20your%20service%20ready/A%20detailed%20guide%20to%20addressing%20Positional%20Accuracy%20Issues%20(PAI)%20in%20your%20data.mp4' onclick='linkClicked("A detailed guide to addressing Positional Accuracy Issues (PAI) in your data")'>A detailed guide to addressing Positional Accuracy Issues (PAI) in your data</a></li>
+    <li><a href='files/Migration/Getting%20your%20service%20ready/A%20video%20guide%20to%20scanning%20your%20data.mp4' onclick='linkClicked("A video guide to scanning your data")'>A video guide to scanning your data</a> (MP4 4 minutes 47 seconds)</li>
+    <li><a href='https://www.youtube.com/watch?v=w9ZBruK5xCU' onclick='linkClicked("How the Data Analysis Dashboard tool works")'>How the Data Analysis Dashboard tool works</a> (5 minutes 15 seconds)</li>
+    <li><a href='files/Migration/Getting%20your%20service%20ready/A%20detailed%20guide%20to%20addressing%20Positional%20Accuracy%20Issues%20(PAI)%20in%20your%20data.mp4' onclick='linkClicked("A detailed guide to addressing positional accuracy issues (PAI) in your data")'>A detailed guide to addressing positional accuracy issues (PAI) in your data</a> (MP4 5 minutes 26 seconds)</li>
 </ol>
 
 {: .heading-large}

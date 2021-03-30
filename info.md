@@ -3,7 +3,7 @@ layout: page
 title: Information to help your migration 
 ---
 
-The information in this section will help you understand the purpose of the new service, what support you can get from HM Land Registry and more about your role in migrating your data. All of the documents and links below contain information only and require no direct action from you. 
+The resources in this section explain the purpose of the LLC service, what support you can get from HM Land Registry and more about your role in migrating your data. All of the documents and links below contain information only and require no direct action from you. 
 
 <ol class='list list-number'>
     <li><a href='https://www.gov.uk/government/publications/hm-land-registry-local-land-charges-programme/local-land-charges-programme' onclick='linkClicked("Information about the Local Land Charges programme")'>Information about the Local Land Charges programme</a></li>
