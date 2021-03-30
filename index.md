@@ -25,7 +25,7 @@ Technical requirements to help prepare your data for migration to HM Land Regist
 {: .heading-large}
 <a href='key-learnings'>Learnings</a>
 
-Learn from the local authority’s that have completed their migration to the Local Land Charges digital register. 
+Learn from the local authorities that have completed their migration to the Local Land Charges digital register. 
 
 {: .heading-large}
 <a href='guidance'>Guidance</a>
