@@ -8,5 +8,5 @@ Some of the search results may look a little different to those you have seen be
 {: .heading-medium}
 Search result differences for:
 <ol class='list list-bullet'>
-    <li><a href='files/LA%20business%20rules/Welwyn.docx' onclick='linkClicked("Welwyn rules")'>Welwyn</a></li>
+    <li><a href='files/LA%20business%20rules/Stockton.docx' onclick='linkClicked("Stockton")'>Stockton</a></li>
 </ol>
