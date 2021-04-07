@@ -45,4 +45,4 @@ For those using our service to search for Local Land Charges. Here you will find
 {: .heading-large}
 Contact us
 
-If you have any questions about the process of migrating your LLC service to HM Land Registry’s digital register, or any of the resources contained on this site,email our project team inbox: <a href='mailto:  llcproject@landregistry.gov.uk'>llcproject@landregistry.gov.uk</a>.
+If you have any questions about the process of migrating your LLC service to HM Land Registry’s digital register, or any of the resources contained on this site,email our project team inbox: <a href='mailto:llcproject@landregistry.gov.uk'>llcproject@landregistry.gov.uk</a>.
