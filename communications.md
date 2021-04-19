@@ -1,7 +1,19 @@
 ---
 layout: page
-title: Newsletters
+title: Communications
 --- 
+
+{: .heading-large}
+Transition payments
+
+See our communications below regarding the introduction of our transition payments scheme.
+
+<ol class='list list-number'>
+    <li><a href='files/Communications/CST%20letter.docx' onclick='linkClicked("Transition payments scheme")'>Transition payments scheme</a></li>
+</ol>
+
+{: .heading-large}
+Newsletters
 
 Read our monthly programme newsletters. If you would like to be added to our mailing list, please contact our <a href="mailto:llcproject@landregistry.gov.uk">team inbox</a>.
 
