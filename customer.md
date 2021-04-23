@@ -9,5 +9,5 @@ Some of the search results may look a little different to those you have seen be
 Search result differences for:
 <ol class='list list-bullet'>
     <li><a href='files/LA%20business%20rules/Stockton.docx' onclick='linkClicked("Stockton")'>Stockton</a></li>
-    <li><a href='files/LA%20business%20rules/Spelthorne.docx' onclick='linkClicked("Spelthorne")'>Spelthorne</a></li>
+    <li><a href='files/LA%20business%20rules/Spelthorne%2023%20Apr%202021.pdf' onclick='linkClicked("Spelthorne Borough Council")'>Spelthorne Borough Council</a></li>
 </ol>
