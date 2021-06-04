@@ -10,6 +10,7 @@ See our communications below regarding the introduction of our transition paymen
 
 <ol class='list list-number'>
     <li><a href='files/Communications/CST%20letter.docx' onclick='linkClicked("Transition payments scheme")'>Transition payments scheme</a></li>
+    <li><a href='files/Communications/LLC_trans%20payments2_27052021.pdf' onclick='linkClicked("Transition payments Product Card")'>Transition payments Product Card</a></li>
 </ol>
 
 {: .heading-large}
