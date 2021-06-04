@@ -9,8 +9,8 @@ Transition payments
 See our communications below regarding the introduction of our transition payments scheme.
 
 <ol class='list list-number'>
-    <li><a href='files/Communications/CST%20letter.docx' onclick='linkClicked("Transition payments scheme")'>Transition payments scheme</a></li>
-    <li><a href='files/Communications/LLC_trans%20payments2_27052021.pdf' onclick='linkClicked("Transition payments Product Card")'>Transition payments Product Card</a></li>
+    <li><a href='files/Communications/CST%20letter.docx' onclick='linkClicked("Confirmation of Payments by HM Treasury")'>Transition payments scheme</a></li>
+    <li><a href='files/Communications/LLC_trans%20payments2_27052021.pdf' onclick='linkClicked("The transition payments scheme")'>Transition payments Product Card</a></li>
 </ol>
 
 {: .heading-large}
