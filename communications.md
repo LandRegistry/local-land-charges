@@ -19,7 +19,7 @@ Newsletters
 Read our monthly programme newsletters. If you would like to be added to our mailing list, please contact our <a href="mailto:llcproject@landregistry.gov.uk">team inbox</a>.
 
 <ol class='list list-number'>
-     <li><a href='https://github.com/LandRegistry/local-land-charges/blob/master/files/Communications/JUNE%20newsletter%202021.pdf' onclick='linkClicked("June 2021")'>June 2021</a></li>
+     <li><a href='files/Communications/JUNE%20newsletter%202021.pdf' onclick='linkClicked("June 2021")'>June 2021</a></li>
     <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20May%202021.pdf' onclick='linkClicked("May 2021")'>May 2021</a></li>
     <li><a href='files/Communications/APRIL%20newsletter%202021.pdf' onclick='linkClicked("April 2021")'>April 2021</a></li>
     <li><a href='files/Communications/FEB%20newsletter%202021.pdf' onclick='linkClicked("February 2021")'>February 2021</a></li>
