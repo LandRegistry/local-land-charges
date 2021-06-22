@@ -68,7 +68,7 @@ var cookies_options = cookies_options || {};
   }
 
    /**
-   * Set cookie value.
+   * Get cookie value.
    * @private
    */
   function getCookie(cookieName) {
