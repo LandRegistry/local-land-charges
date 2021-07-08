@@ -24,6 +24,8 @@ Electronic LLC Data
 {: .heading-medium}
 Hybrid LLC Data
 <ol class='list list-number'>
+     <li><a href='files/Key%20learnings/Milton%20Keynes%20Council.odt' onclick='linkClicked()'>Milton Keynes Council</a> (ODT 33KB)</li>
+    <li><a href='files/Key%20learnings/Carlisle%20City%20Council.odt' onclick='linkClicked()'>Carlisle City Council</a> (ODT 33KB)</li>
     <li><a href='files/Key%20learnings/East%20Lindsey%20Key%20Learnings.odt' onclick='linkClicked()'>East Lindsey District Council</a> (ODT 33KB)</li>
     <li><a href='files/Key%20learnings/Norwich%20City%20Council%20case%20study.odt' onclick='linkClicked()'>Norwich City Council</a> (ODT 33KB)</li>
     <li><a href='files/Key%20learnings/Peterborough%20LLC%20case%20study%20-%20Final.odt' onclick='linkClicked()'>Peterborough City Council</a> (ODT 32KB)</li>
