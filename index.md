@@ -5,7 +5,7 @@ title: Local Land Charges Migration Hub
 
 Welcome to the Local Land Charges Migration Hub. Use the materials and documents to migrate your Local Land Charges service from your local authority to HM Land Registry’s digital register. 
 
-<a href='files/Index/Introduction%20from%20Karina%20Singh%20%20Transformation%20Director%20at%20HM%20Land%20Registry.odt' onclick='linkClicked("Introduction from Karina Singh Transformation Director at HM Land Registry")'>Read an introduction</a> to the Local Land Charges (LLC) programme from Karina Singh, Director for Transformation.
+<a href='files/Index/Introduction%20from%20Karina%20Singh%20%20Transformation%20Director%20at%20HM%20Land%20Registry.odt' onclick='linkClicked()'>Read an introduction</a> to the Local Land Charges (LLC) programme from Karina Singh, Director for Transformation.
 
 {: .heading-large}
 <a href='info'>Information</a>

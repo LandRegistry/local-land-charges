@@ -4,24 +4,18 @@
     <meta charset="utf-8" />
 
     
-    <title>Local Land Charges Programme</title>
+    <title>{{ page.title }}</title>
     
     <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" media="screen" href="/local-land-charges/assets/main.css"/>
     <link rel="stylesheet" media="screen" href="/local-land-charges/assets/custom.css"/>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93698222-5"></script>
-    <script src="static/js/ga-link.js"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      window['ga-disable-UA-93698222-5'] = true;
-      gtag('config', 'UA-93698222-5', {'anonymize_ip': true});
-    </script>
-
+    <script src="static/js/ga.js"></script>
+    <script src="static/js/cookies-options.js"></script>
   </head>
 
   <body>
@@ -31,7 +25,7 @@
         <a href="#content" class="skiplink">Skip to main content</a>
       </div>
     </div>
-
+    {% include cookies.html %}
     <header role="banner" id="global-header" class="with-proposition">
   <div class="header-wrapper">
     <div class="header-proposition">
@@ -53,8 +47,6 @@
 
   </div>
   </header>
-
-
   <div id="global-header-bar"></div>
   <main id="content">
     <div class=column-two-thirds>
@@ -67,6 +59,9 @@
     <div class="footer-wrapper">
       <div class="footer-meta">
         <div class="footer-meta-inner">
+          <ul>
+            <li><a href="cookies">Cookies</a></li>
+          </ul>
           <div class="open-government-licence">
             <p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
               <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
