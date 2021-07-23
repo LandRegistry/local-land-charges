@@ -24,6 +24,21 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/APRIL%20newsletter%202021.pdf' onclick='linkClicked("April 2021")'>April 2021</a></li>
     <li><a href='files/Communications/FEB%20newsletter%202021.pdf' onclick='linkClicked("February 2021")'>February 2021</a></li>
     <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202021.pdf' onclick='linkClicked()'>January 2021</a></li>
+</ol>
+
+{: .heading-large}
+Blogs
+
+In these blogs, we talk about the LLC programme, the work involved in migrating to the digital register and how it affects local authorities.
+
+<ol class='list list-bullet'>
+     <li><a href='files/Communications/How%20technology%20is%20supporting%20HM%20Land%20Registry.pdf' onclick='linkClicked()'>How technology is supporting HM Land Registry</a> - Mark Edwards, Service Manager</li>
+</ol>
+
+{: .heading-large}
+Archived newsletters
+
+<ol class='list list-number'>
     <li><a href='files/Communications/NOV-DEC%20newsletter%202020.pdf' onclick='linkClicked()'>November/December 2020</a></li>
     <li><a href='files/Communications/October%20LLC%20Final.pdf' onclick='linkClicked()'>October 2020</a></li>
     <li><a href='files/Communications/email%20newsletter%20SEPT%202020.pdf' onclick='linkClicked()'>September 2020</a></li>
@@ -33,6 +48,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/May%20newsletter%20-%20FINAL.pdf' onclick='linkClicked()'>May 2020</a></li>
     <li><a href='files/Communications/Khub%20Newsletter%20-%20MarchApril.pdf' onclick='linkClicked()'>April 2020</a></li>
 </ol>
+
 
 {: .heading-large}
 Webinars 
