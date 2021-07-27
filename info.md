@@ -7,7 +7,7 @@ The resources in this section explain the purpose of the LLC service, what suppo
 
 <ol class='list list-number'>
     <li><a href='https://www.gov.uk/government/publications/hm-land-registry-local-land-charges-programme/local-land-charges-programme' onclick='linkClicked()'>Information about the Local Land Charges Programme</a></li>
-  <li><a href='/files/Info/HM%20Land%20registry%20LA%20Engagement.pdf' onclick='linkClicked()'>HM Land Registry LA Engagement Product Card</a> (PDF 2.17MB)</li> 
+  <li><a href='files/Info/HM%20Land%20registry%20LA%20Engagement.pdf' onclick='linkClicked()'>HM Land Registry LA Engagement Product Card</a> (PDF 2.17MB)</li> 
     <li><a href='files/Info/Options%20for%20updating%20the%20register%20in%20live%20service.odt' onclick='linkClicked()'>Options for updating the register in live service</a> (ODT 32KB)</li>
     <li><a href='files/Info/New%20burdens%20information.odt' onclick='linkClicked()'>New Burdens information</a> (ODT 40KB)</li>
     <li><a href='https://www.gov.uk/government/publications/local-land-charges-local-authority-pre-digitisation-and-migration-guide' onclick='linkClicked()'>Preparing data for the new digital register </a></li>
