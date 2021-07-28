@@ -62,4 +62,8 @@ Register to watch our webinar recordings.
     <li><a href='https://register.gotowebinar.com/recording/1242249536228957967' onclick='linkClicked()'>Technical data webinar</a> - July 2020 (51 minutes)</li>
     <li><a href='files/Communications/Local%20authority%20migration%20experiences%20webinar%20%E2%80%93%20September%202020.pdf' onclick='linkClicked()'>Local authority migration experiences</a> - webinar slides (recording unavailable) September 2020 (PDF 1.6MB)</li>
     <li><a href='https://register.gotowebinar.com/recording/8203069637203220491' onclick='linkClicked()'>Supporting economic benefits webinar</a> - October 2020 (1 hour 30 minutes)</li>
+    <li><a href='https://register.gotowebinar.com/recording/7224921008786406415' onclick='linkClicked()'>Webinar: Partnering with Northgate</a> - June 2021 (1 hour 40 minutes)</li>
+    <li><a href='https://register.gotowebinar.com/recording/6437359521685068801' onclick='linkClicked()'>Webinar: Partnering with DEF Software</a> - July 2021 (1 hour</li>
+    <li><a href='https://register.gotowebinar.com/recording/3530810429418704141' onclick='linkClicked()'>Webinar: Partnering with Agile</a> - July 2021 (1 hour 20 minutes</li>
+    <li><a href='https://register.gotowebinar.com/recording/1949531289368842511' onclick='linkClicked()'>Webinar: Partnering with Idox</a> - July 2021 (1 hour 35 minutes</li>
 </ol>
