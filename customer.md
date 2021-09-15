@@ -6,7 +6,7 @@ title: Changes to how your search result looks
 Some of the search results may look a little different to those you have seen before. The following information is provided to answer common queries you may have when comparing search results obtained prior to the service moving to HM Land Registry’s LLC service. Please choose the relevant Local Authority area for your search results explanation.
 
 {: .heading-medium}
-Search result differences for:
+<h2>Search result differences for:</h2>
 <ol class='list list-bullet'>
     <li><a href='files/LA%20business%20rules/Dudley%20Metropolitan%20Borough%20Council%2008.07.2021.pdf' onclick='linkClicked()'>Dudley Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Sevenoaks%20District%20Council%2027.04.2021.pdf' onclick='linkClicked()'>Sevenoaks District Council</a></li>

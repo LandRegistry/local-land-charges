@@ -14,7 +14,7 @@ To make sure delivery is a success, we’ve provided:
 </ol>
 
 {: .heading-large}
-Get your service ready for migration
+<h2>Get your service ready for migration</h2>
 
 The information in this section is designed to help you get your service ready for migration to the HM Land registry digital register. Use the Playbooks at the start of each section for an overview of each resource
 
@@ -40,7 +40,7 @@ Videos
 </ol>
 
 {: .heading-large}
-Delivering migration
+<h2>Delivering migration</h2>
 
 The information in this section will support you during the delivery stage of your migration. It contains tool and guides to help you plan, track and measure your migration activity. 
 
@@ -58,7 +58,7 @@ Videos
 </ol>
 
 {: .heading-large}
-Post-migration guidance
+<h2>Post-migration guidance</h2>
 
 The information in this section will prepare you for live service. It will also help you review your migration experience and feedback your experience and learning to HM Land Registry.
 

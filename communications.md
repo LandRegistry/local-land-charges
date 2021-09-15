@@ -4,7 +4,7 @@ title: Communications
 --- 
 
 {: .heading-large}
-Transition payments
+<h2>Transition payments</h2>
 
 See our communications below regarding the introduction of our transition payments scheme.
 
@@ -14,7 +14,7 @@ See our communications below regarding the introduction of our transition paymen
 </ol>
 
 {: .heading-large}
-Newsletters
+<h2>Newsletters</h2>
 
 Read our monthly programme newsletters. If you would like to be added to our mailing list, please contact our <a href="mailto:llcproject@landregistry.gov.uk">team inbox</a>.
 
@@ -29,7 +29,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
 </ol>
 
 {: .heading-large}
-Blogs
+<h2>Blogs</h2>
 
 In these blogs, we talk about the LLC programme, the work involved in migrating to the digital register and how it affects local authorities.
 
@@ -38,7 +38,7 @@ In these blogs, we talk about the LLC programme, the work involved in migrating 
 </ol>
 
 {: .heading-large}
-Archived newsletters
+<h2>Archived newsletters</h2>
 
 <ol class='list list-number'>
     <li><a href='files/Communications/NOV-DEC%20newsletter%202020.pdf' onclick='linkClicked()'>November/December 2020</a></li>
@@ -53,7 +53,7 @@ Archived newsletters
 
 
 {: .heading-large}
-Webinars 
+<h2>Webinars</h2>
 
 Register to watch our webinar recordings.
 
