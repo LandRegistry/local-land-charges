@@ -7,6 +7,8 @@ Welcome to the Local Land Charges Migration Hub. Use the materials and documents
 
 <a href='files/Index/Introduction%20from%20Karina%20Singh%20%20Transformation%20Director%20at%20HM%20Land%20Registry.odt' onclick='linkClicked()'>Read an introduction</a> to the Local Land Charges (LLC) programme from Karina Singh, Director for Transformation.
 
+<a href='https://www.youtube.com/watch?v=8Ql7JtzB9ks' onclick='linkClicked()'>Watch a video</a> about our innovative LLC Register.
+
 {: .heading-large}
 <h2><a href='info'>Information</a></h2>
 
