@@ -8,6 +8,7 @@ Some of the search results may look a little different to those you have seen be
 {: .heading-medium}
 <h2>Search result differences for:</h2>
 <ol class='list list-bullet'>
+    <li><a href='files/LA%20business%20rules/Bromsgrove%20and%20Redditch%2008.10.2021.pdf onclick='linkClicked()'>Bromsgrove and Redditch Borough Councils</a></li>
     <li><a href='files/LA%20business%20rules/Dudley%20Metropolitan%20Borough%20Council%2008.07.2021.pdf' onclick='linkClicked()'>Dudley Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Sevenoaks%20District%20Council%2027.04.2021.pdf' onclick='linkClicked()'>Sevenoaks District Council</a></li>
     <li><a href='files/LA%20business%20rules/Spelthorne%20Borough%20Council%2023.04.21.pdf' onclick='linkClicked()'>Spelthorne Borough Council</a></li>
