@@ -8,7 +8,7 @@ The information on this page contains key learnings from the local authorities p
 {: .heading-medium}
 <h2>Digital LLC Data</h2>
 <ol class='list list-number'>
-    <li><a href='files/Key%20learnings/Watford%20Key%20Learnings%20FINAL%20(5).odt' onclick='linkClicked()'>Watford Borough Council</a> (ODT 32KB)</li>
+    <li><a href='files/Key%20learnings/Watford%20Key%20Learnings%20FINAL%20.odt' onclick='linkClicked()'>Watford Borough Council</a> (ODT 32KB)</li>
     <li><a href='files/Key%20learnings/Lambeth%20-%20case%20study%20FINAL.odt' onclick='linkClicked()'>Lambeth Borough Council</a> (ODT 34KB)</li>
     <li><a href='files/Key%20learnings/Blackpool%20Council%20Case%20Study.odt' onclick='linkClicked()'>Blackpool Council</a> (ODT 39KB)</li>
     <li><a href='files/Key%20learnings/Warwick%20District%20Council%20case%20study.odt' onclick='linkClicked()'>Warwick District Council</a> (ODT 36KB)</li>
