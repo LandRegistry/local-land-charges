@@ -8,6 +8,7 @@ Some of the search results may look a little different to those you have seen be
 {: .heading-medium}
 <h2>Search result differences for:</h2>
 <ol class='list list-bullet'>
+    <li><a href='files/LA%20business%20rules/Blackburn%20with%20Darwen%20.pdf' onclick='linkClicked()'>Blackburn with Darwen Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Bromsgrove%20and%20Redditch%2008.10.2021.pdf' onclick='linkClicked()'>Bromsgrove and Redditch Borough Councils</a></li>
     <li><a href='files/LA%20business%20rules/Dudley%20Metropolitan%20Borough%20Council%2008.07.2021.pdf' onclick='linkClicked()'>Dudley Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Hambleton%20District%20Council%2026.10.2021.pdf' onclick='linkClicked()'>Hambleton District Council</a></li>
@@ -21,6 +22,5 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Stratford%20District%20Council%20v3.pdf' onclick='linkClicked()'>Stratford-on-Avon District Council</a></li>
     <li><a href='files/LA%20business%20rules/Tameside%2008.10.2021.pdf' onclick='linkClicked()'>Tameside Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Welwyn%20Hatfield%20Borough%20Council.pdf' onclick='linkClicked()'>Welwyn Hatfield Borough Council</a></li>
-    <li><a href='files/LA%20business%20rules/Blackburn%20with%20Darwen%20.pdf' onclick='linkClicked()'>Blackburn with Darwen Borough Council</a></li>
 </ol>
 
