@@ -22,6 +22,7 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Stockton-on-Tees%20Borough%20Council%2023.04.21.pdf' onclick='linkClicked()'>Stockton-on-Tees Borough Council</a></li> 
     <li><a href='files/LA%20business%20rules/Stratford%20District%20Council%20v3.pdf' onclick='linkClicked()'>Stratford-on-Avon District Council</a></li>
     <li><a href='files/LA%20business%20rules/Tameside%2008.10.2021.pdf' onclick='linkClicked()'>Tameside Metropolitan Borough Council</a></li>
+    <li><a href='files/LA%20business%20rules/The%20London%20Borough%20of%20Haringey%20Council%2020-12-2021.pdf' onclick='linkClicked()'>The London Borough of Haringey Council</a></li>
     <li><a href='files/LA%20business%20rules/Welwyn%20Hatfield%20Borough%20Council.pdf' onclick='linkClicked()'>Welwyn Hatfield Borough Council</a></li>
 </ol>
 
