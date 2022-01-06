@@ -14,6 +14,7 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Dudley%20Metropolitan%20Borough%20Council%2008.07.2021.pdf' onclick='linkClicked()'>Dudley Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Hambleton%20District%20Council%2026.10.2021.pdf' onclick='linkClicked()'>Hambleton District Council</a></li>
     <li><a href='files/LA%20business%20rules/The%20London%20Borough%20of%20Haringey%20Council%2020-12-2021.pdf' onclick='linkClicked()'>London Borough of Haringey Council</a></li>
+    <li><a href='files/LA%20business%20rules/London%20Borough%20of%20Sutton%20Council%2006.01.2022%20(1).pdf' onclick='linkClicked()'>London Borough of Sutton Council</a></li>
     <li><a href='files/LA%20business%20rules/Newark%20and%20Sherwood%2008.10.2021.pdf' onclick='linkClicked()'>Newark and Sherwood District Council</a></li>
     <li><a href='files/LA%20business%20rules/North%20Kesteven%20District%20Council%2015.12.2021.pdf' onclick='linkClicked()'>North Kesteven District Council</a></li>
     <li><a href='files/LA%20business%20rules/Pendle%20Borough%20Council%2016.11.2021.pdf' onclick='linkClicked()'>Pendle Borough Council</a></li>
