@@ -71,4 +71,6 @@ Register to watch our webinar recordings.
     <li><a href='https://register.gotowebinar.com/recording/6437359521685068801' onclick='linkClicked()'>Webinar: Partnering with DEF Software</a> - July 2021 (1 hour)</li>
     <li><a href='https://register.gotowebinar.com/recording/3530810429418704141' onclick='linkClicked()'>Webinar: Partnering with Agile</a> - July 2021 (1 hour 20 minutes)</li>
     <li><a href='https://register.gotowebinar.com/recording/1949531289368842511' onclick='linkClicked()'>Webinar: Partnering with Idox</a> - July 2021 (1 hour 35 minutes)</li>
-</ol>
+<li><a href='https://register.gotowebinar.com/recording/viewRecording/1397859030119229709/6121466537091236619/lissa.naylor@landregistry.gov.uk?registrantKey=3229654198996896013&type=ATTENDEEEMAILRECORDINGLINK' onclick='linkClicked()'>Webinar: What is happening with Local Land Charges </a> - January 2022 (1 hour 23 minutes)</li>
+<li><a href='https://register.gotowebinar.com/recording/viewRecording/2299268349383944717/2396537746131633675/lissa.naylor@landregistry.gov.uk?registrantKey=3803514606460205837&type=ATTENDEEEMAILRECORDINGLINK' onclick='linkClicked()'>Webinar: What is happening with Local Land Charges </a> - February 2022 (1 hour 25 minutes)</li>
+    </ol>
