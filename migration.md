@@ -70,6 +70,6 @@ The information in this section will prepare you for live service. It will also 
 
 Videos
 <ol class='list list-number' start='3'>
-    <li><a href='files/Migration/Post-migration%20guidance/Becoming%20a%20Local%20Land%20Charges%20advocate.mp4' onclick='linkClicked()'>Becoming a Local Land Charges advocate</a> (MP4 4 minutes 29 seconds)</li>
-    <li><a href='https://www.youtube.com/watch?v=f-6SaP2Rj3c' onclick='linkClicked()'>Using the user interface (UI) to update the register</a> (5 minutes 27 seconds)</li>
+    <li><a href='files/Migration/Post-migration%20guidance/Becoming%20a%20Local%20Land%20Charges%20advocate.mp4' onclick='linkClicked()'>Becoming a Local Land Charges advocate</a> (MP4 6 minutes 25 seconds)</li>
+    <li><a href='https://www.youtube.com/watch?v=6oNL_HZyyj4' onclick='linkClicked()'>Using the user interface (UI) to update the register</a> (5 minutes 27 seconds)</li>
 </ol>
