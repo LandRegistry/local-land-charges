@@ -17,6 +17,7 @@ The resources in this section explain the purpose of the LLC service, what suppo
     <li><a href='files/Info/Data%20quality%20approach.odt' onclick='linkClicked()'>Data quality approach</a> (ODT 1.76MB)</li>
     <li><a href='files/Info/Introduction%20to%20our%20agreements.pdf' onclick='linkClicked()'>Introduction to our agreements</a> (PDF 100KB)</li>
     <li><a href='files/Info/Our%20new%20Delivery%20Partners%20and%20the%20incumbent%20Delivery%20Partners%20Services.pdf' onclick='linkClicked()'>Our new Delivery Partners and the incumbent Delivery Partners services</a> (PDF 100KB)</li>
+<li><a href='files/Info/Search%20service%20new%20design.pdf' onclick='linkClicked()'>Improved LLC search service</a> (PDF 100KB)</li>
 </ol>
 
 Videos
