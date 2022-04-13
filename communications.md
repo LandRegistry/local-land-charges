@@ -19,6 +19,7 @@ See our communications below regarding the introduction of our transition paymen
 Read our monthly programme newsletters. If you would like to be added to our mailing list, please contact our <a href="mailto:llcproject@landregistry.gov.uk">team inbox</a>.
 
 <ol class='list list-number'>
+    <li><a href='files/Communications/APRIL%20newsletter%202021.pdf' onclick='linkClicked()'>April 2022</a></li>
     <li><a href='files/Communications/LLC%20newsletter_MARCH%202022.pdf' onclick='linkClicked()'>March 2022</a></li>
     <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January 2022</a></li>
     <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December 2021</a></li>
