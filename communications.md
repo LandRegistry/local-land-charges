@@ -30,8 +30,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/JUNE%20newsletter%202021.pdf' onclick='linkClicked()'>June 2021</a></li>
     <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20May%202021.pdf' onclick='linkClicked()'>May 2021</a></li>
     <li><a href='files/Communications/APRIL%20newsletter%202021.pdf' onclick='linkClicked("April 2021")'>April 2021</a></li>
-    <li><a href='files/Communications/FEB%20newsletter%202021.pdf' onclick='linkClicked("February 2021")'>February 2021</a></li>
-    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202021.pdf' onclick='linkClicked()'>January 2021</a></li>
+    
 </ol>
 
 {: .heading-large}
@@ -47,6 +46,9 @@ In these blogs, we talk about the LLC programme, the work involved in migrating 
 <h2>Archived newsletters</h2>
 
 <ol class='list list-number'>
+   
+    <li><a href='files/Communications/FEB%20newsletter%202021.pdf' onclick='linkClicked("February 2021")'>February 2021</a></li>
+    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202021.pdf' onclick='linkClicked()'>January 2021</a></li>
     <li><a href='files/Communications/NOV-DEC%20newsletter%202020.pdf' onclick='linkClicked()'>November/December 2020</a></li>
     <li><a href='files/Communications/October%20LLC%20Final.pdf' onclick='linkClicked()'>October 2020</a></li>
     <li><a href='files/Communications/email%20newsletter%20SEPT%202020.pdf' onclick='linkClicked()'>September 2020</a></li>
