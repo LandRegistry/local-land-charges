@@ -11,7 +11,7 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Babergh%20and%20Mid%20Suffolk%2020.01.2022.pdf' onclick='linkClicked()'>Babergh and Mid Suffolk District Council</a></li>
     <li><a href='files/LA%20business%20rules/Blackburn%20with%20Darwen%20.pdf' onclick='linkClicked()'>Blackburn with Darwen Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Bromsgrove%20and%20Redditch%2008.10.2021.pdf' onclick='linkClicked()'>Bromsgrove and Redditch Borough Councils</a></li>
-    <li><a href='files/<li><a href='files/LA%20business%20rules/City%20Of%20Lincoln%20Customer%20Document.pdf onclick='linkClicked()'>City of Lincoln Council</a></li>
+    <li><a href='files/LA%20business%20rules/City%20Of%20Lincoln%20Customer%20Document.pdf onclick='linkClicked()'>City of Lincoln Council</a></li>
     <li><a href='files/LA%20business%20rules/Dudley%20Metropolitan%20Borough%20Council%2008.07.2021.pdf' onclick='linkClicked()'>Dudley Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Hambleton%20District%20Council%2026.10.2021.pdf' onclick='linkClicked()'>Hambleton District Council</a></li>
     <li><a href='files/LA%20business%20rules/The%20London%20Borough%20of%20Haringey%20Council%2020-12-2021.pdf' onclick='linkClicked()'>London Borough of Haringey Council</a></li>
