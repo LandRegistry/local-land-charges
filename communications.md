@@ -10,7 +10,7 @@ See our communications below regarding the introduction of our transition paymen
 
 <ol class='list list-number'>
     <li><a href='files/Communications/CST%20letter.docx' onclick='linkClicked()'>Confirmation of payments by HM Treasury</a></li>
-    <li><a href='files/Communications/LLC%20product%20card_payments_24052022.pdf' onclick='linkClicked()'>The transition payments scheme</a></li>
+    <li><a href='files/Communications/LLC_trans%20payments2_16062021.pdf' onclick='linkClicked()'>The transition payments scheme</a></li>
 </ol>
 
 {: .heading-large}
