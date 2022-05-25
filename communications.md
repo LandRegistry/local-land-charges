@@ -9,7 +9,7 @@ title: Communications
 See our communications below regarding the introduction of our transition payments scheme.
 
 <ol class='list list-number'>
-    <li><a href='files/Communications/CST%20letter.docx' onclick='linkClicked()'>Confirmation of payments by HM Treasury</a></li>
+    <li><a href='files/Communications/CST%20letter%20.pdf' onclick='linkClicked()'>Confirmation of payments by HM Treasury</a></li>
     <li><a href='files/Communications/LLC_trans%20payments2_16062021.pdf' onclick='linkClicked()'>The transition payments scheme</a></li>
 </ol>
 
