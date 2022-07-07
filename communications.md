@@ -19,6 +19,7 @@ See our communications below regarding the introduction of our transition paymen
 Read our monthly programme newsletters. If you would like to be added to our mailing list, please contact our <a href="mailto:llcproject@landregistry.gov.uk">team inbox</a>.
 
 <ol class='list list-number'>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_JULY%202022.pdf' onclick='linkClicked()'>July 2022</a></li>
     <li><a href='files/Communications/LLC%20newsletter_JUNE%2017%202022.pdf' onclick='linkClicked()'>June 2022</a></li>
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_MAY%202022.pdf' onclick='linkClicked()'>May 2022</a></li>
     <li><a href='files/Communications/LLC%20newsletter_APRIL%202022.pdf' onclick='linkClicked()'>April 2022</a></li>
@@ -30,7 +31,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/August%20Newsletter.pdf' onclick='linkClicked()'>August 2021</a></li>
     <li><a href='files/Communications/JULY%20newsletter%202021.pdf' onclick='linkClicked()'>July 2021</a></li>
     <li><a href='files/Communications/JUNE%20newsletter%202021.pdf' onclick='linkClicked()'>June 2021</a></li>
-    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20May%202021.pdf' onclick='linkClicked()'>May 2021</a></li>
+    
     
     
 </ol>
@@ -49,6 +50,7 @@ In these blogs, we talk about the LLC programme, the work involved in migrating 
 
 <ol class='list list-number'>
    
+   <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20May%202021.pdf' onclick='linkClicked()'>May 2021</a></li>
     <li><a href='files/Communications/April-21-Newsletter.pdf' onclick='linkClicked()'>April 2021</a></li>
     <li><a href='files/Communications/FEB%20newsletter%202021.pdf' onclick='linkClicked("February 2021")'>February 2021</a></li>
     <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202021.pdf' onclick='linkClicked()'>January 2021</a></li>
