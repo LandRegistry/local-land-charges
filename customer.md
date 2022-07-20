@@ -35,4 +35,5 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Stratford%20District%20Council%20v3.pdf' onclick='linkClicked()'>Stratford-on-Avon District Council</a></li>
     <li><a href='files/LA%20business%20rules/Tameside%2008.10.2021.pdf' onclick='linkClicked()'>Tameside Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Welwyn%20Hatfield%20Borough%20Council.pdf' onclick='linkClicked()'>Welwyn Hatfield Borough Council</a></li>
+    <li><a href='files/LA%20business%20rules/West%20Suffolk%20Search%20Diff%20doc.pdf' onclick='linkClicked()'>West Suffolk Council</a></li>
 </ol>
