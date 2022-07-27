@@ -23,6 +23,7 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Newark%20and%20Sherwood%2008.10.2021.pdf' onclick='linkClicked()'>Newark and Sherwood District Council</a></li>
      <li><a href='files/LA%20business%20rules/Newcastle-under-lyme%20borough%20council%2002.05.2022.pdf' onclick='linkClicked()'>Newcastle-under-Lyme Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/North%20Kesteven%20District%20Council%2015.12.2021.pdf' onclick='linkClicked()'>North Kesteven District Council</a></li>
+    <li><a href='files/LA%20business%20rules/North%20West%20Leicestershire%2027.07.2022.pdf' onclick='linkClicked()'>North Kesteven District Council</a></li>
     <li><a href='files/LA%20business%20rules/Pendle%20Borough%20Council%2016.11.2021.pdf' onclick='linkClicked()'>Pendle Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Plymouth%20City%20Council%2007.01.2022.pdf' onclick='linkClicked()'>Plymouth City Council</a></li>
     <li><a href='files/LA%20business%20rules/Portsmouth%20Customer%20Document.pdf' onclick='linkClicked()'>Portsmouth City Council</a></li>
