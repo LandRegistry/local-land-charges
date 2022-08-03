@@ -31,7 +31,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/OCTnewsletter%202021.pdf' onclick='linkClicked()'>October 2021</a></li>
     <li><a href='files/Communications/August%20Newsletter.pdf' onclick='linkClicked()'>August 2021</a></li>
     <li><a href='files/Communications/JULY%20newsletter%202021.pdf' onclick='linkClicked()'>July 2021</a></li>
-    <li><a href='files/Communications/JUNE%20newsletter%202021.pdf' onclick='linkClicked()'>June 2021</a></li>
+    
     
     
     
