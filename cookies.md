@@ -31,15 +31,15 @@ You may see a cookies banner when you first visit
         <tr>
             <td>seen_cookie_message</td>
             <td>Saves a message to let us know that you've seen our cookie message</td>
-            <td>1 month</td>
+            <td>1 year</td>
         </tr>
     </tbody>
 </table>
 <h3 class="heading-medium">Measuring website usage (Google Analytics)</h3>
-We use Google Analytics software to collect information about how you use Search for local land charges. We do this to help make sure the service website is meeting the needs of its users and to help us make improvements.
+We use Google Analytics software to collect information about how you use Local Land Charges Migration Hub. We do this to help make sure the service website is meeting the needs of its users and to help us make improvements.
 Google Analytics stores information about:
 <ul class="list list-bullet">
-    <li>the pages you visit on Search for local land charges</li>
+    <li>the pages you visit on Local Land Charges Migration Hub</li>
     <li>how long you spend on each page</li>
     <li>how you got to the service</li>
     <li>what you click on while you're visiting the service</li>
@@ -58,12 +58,12 @@ Google Analytics sets the following cookies:
     <tbody>
         <tr>
             <td>_ga</td>
-            <td>This helps us count how many people visit Search for local land charges by tracking if you've visited before</td>
+            <td>This helps us count how many people visit Local Land Charges Migration Hub by tracking if you've visited before</td>
             <td>2 years</td>
         </tr>
         <tr>
             <td>_gid'</td>
-            <td>This helps us count how many people visit Search for local land charges by tracking if you've visited before</td>
+            <td>This helps us count how many people visit Local Land Charges Migration Hub by tracking if you've visited before</td>
             <td>24 hours</td>
         </tr>
         <tr>
