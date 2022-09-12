@@ -21,13 +21,13 @@ var cookies_options = cookies_options || {};
   cookies_options.enable_analytics = function () {
     $(COOKIES_BANNER).hide()
     $(ACCEPTED_COOKIES_BANNER).hide()
-    setCookie('cookie_options', 'enable_analytics=true,hide_cookie_bar=true', 28);
+    setCookie('cookie_options', 'enable_analytics=true,hide_cookie_bar=true', 365);
   }
 
   cookies_options.disable_analytics = function () {
     $(COOKIES_BANNER).hide()
     $(ACCEPTED_COOKIES_BANNER).hide()
-    setCookie('cookie_options', 'enable_analytics=false,hide_cookie_bar=true', 28);
+    setCookie('cookie_options', 'enable_analytics=false,hide_cookie_bar=true', 365);
   }
 
   cookies_options.options_status = function () {
@@ -107,19 +107,19 @@ var cookies_options = cookies_options || {};
       $(COOKIES_BANNER).hide()
       $(ACCEPTED_COOKIES_BANNER).show()
       $(SELECTED_OPTION).text('accepted')
-      setCookie('cookie_options', 'enable_analytics=true,hide_cookie_bar=false', 28)
+      setCookie('cookie_options', 'enable_analytics=true,hide_cookie_bar=false', 365)
       startGATracking(true)
     });
     $(COOKIE_REJECT_BUTTON).click(function () {
       $(COOKIES_BANNER).hide()
       $(ACCEPTED_COOKIES_BANNER).show()
       $(SELECTED_OPTION).text('rejected')
-      setCookie('cookie_options', 'enable_analytics=false,hide_cookie_bar=false', 28)
+      setCookie('cookie_options', 'enable_analytics=false,hide_cookie_bar=false', 365)
     });
     $(COOKIE_BAR_HIDE_BUTTON).click(function () {
       $(COOKIES_BANNER).hide()
       $(ACCEPTED_COOKIES_BANNER).hide()
-      setCookie('cookie_options', 'enable_analytics=true,hide_cookie_bar=true', 28)
+      setCookie('cookie_options', 'enable_analytics=true,hide_cookie_bar=true', 365)
     });
     
   }

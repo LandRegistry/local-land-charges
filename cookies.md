@@ -29,8 +29,8 @@ You may see a cookies banner when you first visit
     </thead>
     <tbody>
         <tr>
-            <td>seen_cookie_message</td>
-            <td>Saves a message to let us know that you've seen our cookie message</td>
+            <td>cookie_options</td>
+            <td>Records the analytics settings and whether you have hidden the cookies message</td>
             <td>1 year</td>
         </tr>
     </tbody>
