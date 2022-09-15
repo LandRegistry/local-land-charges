@@ -12,6 +12,7 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Blackburn%20with%20Darwen%20.pdf' onclick='linkClicked()'>Blackburn with Darwen Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Bromsgrove%20and%20Redditch%2008.10.2021.pdf' onclick='linkClicked()'>Bromsgrove and Redditch Borough Councils</a></li>
     <li><a href='files/LA%20business%20rules/Bury%20Migration%20Hub%20Customer%20Document%20(002).pdf' onclick='linkClicked()'>Bury Metropolitan Borough Council</a></li>
+    <li><a href='files/LA%20business%20rules/Cheltenham%20Customer%20Document%20(002).pdf' onclick='linkClicked()'>Cheltenham Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/City%20Of%20Lincoln%20Customer%20Document.pdf' onclick='linkClicked()'>City of Lincoln Council</a></li>
     <li><a href='files/LA%20business%20rules/Dudley%20Metropolitan%20Borough%20Council%2008.07.2021.pdf' onclick='linkClicked()'>Dudley Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Fenland%20Customer%20Document%20v0.1.pdf' onclick='linkClicked()'>Fenland District Council</a></li>
