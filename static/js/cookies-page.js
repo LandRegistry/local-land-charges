@@ -10,5 +10,9 @@ $('#save-cookie-setting-button').click(function() {
   }
 });
 var options_status = cookies_options.options_status();
-$('#analytics-yes').prop('checked', options_status);
-$('#analytics-no').prop('checked', !options_status);
+
+if (options_status == 'accepted') {
+    $('#analytics-yes').prop('checked', true);
+} else {
+    $('#analytics-no').prop('checked', true);
+}
