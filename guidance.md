@@ -27,5 +27,5 @@ General guidance for registering local land charges.
     <li><a href='https://www.legislation.gov.uk/uksi/2018/273/contents/made' onclick='linkClicked()'>LLC Rules 2018</a></li>
     <li><a href='https://www.legislation.gov.uk/uksi/2018/489/contents/made' onclick='linkClicked()'>LLC Fees (England) Rules 2018</a></li>
     <li><a href='https://www.legislation.gov.uk/ukpga/2015/7/contents' onclick='linkClicked()'>Infrastructure Act 2015</a></li>
-    <li><a href='https://www.legislation.gov.uk/wsi/2021/152/contents' onclick='linkClicked()'>LLC(Fees) (Wales) Rules 2021</a></li>
+    <li><a href='https://www.legislation.gov.uk/wsi/2021/152/contents' onclick='linkClicked()'>LLC (Fees) (Wales) Rules 2021</a></li>
 </ol>
