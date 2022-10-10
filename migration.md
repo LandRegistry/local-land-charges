@@ -65,7 +65,7 @@ Videos
 The information in this section will prepare you for live service. It will also help you review your migration experience and feedback your experience and learning to HM Land Registry.
 
 <ol class='list list-number'>
-    <li><a href='files/Migration/Post-migration%20guidance/Business%20Change%20Playbook%20(Make%20it%20Stick).pdf' onclick='linkClicked()'>Business Change Playbook Part 3 (Make it Stick)</a> (PDF 198 KB)</li>
+    <li><a href='files/Migration/Post-migration%20guidance/01.%20Business%20Change%20Playbook%20(Make%20it%20Stick).pdf' onclick='linkClicked()'>Business Change Playbook Part 3 (Make it Stick)</a> (PDF 198 KB)</li>
     <li><a href='files/Migration/Post-migration%20guidance/Handover%20pack.pdf' onclick='linkClicked()'>Handover pack</a> (PDF 192KB)</li>
     <li><a href='files/Migration/Post-migration%20guidance/Lessons%20learnt%20template.odt' onclick='linkClicked()'>Lessons learned template</a> (ODT 108KB) </li>
 </ol>
