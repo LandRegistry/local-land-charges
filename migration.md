@@ -19,7 +19,7 @@ To make sure delivery is a success, we’ve provided:
 The information in this section is designed to help you get your service ready for migration to the HM Land registry digital register. Use the Playbooks at the start of each section for an overview of each resource
 
 <ol class='list list-number'>
-    <li><a href='files/Migration/Getting%20your%20service%20ready/Business%20Change%20Playbook%20(Make%20it%20Ready).pdf' onclick='linkClicked()'>Business Change Playbook Part 1 (Make it Ready)</a> (PDF 273KB)</li>
+    <li><a href='files/Migration/Getting%20your%20service%20ready/01.%20Business%20Change%20Playbook%20(Make%20it%20Ready).pdf' onclick='linkClicked()'>Business Change Playbook Part 1 (Make it Ready)</a> (PDF 273KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/Information%20to%20support%20your%20business%20case.pdf' onclick='linkClicked()'>Information to support your business case</a> (PDF 107KB)</li>
     <li><a href='files/Outline%20Business%20Case%20for%20LAs%20commencing%20LLC%20digitisation.docx' onclick='linkClicked()'>Outline Business case for Local Authorities commencing LLC digitisation</a> (DOCX 46KB)</li>
     <li><a href='files/Annex%20A%20-%20HMLR%20support%20for%20LAs.pdf' onclick='linkClicked()'>Annex to the Outline Business case: HM Land Registry support available to Local Authorities</a> (PDF 749KB)</li>
