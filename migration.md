@@ -25,7 +25,7 @@ The information in this section is designed to help you get your service ready f
     <li><a href='files/Annex%20A%20-%20HMLR%20support%20for%20LAs.pdf' onclick='linkClicked()'>Annex to the Outline Business case: HM Land Registry support available to Local Authorities</a> (PDF 749KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/Service%20assessment%20template.xlsx' onclick='linkClicked()'>Service Assessment template</a> (XLSX 43KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/LLCR%20Data%20Scoping.xlsx' onclick='linkClicked()'>Data source mapping template</a> (XLSX 46KB)</li>
-    <li><a href='files/Migration/Getting%20your%20service%20ready/How%20to%20approach%20scanning%20your%20data.pdf' onclick='linkClicked()'>How to approach scanning your data</a> (PDF 95KB)</li>
+    <li><a href='files/Migration/Getting%20your%20service%20ready/05.%20How%20to%20approach%20scanning%20your%20data%20(1).pdf' onclick='linkClicked()'>How to approach scanning your data</a> (PDF 95KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/How%20to%20approach%20extracting%20your%20electronic%20and%20digital%20data%20.pdf' onclick='linkClicked()'>How to approach extracting your electronic and digital data</a> (PDF 93KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/How%20to%20approach%20Positional%20Accuracy%20Issues%20(PAI)%20in%20your%20data.pdf' onclick='linkClicked()'>How to approach positional accuracy issues (PAI) in your data</a> (PDF 60KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/Extent%20of%20change%20analysis%20tool.odt' onclick='linkClicked()'>Extent of change analysis tool</a> (ODT 11KB)</li>
