@@ -47,7 +47,7 @@ Videos
 The information in this section will support you during the delivery stage of your migration. It contains tool and guides to help you plan, track and measure your migration activity. 
 
 <ol class='list list-number'>
-    <li><a href='files/Migration/Delivering%20migration/Business%20Change%20Playbook%20(Make%20it%20Happen).pdf' onclick='linkClicked()'>Business Change Playbook Part 2 (Make it Happen)</a> (PDF 194KB)</li>
+    <li><a href='files/Migration/Delivering%20migration/01.%20Business%20Change%20Playbook%20(Make%20it%20Happen)%20.pdf' onclick='linkClicked()'>Business Change Playbook Part 2 (Make it Happen)</a> (PDF 194KB)</li>
     <li><a href='files/Migration/Delivering%20migration/Collaboration%20Agreement.odt' onclick='linkClicked()'>Collaboration agreement</a> (ODT 44KB)</li>
     <li><a href='files/Migration/Delivering%20migration/Delivery%20Plan.pdf' onclick='linkClicked()'>Delivery plan</a> (PDF 208KB)</li>
     <li><a href='files/Migration/Delivering%20migration/How%20business%20rules%20can%20help%20cleanse%20your%20data.pdf' onclick='linkClicked()'>How business rules can help cleanse your data</a> (PDF 70KB)</li>
