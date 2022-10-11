@@ -29,7 +29,7 @@ The information in this section is designed to help you get your service ready f
     <li><a href='files/Migration/Getting%20your%20service%20ready/How%20to%20approach%20extracting%20your%20electronic%20and%20digital%20data%20.pdf' onclick='linkClicked()'>How to approach extracting your electronic and digital data</a> (PDF 93KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/How%20to%20approach%20Positional%20Accuracy%20Issues%20(PAI)%20in%20your%20data.pdf' onclick='linkClicked()'>How to approach positional accuracy issues (PAI) in your data</a> (PDF 60KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/Extent%20of%20change%20analysis%20tool.odt' onclick='linkClicked()'>Extent of change analysis tool</a> (ODT 11KB)</li>
-    <li><a href='files/Migration/Getting%20your%20service%20ready/09.%20Migration%20Readiness%20Assessment%20tool%20(1).xlsx' onclick='linkClicked()'>Migration readiness assessment tool</a> (XLSX 25KB)</li>
+    <li><a href='files/Migration/Getting%20your%20service%20ready/11.%20Migration%20Readiness%20Assessment%20tool.xlsx' onclick='linkClicked()'>Migration readiness assessment tool</a> (XLSX 25KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/Terms%20of%20collaboration.odt' onclick='linkClicked()'>Terms of collaboration</a> (ODT 23KB)</li>
 </ol>
 
