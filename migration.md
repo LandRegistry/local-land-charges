@@ -33,9 +33,9 @@ The information in this section is designed to help you get your service ready f
     <li><a href='files/Migration/Getting%20your%20service%20ready/Terms%20of%20collaboration.odt' onclick='linkClicked()'>Terms of collaboration</a> (ODT 23KB)</li>
 </ol>
 
+{: .heading-small}
 Videos
 <ol class='list list-number' start='13'>
-    
     <li><a href='files/Migration/Getting%20your%20service%20ready/A%20detailed%20guide%20to%20extracting%20your%20electronic%20and%20digital%20data.mp4' onclick='linkClicked()'>A detailed guide to extracting your electronic and digital data</a>(MP4 3 minutes 25 seconds)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/A%20video%20guide%20to%20scanning%20your%20data.mp4' onclick='linkClicked()'>A video guide to scanning your data</a> (MP4 4 minutes 47 seconds)</li>
     <li><a href='https://www.youtube.com/watch?v=w9ZBruK5xCU' onclick='linkClicked()'>How the Data Analysis Dashboard tool works</a> (5 minutes 15 seconds)</li>
@@ -55,6 +55,7 @@ The information in this section will support you during the delivery stage of yo
     <li><a href='files/Migration/Delivering%20migration/An%20overview%20for%20using%20our%20Migration%20Helper%20.pdf' onclick='linkClicked()'>An overview for using our migration helper</a> (PDF 65KB)</li>
 </ol>
 
+{: .heading-small}
 Videos
 <ol class='list list-number' start='6'>
     <li><a href='files/Migration/Delivering%20migration/A%20narrated%20guide%20for%20using%20our%20migration%20helper.mp4' onclick='linkClicked()'>A narrated guide for using our migration helper</a> (MP4 4 minutes 27 seconds)</li>
@@ -71,9 +72,9 @@ The information in this section will prepare you for live service. It will also 
     <li><a href='files/Migration/Post-migration%20guidance/Lessons%20learnt%20template.odt' onclick='linkClicked()'>Lessons learned template</a> (ODT 108KB) </li>
 </ol>
 
+{: .heading-small}
 Videos
 <ol class='list list-number' start='4'>
-    
     <li><a href='files/Migration/Post-migration%20guidance/Becoming%20a%20Local%20Land%20Charges%20advocate.mp4' onclick='linkClicked()'>Becoming a Local Land Charges advocate</a> (MP4 4 minutes 29 seconds)</li>
     <li><a href='https://www.youtube.com/watch?v=6oNL_HZyyj4' onclick='linkClicked()'>Using the user interface (UI) to update the register</a> (6 minutes 25 seconds)</li>
 </ol>
