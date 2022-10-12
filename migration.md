@@ -68,6 +68,7 @@ The information in this section will prepare you for live service. It will also 
     <li><a href='files/Migration/Post-migration%20guidance/01.%20Business%20Change%20Playbook%20(Make%20it%20Stick).pdf' onclick='linkClicked()'>Business Change Playbook Part 3 (Make it Stick)</a> (PDF 198 KB)</li>
     <li><a href='files/Migration/Post-migration%20guidance/Handover%20pack.pdf' onclick='linkClicked()'>Handover pack</a> (PDF 192KB)</li>
     <li><a href='files/Migration/Post-migration%20guidance/Lessons%20learnt%20template.odt' onclick='linkClicked()'>Lessons learned template</a> (ODT 108KB) </li>
+    <li><a href='files/Info/Options%20for%20updating%20the%20register%20in%20live%20service.odt' onclick='linkClicked()'>Options for updating the register in live service</a> (ODT 32KB)</li>
 </ol>
 
 {: .heading-small}
@@ -75,5 +76,5 @@ Videos
 <ol class='list list-number' start='4'>
     <li><a href='files/Migration/Post-migration%20guidance/Becoming%20a%20Local%20Land%20Charges%20advocate.mp4' onclick='linkClicked()'>Becoming a Local Land Charges advocate</a> (MP4 4 minutes 29 seconds)</li>
     <li><a href='https://www.youtube.com/watch?v=6oNL_HZyyj4' onclick='linkClicked()'>Using the user interface (UI) to update the register</a> (6 minutes 25 seconds)</li>
-    <li><a href='files/Info/Options%20for%20updating%20the%20register%20in%20live%20service.odt' onclick='linkClicked()'>Options for updating the register in live service</a> (ODT 32KB)</li>
+    
 </ol>
