@@ -18,8 +18,12 @@ The resources in this section explain the purpose of the LLC service, what suppo
 
 
 
+
+
 {: .heading-small}
 Migration and me
+
+
 
 
 <li><a href='files/Info/LLC%20and%20LAs%20roles%20and%20responsibilities%20template.pdf' onclick='linkClicked()'>Roles and responsibilities</a> (ODT 64KB)</li>
@@ -28,11 +32,12 @@ Migration and me
 
 
 
+
 {: .heading-small}
 Videos
 
 <ol class='list list-number'>
-    <li><a href='files/Info/LLCO%20Narrated%20Video.mp4' onclick='linkClicked()'>Local Land Charges Officer role – as told by one of our advocates</a> (MP4 4 minutes 29 seconds)</li>
+    <li><a href='files/Info/LLCO%20Narrated%20Video.mp4' onclick='linkClicked()'>LLC Officer role – as told by one of our advocates</a> (MP4 4 mins 29 secs)</li>
 </ol>
 
 
