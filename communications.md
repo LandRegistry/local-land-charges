@@ -9,8 +9,10 @@ Read our monthly programme newsletters. If you would like to be added to our mai
 
 <ol class='list list-number'>
     
-   
+ 
+    
 2022
+    
     
     <li><a href='files/Communications/LLC%20newsletter%20OCTOBER%202022%20(1).pdf' onclick='linkClicked()'>October </a></li>
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_SEP%202022.pdf' onclick='linkClicked()'>September </a></li>
@@ -23,7 +25,9 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>
     
    
+    
 2021
+    
     
     <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December </a></li>
     <li><a href='files/Communications/NOVEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>November </a></li>
@@ -67,7 +71,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
 Register to watch our webinar recordings.
 
 <ol class='list list-number'>
-   <li><a href='https://register.gotowebinar.com/recording/1662619232768603400' onclick='linkClicked()'>Local Authority Service Assessments </a> - March 2022 (57 min)</li>
+   <li><a href='https://register.gotowebinar.com/recording/1662619232768603400' onclick='linkClicked()'>Local Authority Service Assessments </a> - March 2022 (57 mins)</li>
     <li><a href='https://register.gotowebinar.com/recording/viewRecording/2299268349383944717/2396537746131633675/lissa.naylor@landregistry.gov.uk?registrantKey=3803514606460205837&type=ATTENDEEEMAILRECORDINGLINK' onclick='linkClicked()'>What is happening with Local Land Charges </a> - Feb 2022 (1 hr 25 mins)</li>
     <li><a href='https://register.gotowebinar.com/recording/viewRecording/1397859030119229709/6121466537091236619/lissa.naylor@landregistry.gov.uk?registrantKey=3229654198996896013&type=ATTENDEEEMAILRECORDINGLINK' onclick='linkClicked()'>What is happening with LLC </a> - Jan 2022 (1 hr 23 mins)</li>
     <li><a href='https://register.gotowebinar.com/recording/1949531289368842511' onclick='linkClicked()'>Partnering with Idox</a> - July 2021 (1 hr 35 mins)</li>
@@ -75,9 +79,9 @@ Register to watch our webinar recordings.
     <li><a href='https://register.gotowebinar.com/recording/6437359521685068801' onclick='linkClicked()'>Partnering with DEF Software</a> - July 2021 (1 hr)</li>
     <li><a href='https://register.gotowebinar.com/recording/7224921008786406415' onclick='linkClicked()'>Partnering with Northgate</a> - June 2021 (1 hr 40 mins)</li>
     <li><a href='https://register.gotowebinar.com/recording/8203069637203220491' onclick='linkClicked()'>Supporting economic benefits</a> - October 2020 (1 hr 30 mins)</li>
-    <li><a href='https://register.gotowebinar.com/recording/1242249536228957967' onclick='linkClicked()'>Technical data webinar</a> - July 2020 (51 minutes)</li>
-    <li><a href='https://register.gotowebinar.com/recording/2901021156248164104' onclick='linkClicked()'>Data analysis webinar</a> - July 2020 (1 hour 9 minutes)</li>
-    <li><a href='https://register.gotowebinar.com/register/3466118454595895566' onclick='linkClicked()'>Pre-migration webinar</a> - June 2020 (2 hours 46 minutes)</li>
+    <li><a href='https://register.gotowebinar.com/recording/1242249536228957967' onclick='linkClicked()'>Technical data webinar</a> - July 2020 (51 mins)</li>
+    <li><a href='https://register.gotowebinar.com/recording/2901021156248164104' onclick='linkClicked()'>Data analysis webinar</a> - July 2020 (1 hr 9 mins)</li>
+    <li><a href='https://register.gotowebinar.com/register/3466118454595895566' onclick='linkClicked()'>Pre-migration webinar</a> - June 2020 (2 hrs 46 mins)</li>
     <li><a href='files/Communications/Local%20authority%20migration%20experiences%20webinar%20%E2%80%93%20September%202020.pdf' onclick='linkClicked()'>Local authority migration experiences</a> - webinar slides (recording unavailable) September 2020 (PDF 1.6MB)</li>
     
    
