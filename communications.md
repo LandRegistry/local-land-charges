@@ -29,9 +29,16 @@ Read our monthly programme newsletters. If you would like to be added to our mai
 </ol>
 
 {: .heading-large}
-<h2>Blogs</h2>
+<h2>Case Studies</h2>
 
-In these blogs, we talk about the LLC programme, the work involved in migrating to the digital register and how it affects local authorities.
+See our communications below regarding the introduction of our transition payments scheme.
+
+<ol class='list list-number'>
+
+</ol>
+
+{: .heading-large}
+<h2>Blog</h2>
 
 <ol class='list list-bullet'>
      <li><a href='files/Communications/How%20technology%20is%20supporting%20HM%20Land%20Registry.pdf' onclick='linkClicked()'>How technology is supporting HM Land Registry</a> - Mark Edwards, Service Manager</li>
@@ -39,14 +46,7 @@ In these blogs, we talk about the LLC programme, the work involved in migrating 
 
 
 
-{: .heading-large}
-<h2>Transition payments</h2>
 
-See our communications below regarding the introduction of our transition payments scheme.
-
-<ol class='list list-number'>
-
-</ol>
 
 
 
