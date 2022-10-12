@@ -5,6 +5,8 @@ title: Guidance
 
 General guidance for registering local land charges. 
 
+<li><a href='files/Info/Search%20service%20new%20design.pdf' onclick='linkClicked()'>Improved LLC search service</a> (PDF 100KB)</li>
+
 {: .heading-large}
 <h2>Videos</h2>
 
