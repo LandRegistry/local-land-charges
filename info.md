@@ -14,7 +14,10 @@ The resources in this section explain the purpose of the LLC service, what suppo
  
     
     
-LLC Flyers
+    
+{: .heading-small}
+LLC flyers
+   
     
     
   <li><a href='files/Info/HM%20Land%20registry%20LA%20Engagement.pdf' onclick='linkClicked()'>Benefits to local authorities</a> (PDF 2.17MB)</li> 
