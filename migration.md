@@ -20,10 +20,7 @@ The information in this section is designed to help you get your service ready f
 
 <ol class='list list-number'>
     <li><a href='files/Migration/Getting%20your%20service%20ready/01.%20Business%20Change%20Playbook%20(Make%20it%20Ready)%20(1).pdf' onclick='linkClicked()'>Business Change Playbook Part 1 (Make it Ready)</a> (PDF 273KB)</li>
-    <li><a href='files/Migration/Getting%20your%20service%20ready/Information%20to%20support%20your%20business%20case.pdf' onclick='linkClicked()'>Information to support your business case</a> (PDF 107KB)</li>
-    <li><a href='files/Outline%20Business%20Case%20for%20LAs%20commencing%20LLC%20digitisation.docx' onclick='linkClicked()'>Outline Business case for Local Authorities commencing LLC digitisation</a> (DOCX 46KB)</li>
-    <li><a href='files/Annex%20A%20-%20HMLR%20support%20for%20LAs.pdf' onclick='linkClicked()'>Annex to the Outline Business case: HM Land Registry support available to Local Authorities</a> (PDF 749KB)</li>
-    <li><a href='files/Migration/Getting%20your%20service%20ready/Service%20assessment%20template.xlsx' onclick='linkClicked()'>Service Assessment template</a> (XLSX 43KB)</li>
+        <li><a href='files/Migration/Getting%20your%20service%20ready/Service%20assessment%20template.xlsx' onclick='linkClicked()'>Service Assessment template</a> (XLSX 43KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/LLCR%20Data%20Scoping.xlsx' onclick='linkClicked()'>Data source mapping template</a> (XLSX 46KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/05.%20How%20to%20approach%20scanning%20your%20data%20(1).pdf' onclick='linkClicked()'>How to approach scanning your data</a> (PDF 95KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/How%20to%20approach%20extracting%20your%20electronic%20and%20digital%20data%20.pdf' onclick='linkClicked()'>How to approach extracting your electronic and digital data</a> (PDF 93KB)</li>
