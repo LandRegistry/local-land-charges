@@ -8,7 +8,9 @@ title: Communications
 Read our monthly programme newsletters. If you would like to be added to our mailing list, please contact our <a href="mailto:llcproject@landregistry.gov.uk">team inbox</a>.
 
 <ol class='list list-number'>
-    2022
+    
+    {: .heading-small}
+2022
     <li><a href='files/Communications/LLC%20newsletter%20OCTOBER%202022%20(1).pdf' onclick='linkClicked()'>October </a></li>
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_SEP%202022.pdf' onclick='linkClicked()'>September </a></li>
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_AUG%202022.pdf' onclick='linkClicked()'>August </a></li>
@@ -18,10 +20,13 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/LLC%20newsletter_APRIL%202022.pdf' onclick='linkClicked()'>April </a></li>
     <li><a href='files/Communications/LLC%20newsletter_MARCH%202022.pdf' onclick='linkClicked()'>March </a></li>
     <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>
-    2021
-    <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December 2021</a></li>
-    <li><a href='files/Communications/NOVEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>November 2021</a></li>
-    <li><a href='files/Communications/OCTnewsletter%202021.pdf' onclick='linkClicked()'>October 2021</a></li>
+    
+    {: .heading-small}
+2021
+    
+    <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December </a></li>
+    <li><a href='files/Communications/NOVEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>November </a></li>
+    <li><a href='files/Communications/OCTnewsletter%202021.pdf' onclick='linkClicked()'>October </a></li>
     
     
     
@@ -33,7 +38,10 @@ Read our monthly programme newsletters. If you would like to be added to our mai
 {: .heading-large}
 <h2>Case Studies</h2>
 
-See our communications below regarding the introduction of our transition payments scheme.
+<li><a href='files/Communications/LLC_CASE%20STUDY_Tameside_291021.pdf' onclick='linkClicked()'>Tameside Council </a></li>
+<li><a href='files/Communications/OXBRIDGE%20CASE%20STUDY_%20east%20west%20rail%203_BEST%20(1).pdf' onclick='linkClicked()'>OxBridge Arc</a></li>
+<li><a href='files/Communications/CASE%20STUDY_LIVERPOOLCOUNCIL_vc.pdf' onclick='linkClicked()'>Liverpool Council </a></li>
+<li><a href='files/Communications/CASE%20STUDY_HS2_vb.pdf' onclick='linkClicked()'>HS2 </a></li>
 
 <ol class='list list-number'>
 
