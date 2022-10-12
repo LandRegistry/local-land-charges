@@ -45,8 +45,7 @@ In these blogs, we talk about the LLC programme, the work involved in migrating 
 See our communications below regarding the introduction of our transition payments scheme.
 
 <ol class='list list-number'>
-    <li><a href='files/Communications/CST%20letter%20.pdf' onclick='linkClicked()'>Confirmation of payments by HM Treasury</a></li>
-    <li><a href='files/Communications/LLC%20product%20card_payments_24052022.pdf' onclick='linkClicked()'>The transition payments scheme</a></li>
+
 </ol>
 
 
