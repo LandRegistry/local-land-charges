@@ -8,15 +8,17 @@ title: Communications
 Read our monthly programme newsletters. If you would like to be added to our mailing list, please contact our <a href="mailto:llcproject@landregistry.gov.uk">team inbox</a>.
 
 <ol class='list list-number'>
-    <li><a href='files/Communications/LLC%20newsletter%20OCTOBER%202022%20(1).pdf' onclick='linkClicked()'>October 2022</a></li>
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_SEP%202022.pdf' onclick='linkClicked()'>September 2022</a></li>
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_AUG%202022.pdf' onclick='linkClicked()'>August 2022</a></li>
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_JULY%202022.pdf' onclick='linkClicked()'>July 2022</a></li>
-    <li><a href='files/Communications/LLC%20newsletter_JUNE%2017%202022.pdf' onclick='linkClicked()'>June 2022</a></li>
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_MAY%202022.pdf' onclick='linkClicked()'>May 2022</a></li>
-    <li><a href='files/Communications/LLC%20newsletter_APRIL%202022.pdf' onclick='linkClicked()'>April 2022</a></li>
-    <li><a href='files/Communications/LLC%20newsletter_MARCH%202022.pdf' onclick='linkClicked()'>March 2022</a></li>
-    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January 2022</a></li>
+    2022
+    <li><a href='files/Communications/LLC%20newsletter%20OCTOBER%202022%20(1).pdf' onclick='linkClicked()'>October </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_SEP%202022.pdf' onclick='linkClicked()'>September </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_AUG%202022.pdf' onclick='linkClicked()'>August </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_JULY%202022.pdf' onclick='linkClicked()'>July </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_JUNE%2017%202022.pdf' onclick='linkClicked()'>June </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_MAY%202022.pdf' onclick='linkClicked()'>May </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_APRIL%202022.pdf' onclick='linkClicked()'>April </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_MARCH%202022.pdf' onclick='linkClicked()'>March </a></li>
+    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>
+    2021
     <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December 2021</a></li>
     <li><a href='files/Communications/NOVEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>November 2021</a></li>
     <li><a href='files/Communications/OCTnewsletter%202021.pdf' onclick='linkClicked()'>October 2021</a></li>
