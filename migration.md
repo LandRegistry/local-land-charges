@@ -20,6 +20,7 @@ The information in this section is designed to help you get your service ready f
 
 <ol class='list list-number'>
     <li><a href='files/Migration/Getting%20your%20service%20ready/01.%20Business%20Change%20Playbook%20(Make%20it%20Ready)%20(1).pdf' onclick='linkClicked()'>Business Change Playbook Part 1 (Make it Ready)</a> (PDF 273KB)</li>
+    <li><a href='https://www.gov.uk/government/publications/local-land-charges-local-authority-pre-digitisation-and-migration-guide' onclick='linkClicked()'>Preparing data for the new digital register </a></li>
         <li><a href='files/Migration/Getting%20your%20service%20ready/Service%20assessment%20template.xlsx' onclick='linkClicked()'>Service Assessment template</a> (XLSX 43KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/LLCR%20Data%20Scoping.xlsx' onclick='linkClicked()'>Data source mapping template</a> (XLSX 46KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/05.%20How%20to%20approach%20scanning%20your%20data%20(1).pdf' onclick='linkClicked()'>How to approach scanning your data</a> (PDF 95KB)</li>
