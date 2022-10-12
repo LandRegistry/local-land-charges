@@ -12,6 +12,7 @@ The information on this page covers the technical requirements to help prepare y
     <li><a href='files/Tools/DAD%20Example%20for%20textual%20analysis.xlsx' onclick='linkClicked()'>DAD: example for textual analysis</a> (XLSX 223KB)</li>
     <li><a href='files/Tools/DAD%20Example%20for%20data%20summary.xlsx' onclick='linkClicked()'>DAD: example for data summary</a> (XLSX 193KB)</li>
     <li><a href='files/Tools/LLC%20Data%20Specification%20-%20what%20my%20data%20will%20look%20like%20after%20migration.pdf' onclick='linkClicked()'>LLC data specification – what will my data look after migration?</a> (XLSX 437KB)</li>
+    <li><a href='files/Info/Data%20quality%20approach.odt' onclick='linkClicked()'>Data quality approach</a> (ODT 1.76MB)</li>
 </ol>
 
 Videos
