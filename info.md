@@ -10,16 +10,7 @@ The resources in this section explain the purpose of the LLC service, what suppo
     <li><a href='files/Migration/Getting%20your%20service%20ready/Information%20to%20support%20your%20business%20case.pdf' onclick='linkClicked()'>Information to support your business case</a> (PDF 107KB)</li>
     <li><a href='files/Outline%20Business%20Case%20for%20LAs%20commencing%20LLC%20digitisation.docx' onclick='linkClicked()'>Outline Business case for Local Authorities commencing LLC digitisation</a> (DOCX 46KB)</li>
     <li><a href='files/Annex%20A%20-%20HMLR%20support%20for%20LAs.pdf' onclick='linkClicked()'>Annex to the Outline Business case: HM Land Registry support available to Local Authorities</a> (PDF 749KB)</li>
-    <li><a href='files/Info/Updated%20New%20burdens%20information%20.pdf' onclick='linkClicked()'>New Burdens information</a> (PDF 40KB)</li>
- 
-    
-    
-    
-{: .heading-small}
-LLC flyers
-   
-    
-    
+    <li><a href='files/Info/Updated%20New%20burdens%20information%20.pdf' onclick='linkClicked()'>New Burdens information</a> (PDF 40KB)</li>  
   <li><a href='files/Info/HM%20Land%20registry%20LA%20Engagement.pdf' onclick='linkClicked()'>Benefits to local authorities</a> (PDF 2.17MB)</li> 
    <li><a href='files/Info/LLC%20benefits%20to%20customers.pdf' onclick='linkClicked()'>Benefits to customers </a> (PDF 2.17MB)</li> 
    <li><a href='files/Info/New%20burdens%20product%20card_16052022.pdf' onclick='linkClicked()'>New Burdens summary</a> (PDF 40KB)</li>
