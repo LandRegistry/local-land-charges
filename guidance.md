@@ -5,6 +5,9 @@ title: Guidance
 
 General guidance for registering local land charges. 
 
+<li><a href='files/Info/Options%20for%20updating%20the%20register%20in%20live%20service.odt' onclick='linkClicked()'>Options for updating the register in live service</a> (ODT 32KB)</li>
+
+
 {: .heading-large}
 <h2>Videos</h2>
 
