@@ -75,4 +75,5 @@ Videos
 <ol class='list list-number' start='4'>
     <li><a href='files/Migration/Post-migration%20guidance/Becoming%20a%20Local%20Land%20Charges%20advocate.mp4' onclick='linkClicked()'>Becoming a Local Land Charges advocate</a> (MP4 4 minutes 29 seconds)</li>
     <li><a href='https://www.youtube.com/watch?v=6oNL_HZyyj4' onclick='linkClicked()'>Using the user interface (UI) to update the register</a> (6 minutes 25 seconds)</li>
+    <li><a href='files/Info/Options%20for%20updating%20the%20register%20in%20live%20service.odt' onclick='linkClicked()'>Options for updating the register in live service</a> (ODT 32KB)</li>
 </ol>
