@@ -46,7 +46,7 @@ Videos
  <li><a href='files/Communications/LLC%20product%20card_payments_24052022.pdf' onclick='linkClicked()'>The transition payments scheme</a></li>
  <li><a href='files/Info/New%20burdens%20product%20card_16052022.pdf' onclick='linkClicked()'>New Burdens summary</a> (PDF 40KB)</li>
  <li><a href='files/Info/Introduction%20to%20our%20agreements.pdf' onclick='linkClicked()'>Introduction to our agreements</a> (PDF 100KB)</li>
- <li><a href='files/Info/Our%20new%20Delivery%20Partners%20and%20the%20incumbent%20Delivery%20Partners%20Services.pdf' onclick='linkClicked()'>Our new Delivery Partners and the incumbent Delivery Partners services</a> (PDF 100KB)</li>
+ <li><a href='files/Info/Our%20new%20Delivery%20Partners%20and%20the%20incumbent%20Delivery%20Partners%20Services.pdf' onclick='linkClicked()'> The work of the Migration Services and incumbent Delivery Partners</a> (PDF 100KB)</li>
 <li><a href='files/Info/HM%20Land%20Registry%20LLC%20LA%20Regional%20Events%20Slides.pdf' onclick='linkClicked()'>LLC/LA Regional September 2022 Events (Slides) </a> (PDF 100KB)</li>
 
 
