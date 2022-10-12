@@ -4,16 +4,6 @@ title: Communications
 --- 
 
 {: .heading-large}
-<h2>Transition payments</h2>
-
-See our communications below regarding the introduction of our transition payments scheme.
-
-<ol class='list list-number'>
-    <li><a href='files/Communications/CST%20letter%20.pdf' onclick='linkClicked()'>Confirmation of payments by HM Treasury</a></li>
-    <li><a href='files/Communications/LLC%20product%20card_payments_24052022.pdf' onclick='linkClicked()'>The transition payments scheme</a></li>
-</ol>
-
-{: .heading-large}
 <h2>Newsletters</h2>
 
 Read our monthly programme newsletters. If you would like to be added to our mailing list, please contact our <a href="mailto:llcproject@landregistry.gov.uk">team inbox</a>.
@@ -47,6 +37,20 @@ In these blogs, we talk about the LLC programme, the work involved in migrating 
 <ol class='list list-bullet'>
      <li><a href='files/Communications/How%20technology%20is%20supporting%20HM%20Land%20Registry.pdf' onclick='linkClicked()'>How technology is supporting HM Land Registry</a> - Mark Edwards, Service Manager</li>
 </ol>
+
+
+
+{: .heading-large}
+<h2>Transition payments</h2>
+
+See our communications below regarding the introduction of our transition payments scheme.
+
+<ol class='list list-number'>
+    <li><a href='files/Communications/CST%20letter%20.pdf' onclick='linkClicked()'>Confirmation of payments by HM Treasury</a></li>
+    <li><a href='files/Communications/LLC%20product%20card_payments_24052022.pdf' onclick='linkClicked()'>The transition payments scheme</a></li>
+</ol>
+
+
 
 {: .heading-large}
 <h2>Archived newsletters</h2>
