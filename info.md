@@ -16,6 +16,8 @@ The resources in this section explain the purpose of the LLC service, what suppo
 </ol>
 
 
+
+
 {: .heading-small}
 Migration and me
 
@@ -24,12 +26,15 @@ Migration and me
 <li><a href='files/Info/How%20migration%20affects%20the%20Local%20Land%20Charges%20Officer%E2%80%99s%20role.pdf' onclick='linkClicked()'>How migration affects the LLC Officer’s role</a> (PDF 64KB)</li>
 
 
+
+
 {: .heading-small}
 Videos
 
 <ol class='list list-number'>
     <li><a href='files/Info/LLCO%20Narrated%20Video.mp4' onclick='linkClicked()'>Local Land Charges Officer role – as told by one of our advocates</a> (MP4 4 minutes 29 seconds)</li>
 </ol>
+
 
 
 {: .heading-large}
