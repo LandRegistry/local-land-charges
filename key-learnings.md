@@ -7,7 +7,7 @@ The information on this page contains key learnings from the local authorities p
 
 
 {: .heading-medium}
-<h2>Digital LLC Data</h2>
+<h2>Digital LLC data</h2>
 <ol class='list list-number'>
     <li><a href='files/Key%20learnings/Watford%20Key%20Learnings%20FINAL.odt' onclick='linkClicked()'>Watford Borough Council</a> (ODT 32KB)</li>
     <li><a href='files/Key%20learnings/Lambeth%20.odt' onclick='linkClicked()'>Lambeth Borough Council</a> (ODT 34KB)</li>
@@ -17,13 +17,13 @@ The information on this page contains key learnings from the local authorities p
 </ol>
 
 {: .heading-medium}
-<h2>Electronic LLC Data</h2>
+<h2>Electronic LLC data</h2>
 <ol class='list list-number'>
     <li><a href='files/Key%20learnings/City%20of%20London%20Corporation%20case%20study.odt' onclick='linkClicked()'>City of London Corporation</a> (ODT 37KB)</li>
 </ol>
 
 {: .heading-medium}
-<h2>Hybrid LLC Data</h2>
+<h2>Hybrid LLC data</h2>
 <ol class='list list-number'>
      <li><a href='files/Key%20learnings/Milton%20Keynes%20Council.odt' onclick='linkClicked()'>Milton Keynes Council</a> (ODT 33KB)</li>
     <li><a href='files/Key%20learnings/Carlisle%20City%20Council.odt' onclick='linkClicked()'>Carlisle City Council</a> (ODT 33KB)</li>
@@ -33,7 +33,7 @@ The information on this page contains key learnings from the local authorities p
 </ol>
 
 {: .heading-medium}
-<h2>Paper-based LLC Data</h2>
+<h2>Paper-based LLC data</h2>
 <ol class='list list-number'>
     <li><a href='files/Key%20learnings/Council%20of%20the%20Isles%20of%20Scilly%20case%20study.odt' onclick='linkClicked()'>Council of the Isles of Scilly</a> (ODT 34KB)</li>
 </ol>
