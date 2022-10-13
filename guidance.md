@@ -9,7 +9,7 @@ General guidance for registering local land charges.
 <li><a href='files/Info/Search%20service%20new%20design.pdf' onclick='linkClicked()'>Improved LLC search service</a> (PDF 100KB)</li>
 
 {: .heading-small}
-<h2>Videos</h2>
+Videos
 
 <ol class='list list-number'>
     <li><a href='https://www.youtube.com/watch?v=RciSfxaBa-o' onclick='linkClicked()'>Searching for Local Land Charges on GOV.UK</a> (4 minutes 14 seconds)</li>
@@ -18,14 +18,14 @@ General guidance for registering local land charges.
 </ol>
 
 {: .heading-medium}
-<h2>Practice guide</h2>
+Practice guide
 <ol class='list list-number'>
     <li><a href='https://www.gov.uk/government/publications/local-land-charges-pg79' onclick='linkClicked()'>Local land charges (practice guide 79)</a></li>
 </ol>
 
 
 {: .heading-medium}
-<h2>Legislation</h2>
+Legislation
 <ol class='list list-number'>
     <li><a href='https://www.legislation.gov.uk/ukpga/1975/76/contents' onclick='linkClicked()'>LLC Act 1975 (as amended)</a></li>
     <li><a href='https://www.legislation.gov.uk/uksi/2018/273/contents/made' onclick='linkClicked()'>LLC Rules 2018</a></li>
