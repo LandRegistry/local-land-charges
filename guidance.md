@@ -2,12 +2,13 @@
 layout: page
 title: Guidance
 ---
+{: .heading-medium}
 General guidance for registering local land charges. 
 
 <ol class='list list-number'>
 <li><a href='files/Info/Search%20service%20new%20design.pdf' onclick='linkClicked()'>Improved LLC search service</a> (PDF 100KB)</li>
 
-
+{: .heading-small}
 <h2>Videos</h2>
 
 <ol class='list list-number'>
@@ -16,13 +17,14 @@ General guidance for registering local land charges.
     <li><a href='files/Guidance/Changes%20To%20Buying%20a%20House%20Native%20Video.mp4' onclick='linkClicked()'>How the Local Land Charges Programme will improve homebuying</a> (MP4 3 minutes 31 seconds)</li>
 </ol>
 
-
+{: .heading-medium}
 <h2>Practice guide</h2>
 <ol class='list list-number'>
     <li><a href='https://www.gov.uk/government/publications/local-land-charges-pg79' onclick='linkClicked()'>Local land charges (practice guide 79)</a></li>
 </ol>
 
 
+{: .heading-medium}
 <h2>Legislation</h2>
 <ol class='list list-number'>
     <li><a href='https://www.legislation.gov.uk/ukpga/1975/76/contents' onclick='linkClicked()'>LLC Act 1975 (as amended)</a></li>
