@@ -11,6 +11,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     
  
     
+{: .heading-small}
 2022
     
     
@@ -23,9 +24,10 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/LLC%20newsletter_APRIL%202022.pdf' onclick='linkClicked()'>April </a></li>
     <li><a href='files/Communications/LLC%20newsletter_MARCH%202022.pdf' onclick='linkClicked()'>March </a></li>
     <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>
-    
+   </ol> 
    
     
+{: .heading-small}
 2021
     
     
@@ -43,19 +45,20 @@ Read our monthly programme newsletters. If you would like to be added to our mai
 {: .heading-large}
 <h2>Case Studies</h2>
 
+<ol class='list list-number'>
 <li><a href='files/Communications/LLC_CASE%20STUDY_Tameside_291021.pdf' onclick='linkClicked()'>Tameside Council </a></li>
 <li><a href='files/Communications/OXBRIDGE%20CASE%20STUDY_%20east%20west%20rail%203_BEST%20(1).pdf' onclick='linkClicked()'>OxBridge Arc</a></li>
 <li><a href='files/Communications/CASE%20STUDY_LIVERPOOLCOUNCIL_vc.pdf' onclick='linkClicked()'>Liverpool Council </a></li>
 <li><a href='files/Communications/CASE%20STUDY_HS2_vb.pdf' onclick='linkClicked()'>HS2 </a></li>
 
-<ol class='list list-number'>
+
 
 </ol>
 
 {: .heading-large}
 <h2>Blog</h2>
 
-<ol class='list list-bullet'>
+<ol class='list list-number'>
      <li><a href='files/Communications/How%20technology%20is%20supporting%20HM%20Land%20Registry.pdf' onclick='linkClicked()'>How technology is supporting HM Land Registry</a> - Mark Edwards, Service Manager</li>
 </ol>
 
