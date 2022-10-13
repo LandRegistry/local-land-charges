@@ -15,7 +15,9 @@ The information on this page covers the technical requirements to help prepare y
     <li><a href='files/Info/Data%20quality%20approach.odt' onclick='linkClicked()'>Data quality approach</a> (ODT 1.76MB)</li>
 </ol>
 
+{: .heading-small}
 Videos
-<ol class='list list-number' start='7'>
+
+<ol class='list list-number' start='8'>
     <li><a href='https://www.youtube.com/watch?v=w9ZBruK5xCU&feature=youtu.be' onclick='linkClicked()'>How the Data Analysis Dashboard tool (DAD) can help you prepare for migration</a>(5 minutes 15 seconds)</li>
 </ol>
