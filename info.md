@@ -13,15 +13,15 @@ The resources in this section explain the purpose of the LLC service, what suppo
    <li><a href='files/Communications/CST%20letter%20.pdf' onclick='linkClicked()'>Confirmation of payments by HM Treasury</a></li>
    <li><a href='files/Info/Updated%20New%20burdens%20information%20.pdf' onclick='linkClicked()'>New Burdens information</a> (PDF 40KB)</li>  
  
+
+
+
+
+
+
+
 </ol>
-
-
-
-
-
-
-
-{: .heading-small}
+{: .heading-medium}
 Migration and me
 
 
