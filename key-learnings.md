@@ -5,7 +5,6 @@ title: Key learnings from completed local authority migrations
 
 The information on this page contains key learnings from the local authorities perspective for each completed migration to date.
 
-<li><a href='files/Info/An%20introduction%20to%20Lessons%20Learned%20from%20completed%20migrations%20.pdf' onclick='linkClicked()'>An introduction to Lessons Learnt from completed migrations</a> (PDF 2.17MB)</li>
 
 {: .heading-medium}
 <h2>Digital LLC Data</h2>
