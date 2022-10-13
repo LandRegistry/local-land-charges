@@ -55,6 +55,7 @@ Videos
  <li><a href='files/Info/New%20burdens%20product%20card_16052022.pdf' onclick='linkClicked()'>New Burdens summary</a> (PDF 40KB)</li>
  <li><a href='files/Info/Introduction%20to%20our%20agreements.pdf' onclick='linkClicked()'>Introduction to our agreements</a> (PDF 100KB)</li>
  <li><a href='files/Info/Our%20new%20Delivery%20Partners%20and%20the%20incumbent%20Delivery%20Partners%20Services.pdf' onclick='linkClicked()'> The work of the Migration Services and incumbent Delivery Partners</a> (PDF 100KB)</li>
+ <li><a href='files/Info/An%20introduction%20to%20Lessons%20Learned%20from%20completed%20migrations%20.pdf' onclick='linkClicked()'>An introduction to Lessons Learnt from completed migrations</a> (PDF 2.17MB)</li>
 <li><a href='files/Info/HM%20Land%20Registry%20LLC%20LA%20Regional%20Events%20Slides.pdf' onclick='linkClicked()'>LLC/LA Regional September 2022 Events (Slides) </a> (PDF 100KB)</li>
 </ol>
 
