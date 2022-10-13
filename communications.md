@@ -100,7 +100,7 @@ Register to watch our webinar recordings.
 <h2>Archived newsletters</h2>
 
   
-    {: .heading-small}
+{: .heading-small}
 2021
 
 <ol class='list list-number'>
@@ -113,7 +113,8 @@ Register to watch our webinar recordings.
   <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202021.pdf' onclick='linkClicked()'>January </a></li>
   </ol>  
     
-    {: .heading-small}
+    
+{: .heading-small}
 2020
 
  <ol class='list list-number' start='8'>
