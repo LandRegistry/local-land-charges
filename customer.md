@@ -5,6 +5,10 @@ title: Changes to how your search result looks
 
 Some of the search results may look a little different to those you have seen before. The following information is provided to answer common queries you may have when comparing search results obtained prior to the service moving to HM Land Registry’s LLC service. Please choose the relevant Local Authority area for your search results explanation.
 
+<ol class='list list-number'>
+    <li><a href='files/Info/Search%20service%20new%20design.pdf' onclick='linkClicked()'>Improved LLC search service</a> (PDF 100KB)</li>
+</ol>
+
 {: .heading-medium}
 <h2>Search result differences for:</h2>
 <ol class='list list-bullet'>
