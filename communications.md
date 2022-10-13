@@ -100,20 +100,26 @@ Register to watch our webinar recordings.
 <h2>Archived newsletters</h2>
 
 <ol class='list list-number'>
+  
+    {: .heading-small}
+2021
+  <li><a href='files/Communications/August%20Newsletter.pdf' onclick='linkClicked()'>August </a></li>
+    <li><a href='files/Communications/JULY%20newsletter%202021.pdf' onclick='linkClicked()'>July </a></li>
+  <li><a href='files/Communications/JUNE%20newsletter%202021.pdf' onclick='linkClicked()'>June </a></li>
+    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20May%202021.pdf' onclick='linkClicked()'>May </a></li>
+    <li><a href='files/Communications/April-21-Newsletter.pdf' onclick='linkClicked()'>April </a></li>
+    <li><a href='files/Communications/FEB%20newsletter%202021.pdf' onclick='linkClicked("February 2021")'>February </a></li>
+    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202021.pdf' onclick='linkClicked()'>January </a></li>
+  </ol>  
     
-  <li><a href='files/Communications/August%20Newsletter.pdf' onclick='linkClicked()'>August 2021</a></li>
-    <li><a href='files/Communications/JULY%20newsletter%202021.pdf' onclick='linkClicked()'>July 2021</a></li>
-  <li><a href='files/Communications/JUNE%20newsletter%202021.pdf' onclick='linkClicked()'>June 2021</a></li>
-    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20May%202021.pdf' onclick='linkClicked()'>May 2021</a></li>
-    <li><a href='files/Communications/April-21-Newsletter.pdf' onclick='linkClicked()'>April 2021</a></li>
-    <li><a href='files/Communications/FEB%20newsletter%202021.pdf' onclick='linkClicked("February 2021")'>February 2021</a></li>
-    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202021.pdf' onclick='linkClicked()'>January 2021</a></li>
-    <li><a href='files/Communications/NOV-DEC%20newsletter%202020.pdf' onclick='linkClicked()'>November/December 2020</a></li>
-    <li><a href='files/Communications/October%20LLC%20Final.pdf' onclick='linkClicked()'>October 2020</a></li>
-    <li><a href='files/Communications/email%20newsletter%20SEPT%202020.pdf' onclick='linkClicked()'>September 2020</a></li>
-    <li><a href='files/Communications/email%20newsletter%20AUG%202020.pdf' onclick='linkClicked()'>August 2020</a></li>
-    <li><a href='files/Communications/July%20Khub%20newsletter%20FINAL.pdf' onclick='linkClicked()'>July 2020</a></li>
-    <li><a href='files/Communications/KHub%20Newsletter%20-%20%20June%202020%20.pdf' onclick='linkClicked()'>June 2020</a></li>
-    <li><a href='files/Communications/May%20newsletter%20-%20FINAL.pdf' onclick='linkClicked()'>May 2020</a></li>
-    <li><a href='files/Communications/Khub%20Newsletter%20-%20MarchApril.pdf' onclick='linkClicked()'>April 2020</a></li>
+    {: .heading-small}
+2020
+    <li><a href='files/Communications/NOV-DEC%20newsletter%202020.pdf' onclick='linkClicked()'>November/December </a></li>
+    <li><a href='files/Communications/October%20LLC%20Final.pdf' onclick='linkClicked()'>October </a></li>
+    <li><a href='files/Communications/email%20newsletter%20SEPT%202020.pdf' onclick='linkClicked()'>September </a></li>
+    <li><a href='files/Communications/email%20newsletter%20AUG%202020.pdf' onclick='linkClicked()'>August </a></li>
+    <li><a href='files/Communications/July%20Khub%20newsletter%20FINAL.pdf' onclick='linkClicked()'>July </a></li>
+    <li><a href='files/Communications/KHub%20Newsletter%20-%20%20June%202020%20.pdf' onclick='linkClicked()'>June </a></li>
+    <li><a href='files/Communications/May%20newsletter%20-%20FINAL.pdf' onclick='linkClicked()'>May </a></li>
+    <li><a href='files/Communications/Khub%20Newsletter%20-%20MarchApril.pdf' onclick='linkClicked()'>April </a></li>
 </ol>
