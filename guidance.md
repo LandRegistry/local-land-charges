@@ -2,12 +2,9 @@
 layout: page
 title: Guidance
 ---
-{: .heading-medium}
+
 General guidance for registering local land charges. 
 
-<ol class='list list-number'>
-    <li><a href='files/Info/Search%20service%20new%20design.pdf' onclick='linkClicked()'>Improved LLC search service</a> (PDF 100KB)</li>
-</ol>
 
 {: .heading-small}
 Videos
