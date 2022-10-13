@@ -24,10 +24,10 @@ Migration and me
 
 
 
-
-<li><a href='files/Info/LLC%20and%20LAs%20roles%20and%20responsibilities%20template.pdf' onclick='linkClicked()'>Roles and responsibilities</a> (ODT 64KB)</li>
-<li><a href='files/Info/How%20migration%20affects%20the%20Local%20Land%20Charges%20Officer%E2%80%99s%20role.pdf' onclick='linkClicked()'>How migration affects the LLC Officer’s role</a> (PDF 64KB)</li>
-
+<ol class='list list-number'>
+ <li><a href='files/Info/LLC%20and%20LAs%20roles%20and%20responsibilities%20template.pdf' onclick='linkClicked()'>Roles and responsibilities</a> (ODT 64KB)</li>
+ <li><a href='files/Info/How%20migration%20affects%20the%20Local%20Land%20Charges%20Officer%E2%80%99s%20role.pdf' onclick='linkClicked()'>How migration affects the LLC Officer’s role</a> (PDF 64KB)</li>
+</ol>
 
 
 
@@ -41,10 +41,10 @@ Videos
 
 
 
-{: .heading-large}
+{: .heading-medium}
 <h2>LLC Flyers</h2>
 
-
+<ol class='list list-number'>
  <li><a href='files/Info/HM%20Land%20registry%20LA%20Engagement.pdf' onclick='linkClicked()'>Benefits to local authorities</a> (PDF 2.17MB)</li> 
  <li><a href='files/Info/LLC%20benefits%20to%20customers.pdf' onclick='linkClicked()'>Benefits to customers </a> (PDF 2.17MB)</li> 
  <li><a href='files/Communications/LLC%20product%20card_payments_24052022.pdf' onclick='linkClicked()'>The transition payments scheme</a></li>
@@ -52,8 +52,6 @@ Videos
  <li><a href='files/Info/Introduction%20to%20our%20agreements.pdf' onclick='linkClicked()'>Introduction to our agreements</a> (PDF 100KB)</li>
  <li><a href='files/Info/Our%20new%20Delivery%20Partners%20and%20the%20incumbent%20Delivery%20Partners%20Services.pdf' onclick='linkClicked()'> The work of the Migration Services and incumbent Delivery Partners</a> (PDF 100KB)</li>
 <li><a href='files/Info/HM%20Land%20Registry%20LLC%20LA%20Regional%20Events%20Slides.pdf' onclick='linkClicked()'>LLC/LA Regional September 2022 Events (Slides) </a> (PDF 100KB)</li>
-
-
-<ol class='list list-number'>
-
 </ol>
+
+
