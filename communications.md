@@ -7,14 +7,14 @@ title: Communications
 
 Read our monthly programme newsletters. If you would like to be added to our mailing list, please contact our <a href="mailto:llcproject@landregistry.gov.uk">team inbox</a>.
 
-<ol class='list list-number'>
+
     
  
-    
+</ol>     
 {: .heading-small}
 2022
     
-    
+ <ol class='list list-number'>   
     <li><a href='files/Communications/LLC%20newsletter%20OCTOBER%202022%20(1).pdf' onclick='linkClicked()'>October </a></li>
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_SEP%202022.pdf' onclick='linkClicked()'>September </a></li>
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_AUG%202022.pdf' onclick='linkClicked()'>August </a></li>
@@ -24,13 +24,14 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/LLC%20newsletter_APRIL%202022.pdf' onclick='linkClicked()'>April </a></li>
     <li><a href='files/Communications/LLC%20newsletter_MARCH%202022.pdf' onclick='linkClicked()'>March </a></li>
     <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>
-   </ol> 
+   
+</ol> 
    
     
 {: .heading-small}
 2021
     
-    
+  <ol class='list list-number' start='10'>  
     <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December </a></li>
     <li><a href='files/Communications/NOVEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>November </a></li>
     <li><a href='files/Communications/OCTnewsletter%202021.pdf' onclick='linkClicked()'>October </a></li>
