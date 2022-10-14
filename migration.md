@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Migration Hub
+title: Migration Process
 ---
 
 Use the materials and documents to migrate your Local Land Charges (LLC) service from your local authority to HM Land Registry’s digital register.
