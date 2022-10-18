@@ -10,7 +10,7 @@ The resources in this section explain the purpose of the LLC service, what suppo
     <li><a href='files/Migration/Getting%20your%20service%20ready/Information%20to%20support%20your%20business%20case.pdf' onclick='linkClicked()'>Information to support your business case</a> (PDF 107KB)</li>
     <li><a href='files/Outline%20Business%20Case%20for%20LAs%20commencing%20LLC%20digitisation.docx' onclick='linkClicked()'>Outline Business case for Local Authorities commencing LLC digitisation</a> (DOCX 46KB)</li>
     <li><a href='files/Annex%20A%20-%20HMLR%20support%20for%20LAs.pdf' onclick='linkClicked()'>Annex to the Outline Business case: HM Land Registry support available to Local Authorities</a> (PDF 749KB)</li>
-   <li><a href='files/Communications/CST%20letter%20.pdf' onclick='linkClicked()'>Confirmation of payments by HM Treasury</a></li>
+   <li><a href='files/Communications/CST%20letter%20.pdf' onclick='linkClicked()'>Announcement of the Transition payments by HM Treasury</a></li>
    <li><a href='files/Info/Updated%20New%20burdens%20information%20.pdf' onclick='linkClicked()'>New Burdens information</a> (PDF 40KB)</li>  
  </ol>
 
