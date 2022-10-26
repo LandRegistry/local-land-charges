@@ -36,6 +36,7 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Pendle%20Borough%20Council%2016.11.2021.pdf' onclick='linkClicked()'>Pendle Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Plymouth%20City%20Council%2007.01.2022.pdf' onclick='linkClicked()'>Plymouth City Council</a></li>
     <li><a href='files/LA%20business%20rules/Portsmouth%20Customer%20Document.pdf' onclick='linkClicked()'>Portsmouth City Council</a></li>
+    <li><a href='files/LA%20business%20rules/Richmondshire%20Customer%20Document%2026%20Oct%2022.pdf' onclick='linkClicked()'>Richmondshire District Council</a></li>
     <li><a href='files/LA%20business%20rules/Scarborough%20Borough%20Council%2029.11.2021.pdf' onclick='linkClicked()'>Scarborough Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Sevenoaks%20District%20Council%2027.04.2021.pdf' onclick='linkClicked()'>Sevenoaks District Council</a></li>
     <li><a href='files/LA%20business%20rules/Solihull%20Metropolitan%20Borough%20Council%2025.04.2022.pdf' onclick='linkClicked()'>Solihull Metropolitan Borough Council</a></li>
