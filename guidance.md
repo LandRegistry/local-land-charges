@@ -11,7 +11,8 @@ Videos
 
 <ol class='list list-number'>
     <li><a href='https://www.youtube.com/watch?v=RciSfxaBa-o' onclick='linkClicked()'>Searching for Local Land Charges on GOV.UK</a> (4 minutes 14 seconds)</li>
-    <li><a href='https://www.youtube.com/watch?v=h3G_vdLGUOc' onclick='linkClicked()'>Creating a national Local Land Charges Register</a> (1 minute 04 seconds)</li>
+    <li><a href='https://www.youtube.com/watch?v=h3G_vdLGUOc' onclick='linkClicked()'>Creating a national Local Land Charges Register (Welsh)</a> (1 minute 04 seconds)</li>
+    <li><a href='https://www.youtube.com/watch?v=6Xt13g0_nwE' onclick='linkClicked()'>Creating a national Local Land Charges Register (English)</a> (1 minute 04 seconds)</li>
     <li><a href='files/Guidance/Changes%20To%20Buying%20a%20House%20Native%20Video.mp4' onclick='linkClicked()'>How the Local Land Charges Programme will improve homebuying</a> (MP4 3 minutes 31 seconds)</li>
 </ol>
 
