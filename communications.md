@@ -30,16 +30,8 @@ Read our monthly programme newsletters. If you would like to be added to our mai
 </ol> 
    
     
-{: .heading-small}
-2021
     
-  <ol class='list list-number' start='10'>  
-    <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December </a></li>
-    <li><a href='files/Communications/NOVEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>November </a></li>
-   
-    
-    
-    
+       
     
     
     
@@ -107,6 +99,8 @@ Register to watch our webinar recordings.
 2021
 
 <ol class='list list-number'>
+ <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December </a></li>
+ <li><a href='files/Communications/NOVEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>November </a></li>   
  <li><a href='files/Communications/OCTnewsletter%202021.pdf' onclick='linkClicked()'>October </a></li>
   <li><a href='files/Communications/August%20Newsletter.pdf' onclick='linkClicked()'>August </a></li>
   <li><a href='files/Communications/JULY%20newsletter%202021.pdf' onclick='linkClicked()'>July </a></li>
