@@ -26,8 +26,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/LLC%20newsletter_MARCH%202022.pdf' onclick='linkClicked()'>March </a></li>
     <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>
     
-   
-</ol> 
+  
    
     
     
