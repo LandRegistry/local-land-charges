@@ -14,7 +14,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
 2022
     
  <ol class='list list-number'>   
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_DECEMBER%202022.pdf' onclick='linkClicked()'>November </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_DECEMBER%202022.pdf' onclick='linkClicked()'>December </a></li>
     <li><a href='files/Communications/LLC%20newsletter_NOVEMBER%202022.pdf' onclick='linkClicked()'>November </a></li>
     <li><a href='files/Communications/LLC%20newsletter%20OCTOBER%202022%20(1).pdf' onclick='linkClicked()'>October </a></li>
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_SEP%202022.pdf' onclick='linkClicked()'>September </a></li>
