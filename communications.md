@@ -26,16 +26,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/LLC%20newsletter_NOVEMBER%202022.pdf' onclick='linkClicked()'>November </a></li>
     <li><a href='files/Communications/LLC%20newsletter%20OCTOBER%202022%20(1).pdf' onclick='linkClicked()'>October </a></li>
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_SEP%202022.pdf' onclick='linkClicked()'>September </a></li>
-   
-    
-    
-  
-   
-    
-    
-       
-    
-    
+      
     
 </ol>
 
@@ -84,11 +75,7 @@ Register to watch our webinar recordings.
     <li><a href='https://register.gotowebinar.com/register/3466118454595895566' onclick='linkClicked()'>Pre-migration webinar</a> - June 2020 (2 hrs 46 mins)</li>
     <li><a href='files/Communications/Local%20authority%20migration%20experiences%20webinar%20%E2%80%93%20September%202020.pdf' onclick='linkClicked()'>Local authority migration experiences</a> - webinar slides (recording unavailable) September 2020 (PDF 1.6MB)</li>
     
-   
-    
-    
-    
-    
+     
     
     
     </ol>
