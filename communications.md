@@ -16,8 +16,9 @@ Read our monthly programme newsletters. If you would like to be added to our mai
  <ol class='list list-number'>   
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_JANUARY%202023_GG%20(002).pdf' onclick='linkClicked()'>January </a></li>
     
+
     
- {: .heading-small}
+{: .heading-small}
 2022
     
  <ol class='list list-number'> 
