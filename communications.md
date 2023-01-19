@@ -102,11 +102,24 @@ Register to watch our webinar recordings.
 <h2>Archived newsletters</h2>
 
   
+  
+  </ol>
+    
+{: .heading-small}
+2022
+
+<ol class='list list-number'>
+    
+<li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>   
+    
+
+  </ol>
+  
 {: .heading-small}
 2021
 
 <ol class='list list-number'>
- <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>   
+    
  <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December </a></li>
  <li><a href='files/Communications/NOVEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>November </a></li>   
  <li><a href='files/Communications/OCTnewsletter%202021.pdf' onclick='linkClicked()'>October </a></li>
