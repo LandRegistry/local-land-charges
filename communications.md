@@ -11,9 +11,16 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     
     
 {: .heading-small}
-2022
+2023
     
  <ol class='list list-number'>   
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_JANUARY%202023_GG%20(002).pdf' onclick='linkClicked()'>January </a></li>
+    
+    
+ {: .heading-small}
+2022
+    
+ <ol class='list list-number'> 
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_DECEMBER%202022%201.pdf' onclick='linkClicked()'>December </a></li>
     <li><a href='files/Communications/LLC%20newsletter_NOVEMBER%202022.pdf' onclick='linkClicked()'>November </a></li>
     <li><a href='files/Communications/LLC%20newsletter%20OCTOBER%202022%20(1).pdf' onclick='linkClicked()'>October </a></li>
@@ -24,7 +31,7 @@ Read our monthly programme newsletters. If you would like to be added to our mai
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_MAY%202022.pdf' onclick='linkClicked()'>May </a></li>
     <li><a href='files/Communications/LLC%20newsletter_APRIL%202022.pdf' onclick='linkClicked()'>April </a></li>
     <li><a href='files/Communications/LLC%20newsletter_MARCH%202022.pdf' onclick='linkClicked()'>March </a></li>
-    <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>
+    
     
   
    
@@ -98,6 +105,7 @@ Register to watch our webinar recordings.
 2021
 
 <ol class='list list-number'>
+ <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>   
  <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December </a></li>
  <li><a href='files/Communications/NOVEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>November </a></li>   
  <li><a href='files/Communications/OCTnewsletter%202021.pdf' onclick='linkClicked()'>October </a></li>
