@@ -49,7 +49,6 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/South%20Norfolk.pdf' onclick='linkClicked()'>South Norfolk Council</a></li>
     <li><a href='files/LA%20business%20rules/South%20Staffs%20customer%20document%20.pdf' onclick='linkClicked()'>South Staffordshire Council</a></li>
     <li><a href='files/LA%20business%20rules/Spelthorne%20Borough%20Council%2023.04.21.pdf' onclick='linkClicked()'>Spelthorne Borough Council</a></li>
-    <li><a href='files/LA%20business%20rules/Stockport%20Metropolitan%20Borough%20Council.pdf' onclick='linkClicked()'>Stockport Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Stockton-on-Tees%20Borough%20Council%2023.04.21.pdf' onclick='linkClicked()'>Stockton-on-Tees Borough Council</a></li> 
     <li><a href='files/LA%20business%20rules/Stratford%20District%20Council%20v3.pdf' onclick='linkClicked()'>Stratford-on-Avon District Council</a></li>
     <li><a href='files/LA%20business%20rules/Swansea%20City%20Council.pdf' onclick='linkClicked()'>Swansea City Council</a></li>
