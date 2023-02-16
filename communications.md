@@ -23,8 +23,9 @@ Read our monthly programme newsletters. If you would like to be added to our mai
 2023
     
  <ol class='list list-number'>   
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_JANUARY%202023_GG%20(002).pdf' onclick='linkClicked()'>January </a></li>
     <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_FEB%202023%20EDITION_GG%20(002).pdf' onclick='linkClicked()'>February </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_JANUARY%202023_GG%20(002).pdf' onclick='linkClicked()'>January </a></li>
+    
     
 </ol>
     
