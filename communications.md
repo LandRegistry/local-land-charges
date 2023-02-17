@@ -5,16 +5,17 @@ title: Communications
 
 {: .heading-large}
 <h2>Latest video</h2>
+
+<img src="static/img/YouTube_Thumbnail_Land_Registry_Chat.png" alt='Two people working on a screen with a title plan, with the text location data goes digital'>
+
 <a href='https://www.youtube.com/watch?v=lu7e7DJ5xNY'>Location Data's Going Digital | Move iQ People in Property Series</a> - December 2022 (32 mins)
 
 Programme Director Mark Kelso is in a panel interview with Channel 4’s property expert Phil Spencer to explain how the digital LLC Register is improving the property market in England and Wales. Also in the panel: Catherine Young, Head of Analysis and Data Strategy, Geospatial Commission, Andrew Trigg, Chief Geospatial and Data Officer, HM Land Registry and Carly Morris, Head of Geovation, Ordnance Survey.
 
-<img src="static/img/YouTube_Thumbnail_Land_Registry_Chat.png" alt='Two people working on a screen with a title plan, with the text location data goes digital'>
-
 {: .heading-large}
 <h2>Newsletters</h2>
 
-Read our monthly programme newsletters. If you would like to be added to our mailing list, please contact our <a href="mailto:llcproject@landregistry.gov.uk">team inbox</a>.
+Read our monthly programme newsletters. If you would like to subscribe to our newsletters, please join our <a href="https://public.govdelivery.com/accounts/UKGOVUK_LR/signup/35766">mailing list</a>.
 
 
     
