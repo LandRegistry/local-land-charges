@@ -8,7 +8,7 @@ The resources in this section explain the purpose of the LLC service, what suppo
 <ol class='list list-number'>
     <li><a href='https://www.gov.uk/government/publications/hm-land-registry-local-land-charges-programme/local-land-charges-programme' onclick='linkClicked()'>The Local Land Charges Programme on GOV.UK</a></li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/Information%20to%20support%20your%20business%20case.pdf' onclick='linkClicked()'>Information to support your business case</a> (PDF 107KB)</li>
-    <li><a href='files/Info/Outline%20Business%20Case%20for%20LAs%20commencing%20LLC%20digitisation%20(6).pdf' onclick='linkClicked()'> A business case outline for Local Authorities commencing LLC digitisation</a> (DOCX 46KB)</li>
+    <li><a href='files/Info/Outline%20Business%20Case%20for%20LAs%20commencing%20LLC%20digitisation%20(6).pdf' onclick='linkClicked()'> A business case outline for local authorities starting digitisation</a> (PDF 46KB)</li>
     <li><a href='files/Annex%20A%20-%20HMLR%20support%20for%20LAs.pdf' onclick='linkClicked()'>Annex to the outline business case: HM Land Registry support available to Local Authorities</a> (PDF 749KB)</li>
    <li><a href='files/Communications/CST%20letter%20.pdf' onclick='linkClicked()'>Announcement of the transition payments by HM Treasury</a></li>
    <li><a href='files/Info/Updated%20New%20burdens%20information%20.pdf' onclick='linkClicked()'>Information on new burdens</a> (PDF 40KB)</li>  
