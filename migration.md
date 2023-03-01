@@ -29,7 +29,7 @@ The information in this section is designed to help you get your service ready f
     <li><a href='files/Migration/Getting%20your%20service%20ready/Extent%20of%20change%20analysis%20tool.odt' onclick='linkClicked()'>Extent of change analysis tool</a> (ODT 11KB)</li>
     <li><a href='files/Migration/Getting%20your%20service%20ready/11.%20Migration%20Readiness%20Assessment%20tool.xlsx' onclick='linkClicked()'>Migration readiness assessment tool</a> (XLSX 25KB)</li>
     <li><a href='files/Info/Terms%20of%20collaboration%20.pdf' onclick='linkClicked()'>Terms of collaboration</a> (PDF 23KB)</li>
-    <li><a href='files/Migration/Delivering%20migration/Collaboration%20Agreement%20-%20(reviewed%20by%20LGA)%20updated%20March%202022%20.pdf' onclick='linkClicked()'>Terms of collaboration</a> (PDF 23KB)</li>
+    <li><a href='files/Migration/Delivering%20migration/Collaboration%20Agreement%20-%20(reviewed%20by%20LGA)%20updated%20March%202022%20.pdf' onclick='linkClicked()'>Collaboration Agreement</a> (PDF 23KB)</li>
 </ol>
 
 {: .heading-small}
