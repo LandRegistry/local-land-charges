@@ -27,7 +27,7 @@ Migration and me
 
 
 <ol class='list list-number'>
- <li><a href='files/Info/LLC%20and%20LAs%20roles%20and%20responsibilities%20template.pdf' onclick='linkClicked()'>Roles and responsibilities</a> (ODT 64KB)</li>
+ <li><a href='files/Info/LLC%20and%20LAs%20roles%20and%20responsibilities%20template.pdf' onclick='linkClicked()'>Roles and responsibilities</a> (PDF 64KB)</li>
  <li><a href='files/Info/How%20migration%20affects%20the%20Local%20Land%20Charges%20Officer%E2%80%99s%20role.pdf' onclick='linkClicked()'>How migration affects the LLC Officer’s role</a> (PDF 64KB)</li>
 </ol>
 
