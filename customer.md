@@ -43,6 +43,7 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Portsmouth%20Customer%20Document.pdf' onclick='linkClicked()'>Portsmouth City Council</a></li>
     <li><a href='files/LA%20business%20rules/Richmondshire%20Customer%20Document%20v0.2.pdf' onclick='linkClicked()'>Richmondshire District Council</a></li>
     <li><a href='files/LA%20business%20rules/Rutland%20County%20Council%20District%20Council%20Customer%20Document%20(002).pdf' onclick='linkClicked()'>Rutland County Council District Council</a></li>
+    <li><a href='files/LA%20business%20rules/Ryedale%20District%20Council%2024.03.2023.pdf onclick='linkClicked()'>Ryedale District Council</a></li>
     <li><a href='files/LA%20business%20rules/Scarborough%20Borough%20Council%2029.11.2021.pdf' onclick='linkClicked()'>Scarborough Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Sefton%20Council%20V2.pdf' onclick='linkClicked()'>Sefton Council</a></li>
     <li><a href='files/LA%20business%20rules/Selby%20District%20Council%2013.03.2023.pdf' onclick='linkClicked()'>Selby District Council</a></li>
