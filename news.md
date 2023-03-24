@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Communications
+title: News
 ---
 
 {: .heading-large}
