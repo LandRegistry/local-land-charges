@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Data preparation tools
+show_home_link: true
+main_nav_bar: true
 ---
 
 The information on this page covers the technical requirements to help prepare your data for migration to HM Land Registry’s LLC service. There are resources here to outline the uses of our Data Analysis Dashboard tool (DAD). 

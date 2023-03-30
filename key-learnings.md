@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Key learnings from completed local authority migrations
+show_home_link: true
+main_nav_bar: true
 ---
 
 The information on this page contains key learnings from the local authorities perspective for each completed migration to date.

@@ -1,8 +1,4 @@
-.header-custom{
-    width: max-content;
-}
-  
-.cookies-banner .button {
+  .cookies-banner .button {
     margin-bottom: 22px;
 }
   
@@ -39,3 +35,383 @@
 img {
     width: 100%;
 }
+
+.hmlr-logo {
+    filter: saturate(300%) grayscale(100%) brightness(64%) contrast(350%);
+    -webkit-filter: saturate(300%) grayscale(100%) brightness(64%) contrast(350%);
+    background-image: url(/local-land-charges/assets/hmlr-logo-grey.svg);
+    display: inline-block;
+    background-size: 172px 55px;
+    min-width: 172px;
+    padding-top: 65px;
+    text-align: center;
+    background-repeat: no-repeat;
+    white-space: nowrap;
+}
+
+.main-navbar {
+    margin: 0 auto;
+    height: 100%;
+    max-width: 990px;
+}
+
+.main-navbar-contents-container {
+    list-style-type: none;
+    border-top: 10px solid #789904;
+    border-bottom-color: #789904;
+}
+
+.main-navbar-contents-container li {
+    float: left;
+    padding: 10px 15px;
+}
+
+.main-navbar-contents-container li:first-child {
+    padding-left: 0;
+}
+
+.main-navbar-contents-container li a {
+    font-size: 1.85rem;
+    color: #000000;
+    text-decoration: none;
+}
+
+.main-navbar-contents-container li a:hover {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.main-navbar-contents-container li a:focus {
+    background-color: #fd0;
+    font-size: 1.85rem;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 700;
+    text-decoration: underline;
+    box-shadow: 0 -2px #fd0;
+}
+
+.clear-fix {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.main-navbar-container {
+    height: 3em;
+    background-color: #F8F8F8;
+    border-bottom: 1px solid #B1B4B6;
+    border-bottom-color: #B1B4B6;
+}
+
+@media (max-width: 766px){
+    .main-navbar-container {
+        height: 6em;
+    }
+}
+
+@media (max-width: 397px){
+    .main-navbar-container {
+        height: 9em;
+    }
+}
+
+.home-link {
+    font-size: 28px !important;
+    padding-left: 2em;
+    float: left;
+    padding-top: 0.5em;
+}
+
+.heading-logo {
+    float: left;
+}
+
+a:focus {
+    box-shadow: 0 -2px #fd0;
+    background-color: #fd0;
+    outline: white;
+    box-shadow: 0 -2px #fd0, 0 4px #0b0c0c;
+    text-decoration: none;
+}
+
+.main-navbar-contents-container li.nav-selected {
+    border-bottom: 5px solid #000000;
+    padding-bottom: 5px;
+}
+
+.tiled-link hr{
+    margin-bottom: 0.5em;
+}
+
+.tiled-link .heading-small{
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    margin-right: 1em;
+    text-decoration: underline;
+}
+
+.tiled-link {
+    padding-right: 1.6em;
+    position: relative;
+}
+
+.tile-table {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.tiled-link .heading-small:before {
+    border-right: 3px solid #1d70b8;
+    border-top: 3px solid #1d70b8;
+    content: "";
+    height: 7px;
+    position: absolute;
+    top: 2.25em;
+    left: 80%;
+    -webkit-transform: translateY(0) rotate(45deg) scale(1);
+    -ms-transform: translateY(0) rotate(45deg) scale(1);
+    transform: translateY(0) rotate(45deg) scale(1);
+    width: 7px;
+}
+
+@media (max-width: 550px) {
+    .tile-table {
+        grid-template-columns: 1fr;
+    }
+
+    .tiled-link {
+        width: 75%;
+    }
+
+    .tiled-link .heading-small {
+        width: 100%;
+    }
+
+    .tiled-link .heading-small:before {
+        left: 85%;
+    }
+}
+
+.tiled-link a:focus {
+    box-shadow: unset;
+    background-color: unset;
+    outline: unset;
+    box-shadow: unset;
+}
+
+.tiled-link a:focus .heading-small {
+    box-shadow: 0 -2px #fd0;
+    background-color: #fd0;
+    outline: none;
+    box-shadow: 0 -2px #fd0, 0 4px #0b0c0c;
+    text-decoration: none;
+}
+
+.tiled-link a:hover .heading-small:before {
+    border-right: 3px solid #2b8cc4;;
+    border-top: 3px solid #2b8cc4;;
+}
+
+.tiled-link span {
+    display: inline-block;
+}
+
+.tiled-link a:hover span {
+    color: #0b0c0c;
+}
+
+.tiled-link a:visted span {
+    color: #0b0c0c;
+}
+
+.tiled-link a span {
+    color: #0b0c0c;
+}
+
+.tiled-link .heading-small {
+    float: left;
+}
+
+.tiled-link a:hover icon {
+    filter: invert(42%) sepia(67%) saturate(641%) hue-rotate(159deg) brightness(98%) contrast(80%);
+    -webkit-filter: invert(42%) sepia(67%) saturate(641%) hue-rotate(159deg) brightness(98%) contrast(80%);
+}
+
+.tiled-link a:visited icon {
+    filter: invert(17%) sepia(67%) saturate(2499%) hue-rotate(247deg) brightness(89%) contrast(94%);
+    -webkit-filter: invert(17%) sepia(67%) saturate(2499%) hue-rotate(247deg) brightness(89%) contrast(94%);
+}
+
+.govuk-back-link {
+    color: #0b0c0c;
+    text-decoration: underline;
+    text-decoration-thickness: max(1px, 0.0625rem);
+    text-underline-offset: 0.1em;
+    display: inline-block;
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 0.875em;
+}
+
+.govuk-back-link:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0.1875em;
+    width: 0.4375em;
+    height: 0.4375em;
+    margin: auto 0;
+    -webkit-transform: rotate(225deg);
+    transform: rotate(225deg);
+    border: solid;
+    border-width: 1px 1px 0 0;
+    border-color: #505a5f;
+}
+
+.govuk-back-link:hover {
+    color: rgba(11,12,12,.99);
+}
+
+.govuk-back-link:hover {
+    color: rgba(11,12,12,.99);
+}
+.govuk-back-link:link, .govuk-back-link:visited {
+    color: #0b0c0c;
+}
+.govuk-back-link:hover {
+    text-decoration-thickness: max(3px, 0.1875rem, 0.12em);
+    -webkit-text-decoration-skip-ink: none;
+    text-decoration-skip-ink: none;
+    -webkit-text-decoration-skip: none;
+    text-decoration-skip: none;
+}
+
+.not-bold{
+    font-weight: 300;
+}
+
+.bold-big-numbers {
+    list-style-type: none;
+    counter-reset: ol-counter;
+}
+
+.bold-big-numbers .numbered-item:before {
+    font-size: 24px;
+    font-weight: 700;
+    content: counter(ol-counter)'. ';
+    counter-increment: ol-counter;
+    float: left;
+    line-height: 1.25;
+    padding-right: 0.2em;
+}
+
+@media (max-width: 640px) {
+    .bold-big-numbers .numbered-item:before {
+        font-family: "nta", Arial, sans-serif;
+        font-weight: 700;
+        text-transform: none;
+        font-size: 18px;
+        line-height: 1.2;
+    }
+}
+
+.list-indented {
+    padding-left: 3em;
+}
+
+.or-padding {
+    padding-left: 3em;
+}
+
+.two-joining-lists {
+    margin-bottom: unset;
+}
+
+.navbar-breadcrumbs-wrapper {
+    background-color: #263135;
+    color: #ffffff;
+}
+
+.navbar-breadcrumbs {
+    margin: 0 auto;
+    max-width: 965px;
+    position: relative;
+    padding-top: 1.2em;
+    padding-left: 15px;
+    border-top: 10px solid #789904;
+    border-bottom-color: #789904;
+}
+
+.navbar-breadcrumbs a {
+    color: #ffffff;
+}
+
+.navbar-breadcrumbs a:visited {
+    color: #ffffff;
+}
+
+.navbar-breadcrumbs a:hover {
+    text-decoration-thickness: max(3px, 0.1875rem, 0.12em);
+}
+
+.breadcrumb-bar-wrapper h1.heading-xlarge {
+    color: #ffffff;
+    margin-top: unset;
+    padding-top: 0.5em;
+    margin-bottom: 0.25em;
+}
+
+.breadcrumb-bar-wrapper {
+    background-color: #263135;
+}
+
+.breadcrumb-bar {
+    color: #ffffff;
+    margin: 0 auto;
+    max-width: 970px;
+    padding-bottom: 1em;
+    padding-left: 15px;
+}
+
+.no-margin#content {
+    margin: 0;
+    max-width: unset;
+}
+
+.width-container {
+    max-width: 990px;
+    margin: 0 auto;
+}
+
+.width-container .column-two-thirds {
+    float: unset;
+}
+
+.navbar-breadcrumbs li:not(:first-child) a:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0.45em;
+    left: -1.2em;
+    width: 0.4375em;
+    height: 0.4375em;
+    margin: auto 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    border: solid;
+    border-width: 1px 1px 0 0;
+    border-color: #ffffff;
+}
+
+.navbar-breadcrumbs li {
+    position: relative;
+    display: inline;
+    padding-right: 1.3em;
+}
+
+

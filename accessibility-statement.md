@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Accessibility statement for HMLR -  Local Land Charges Migration Hub Service
+show_home_link: true
+main_nav_bar: true
 ---
 
 This website is run by HM Land Registry.  We want as many people as possible to be able to use this website.  For example, that means you should be able to:

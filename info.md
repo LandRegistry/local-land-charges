@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Information to help your migration 
+title: Information to help your migration
+show_home_link: true
+main_nav_bar: true
 ---
 
 The resources in this section explain the purpose of the LLC service, what support you can get from HM Land Registry and more about your role in migrating your data. All of the documents and links below contain information only and require no direct action from you. 

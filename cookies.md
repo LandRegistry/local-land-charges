@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Cookies
+show_home_link: true
+main_nav_bar: true
 ---
 
 <span class="bold-small">HM Land Registry</span> puts small files (known as 'cookies') onto your computer. These files collect information about how you use our service

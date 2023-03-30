@@ -1,6 +1,8 @@
 ---
 layout: page
 title: News
+show_home_link: true
+main_nav_bar: true
 ---
 
 {: .heading-large}
