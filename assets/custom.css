@@ -414,4 +414,84 @@ a:focus {
     padding-right: 1.3em;
 }
 
+.accordian-icon {
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    width: 1.25rem;
+    height: 1.25rem;
+    border: 0.0625rem solid;
+    border-radius: 50%;
+    vertical-align: middle;
+}
 
+.accordian-icon.show {
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.accordian-icon.hide {
+    -webkit-transform: unset;
+    -ms-transform: unset;
+    transform: unset;
+}
+
+.accordian-icon:after {
+    content: "";
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    bottom: 0.3125rem;
+    left: 0.375rem;
+    width: 0.375rem;
+    height: 0.375rem;
+    -webkit-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    border-top: 0.125rem solid;
+    border-right: 0.125rem solid;
+}
+
+.accordian-item span {
+    position: relative;
+    font-size: 1.1875em;
+}
+
+.accordian-item button {
+    width: 100%;
+    padding: 10px 0 0 0;
+    border: 0;
+    border-top: 1px solid #b1b4b6;
+    border-bottom: 10px solid transparent;
+    color: #0b0c0c;
+    background: none;
+    text-align: left;
+    cursor: pointer;
+    -webkit-appearance: none;
+}
+
+.accordian-container.js-enabled {
+    border-bottom: 1px solid #b1b4b6;
+}
+
+.accordian-item button:hover {
+    color: #0b0c0c;
+    background: #f3f2f1;
+}
+
+.button-wrapper span {
+    color: #1d70b8;
+}
+
+.accordian-item button:hover span{
+    color: #0b0c0c;
+}
+
+.accordian-item button:hover .accordian-icon {
+    background-color: #000000;
+}
+
+.accordian-item button:hover .accordian-icon:after {
+    color: #ffffff;
+}

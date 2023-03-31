@@ -18,7 +18,7 @@ breadcrumbs: true
   <div class='breadcrumb-bar-wrapper'>
     <div class='breadcrumb-bar'>
       <h1 class="heading-xlarge">Getting ready for your migration</h1>
-      <p>Help to get yout service ready for migration to the HM Land Registry digital regsiter.</p>
+      <p>Help to get your service ready for migration to the HM Land Registry digital regsiter.</p>
     </div>
   </div>
   <div class='width-container'>
