@@ -4,64 +4,69 @@ function initialise() {
   let showAllButton = document.createElement('button')
   let showAllIcon = document.createElement('span')
   let showAllContent = document.createElement('span')
+  let showAllContentWrapper = document.createElement('span')
 
-  showAllIcon.setAttribute('class', 'accordian-icon show')
+  showAllIcon.setAttribute('class', 'accordion-icon show')
   showAllContent.textContent = 'Show all sections'
   showAllContent.setAttribute('class', 'show-all-content')
+  showAllButton.setAttribute('class', 'show-all-button')
+  showAllContentWrapper.setAttribute('class', 'accordion-content-wrapper')
 
   showAllButton.addEventListener('click', () => {
     if (showAllContent.textContent.startsWith('Show')) {
       showAllContent.textContent = 'Hide all sections'
-      $('.accordian-item').each(function () {
-        $('.accordian-content', this).show()
+      $('.accordion-item').each(function () {
+        $('.accordion-content', this).show()
         $('.show-hide-content', this).html('Hide')
-        $('accordian-icon', this).removeClass('show')
-        $('accordian-icon', this).addClass('hide')
+        $('accordion-icon', this).removeClass('show')
+        $('accordion-icon', this).addClass('hide')
       })
     } else {
       showAllContent.textContent = 'Show all sections'
-      $('.accordian-item').each(function () {
-        $('.accordian-content', this).hide()
+      $('.accordion-item').each(function () {
+        $('.accordion-content', this).hide()
         $('.show-hide-content', this).html('Show')
-        $('accordian-icon', this).removeClass('hide')
-        $('accordian-icon', this).addClass('show')
+        $('accordion-icon', this).removeClass('hide')
+        $('accordion-icon', this).addClass('show')
       })
     }
   })
 
-  showAllButton.append(showAllIcon, showAllContent)
+  showAllContentWrapper.append(showAllIcon, showAllContent)
+  showAllButton.append(showAllContentWrapper)
   showAllDiv.append(showAllButton)
 
-  $('.accordian-container').prepend(showAllDiv)
-  $('.accordian-container').addClass('js-enabled')
+  $('.accordion-container').prepend(showAllDiv)
+  $('.accordion-container').addClass('js-enabled')
 
-  $('.accordian-item').each(function () {
+  $('.accordion-item').each(function () {
     let hideShowContent = document.createElement('span')
     let hideShowIcon = document.createElement('span')
     let hideShowText = document.createElement('span')
-    let hiddenContent = $('.accordian-content', this)
+    let hiddenContent = $('.accordion-content', this)
 
-    hideShowIcon.setAttribute('class', 'accordian-icon show')
+    hideShowIcon.setAttribute('class', 'accordion-icon show')
     hideShowText.textContent = 'Show'
     hideShowText.setAttribute('class', 'show-hide-content')
+    hideShowContent.setAttribute('class', 'accordion-content-wrapper')
     hideShowContent.append(hideShowIcon, hideShowText)
-    accordianButton = document.createElement('button')
+    accordionButton = document.createElement('button')
     hiddenContent.hide()
 
     $('h3', this).after(hideShowContent)
-    $('.button-wrapper' ,this).wrapInner(accordianButton)
+    $('.button-wrapper' ,this).wrapInner(accordionButton)
 
     $('button', this).on('click', (event) => {
       if (hideShowText.textContent == 'Show') {
         hiddenContent.show()
         hideShowText.textContent = 'Hide'
-        hideShowIcon.setAttribute('class', 'accordian-icon hide')
-        $('.show-all-content').html(calculate_all_sections_content($('.accordian-item')))
+        hideShowIcon.setAttribute('class', 'accordion-icon hide')
+        $('.show-all-content').html(calculate_all_sections_content($('.accordion-item')))
       } else {
         hiddenContent.hide()
         hideShowText.textContent = 'Show'
-        hideShowIcon.setAttribute('class', 'accordian-icon show')
-        $('.show-all-content').html(calculate_all_sections_content($('.accordian-item')))
+        hideShowIcon.setAttribute('class', 'accordion-icon show')
+        $('.show-all-content').html(calculate_all_sections_content($('.accordion-item')))
       }         
     })
   })

@@ -414,38 +414,40 @@ a:focus {
     padding-right: 1.3em;
 }
 
-.accordian-icon {
+.accordion-icon {
     box-sizing: border-box;
     display: inline-block;
     position: relative;
-    width: 1.25rem;
-    height: 1.25rem;
+    width: 1.75rem;
+    height: 1.75rem;
     border: 0.0625rem solid;
     border-radius: 50%;
     vertical-align: middle;
+    margin-right: 0.2em;
+    margin-bottom: 0.2em;
 }
 
-.accordian-icon.show {
+.accordion-icon.show {
     -webkit-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     transform: rotate(180deg);
 }
 
-.accordian-icon.hide {
+.accordion-icon.hide {
     -webkit-transform: unset;
     -ms-transform: unset;
     transform: unset;
 }
 
-.accordian-icon:after {
+.accordion-icon:after {
     content: "";
     box-sizing: border-box;
     display: block;
     position: absolute;
     bottom: 0.3125rem;
-    left: 0.375rem;
-    width: 0.375rem;
-    height: 0.375rem;
+    left: 0.49rem;
+    width: 0.65rem;
+    height: 0.65rem;
     -webkit-transform: rotate(-45deg);
     -ms-transform: rotate(-45deg);
     transform: rotate(-45deg);
@@ -453,12 +455,12 @@ a:focus {
     border-right: 0.125rem solid;
 }
 
-.accordian-item span {
+.accordion-item span {
     position: relative;
-    font-size: 1.1875em;
+    font-size: 19px;
 }
 
-.accordian-item button {
+.accordion-item button {
     width: 100%;
     padding: 10px 0 0 0;
     border: 0;
@@ -471,27 +473,86 @@ a:focus {
     -webkit-appearance: none;
 }
 
-.accordian-container.js-enabled {
+.accordion-container.js-enabled {
     border-bottom: 1px solid #b1b4b6;
-}
-
-.accordian-item button:hover {
-    color: #0b0c0c;
-    background: #f3f2f1;
 }
 
 .button-wrapper span {
     color: #1d70b8;
 }
 
-.accordian-item button:hover span{
+.accordion-item button:hover span{
     color: #0b0c0c;
 }
 
-.accordian-item button:hover .accordian-icon {
+.accordion-item button:hover .accordion-icon {
     background-color: #000000;
 }
 
-.accordian-item button:hover .accordian-icon:after {
+.accordion-container.js-enabled button:hover .accordion-icon:after {
     color: #ffffff;
+}
+
+.show-all-button {
+    position: relative;
+    z-index: 1;
+    margin-bottom: 9px;
+    padding: 5px 2px 5px 0;
+    border-width: 0;
+    color: #1d70b8;
+    background: none;
+    cursor: pointer;
+}
+
+.accordion-container.js-enabled button:hover {
+    color: #0b0c0c;
+    background: #f3f2f1;
+}
+
+.show-all-content {
+    font-size: 19px;
+}
+
+.accordion-container.js-enabled button:hover .accordion-icon {
+    background-color: #000000;
+}
+
+.accordion-container.js-enabled button:focus .accordion-icon {
+    background-color: #000000;
+}
+
+.accordion-container.js-enabled button:focus {
+    color: #0b0c0c;
+}
+
+.accordion-container.js-enabled button:focus .accordion-icon:after{
+    color: #fd0;
+}
+
+.accordion-container.js-enabled button:focus {
+    outline: unset;
+}
+
+.accordion-container.js-enabled button:focus .accordion-content-wrapper {
+    background-color: #fd0;
+    box-shadow: 0 -2px #fd0, 0 4px #0b0c0c;
+    padding-top: 0.2em;
+}
+
+.accordion-container.js-enabled button:focus h3.heading-medium {
+    background-color: #fd0;
+    box-shadow: 0 -2px #fd0, 0 4px #0b0c0c;
+}
+
+.accordion-container.js-enabled button h3.heading-medium {
+    width: fit-content;
+}
+
+.accordion-item button:focus span{
+    color: #0b0c0c;
+}
+
+.accordion-content {
+    padding-top: 1em;
+    padding-bottom: 2em;
 }
