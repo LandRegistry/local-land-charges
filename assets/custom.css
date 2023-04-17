@@ -320,7 +320,7 @@ a:focus {
 }
 
 .list-indented {
-    padding-left: 3em;
+    padding-left: 2em;
 }
 
 .or-padding {
@@ -331,7 +331,7 @@ a:focus {
     margin-bottom: unset;
 }
 
-.navbar-breadcrumbs-wrapper {
+.navbar-breadcrumbs-wrapper-grey {
     background-color: #263135;
     color: #ffffff;
 }
@@ -346,12 +346,20 @@ a:focus {
     border-bottom-color: #789904;
 }
 
-.navbar-breadcrumbs a {
+.navbar-breadcrumbs-wrapper-grey .navbar-breadcrumbs a {
     color: #ffffff;
 }
 
-.navbar-breadcrumbs a:visited {
+.navbar-breadcrumbs-wrapper-grey .navbar-breadcrumbs a:visited {
     color: #ffffff;
+}
+
+.navbar-breadcrumbs-wrapper-grey .navbar-breadcrumbs a {
+    color: #000000;
+}
+
+.navbar-breadcrumbs a:visited {
+    color: #000000;
 }
 
 .navbar-breadcrumbs a:hover {
@@ -391,7 +399,7 @@ a:focus {
     float: unset;
 }
 
-.navbar-breadcrumbs li:not(:first-child) a:before {
+.navbar-breadcrumbs li:not(:first-child) a:before{
     content: "";
     display: block;
     position: absolute;
@@ -405,6 +413,9 @@ a:focus {
     transform: rotate(45deg);
     border: solid;
     border-width: 1px 1px 0 0;
+}
+
+.navbar-breadcrumbs-wrapper-grey .navbar-breadcrumbs li:not(:first-child) a:before {
     border-color: #ffffff;
 }
 
@@ -555,4 +566,74 @@ a:focus {
 .accordion-content {
     padding-top: 1em;
     padding-bottom: 2em;
+}
+
+.pagination-link {
+    position: relative;
+    text-decoration: none;
+}
+
+.pagination-link svg {
+    position: absolute;
+    top: 1.3em;
+}
+
+.pagination-wrapper {
+    padding-left: 2em;
+    display: grid;
+}
+
+.pagination-title {
+    font-weight: 800;
+    padding-bottom: 0.5em;
+    width: fit-content;
+}
+
+.pagination-label {
+    text-decoration: underline;
+    width: fit-content;
+}
+
+.pagination:hover {
+    background: #f3f2f1;
+}
+
+.pagination.next .pagination-wrapper {
+    padding-left: unset;
+}
+
+.pagination.next .pagination-link svg{
+    left: 13em;
+}
+
+.list-line li:before {
+    content: "—";
+    position: absolute;
+    left: 0;
+    width: 20px;
+    overflow: hidden;
+}
+
+.list-line li {
+    position: relative;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.heading-large.grey{
+    color: #6f777b;
+}
+
+.no-top-margin {
+    margin-top: unset;
+}
+
+.pagination-link:focus .pagination-title {
+    background-color: #fd0;
+}
+
+.pagination-link:focus .pagination-label {
+    background-color: #fd0;
+    box-shadow: 0 -2px #fd0, 0 4px #0b0c0c;
+    text-decoration: none;
 }

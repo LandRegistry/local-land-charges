@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Getting ready for your migration
+title: Our support
 show_home_link: true
 breadcrumbs: true
 ---
-<div class='navbar-breadcrumbs-wrapper'>
+<div class='navbar-breadcrumbs-wrapper-grey'>
   <div class='navbar-breadcrumbs'>
     <ol>
       <li><a href='/local-land-charges/'>Home</a></li>
@@ -26,8 +26,8 @@ breadcrumbs: true
     <div class='column-two-thirds'>
       <h2 class='heading-medium'>Check what help you can get</h2>
       <ol>
-        <li><a href='support'>Support for Local Authorities</a></li>
-        <li><a href='#'>Roles and responsibilites</a></li>
+        <li><a href='support-for-la'>Support for Local Authorities</a></li>
+        <li><a href='roles-la'>Roles and responsibilites</a></li>
       </ol>
       <hr>
     </div>
