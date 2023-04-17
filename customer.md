@@ -22,14 +22,11 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Chelmsford%20Customer%20Information.pdf' onclick='linkClicked()'>Chelmsford City Council</a></li>
     <li><a href='files/LA%20business%20rules/Cheltenham%20Customer%20Document%20(002).pdf' onclick='linkClicked()'>Cheltenham Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/City%20Of%20Lincoln%20Customer%20Document.pdf' onclick='linkClicked()'>City of Lincoln Council</a></li>
-    <li><a href='files/LA%20business%20rules/Craven%20District%20Council%2029.03.2023.pdf' onclick='linkClicked()'>Craven District Council</a></li>
     <li><a href='files/LA%20business%20rules/Dudley%20Metropolitan%20Borough%20Council%2008.07.2021.pdf' onclick='linkClicked()'>Dudley Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/East%20Cambridgeshire%20District%20Council.pdf' onclick='linkClicked()'>East Cambridgeshire District Council</a></li>
     <li><a href='files/LA%20business%20rules/Fenland%20Customer%20Document%20v0.1.pdf' onclick='linkClicked()'>Fenland District Council</a></li>
     <li><a href='files/LA%20business%20rules/Halton%20Borough%20Council%20Customer%20Document.pdf' onclick='linkClicked()'>Halton Borough Council</a></li>
-    <li><a href='files/LA%20business%20rules/Hambleton%20District%20Council%2026.10.2021.pdf' onclick='linkClicked()'>Hambleton District Council</a></li>
     <li><a href='files/LA%20business%20rules/Harborough%20District%20Council%2029.04.2022.pdf' onclick='linkClicked()'>Harborough District Council</a></li>
-    <li><a href='files/LA%20business%20rules/Harrogate%20Borough%20Council%2028.3.2023.pdf' onclick='linkClicked()'>Harrogate Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Isle%20of%20Wight%20Council.pdf' onclick='linkClicked()'>Isle of Wight Council</a></li>
     <li><a href='files/LA%20business%20rules/Knowsley%20Customer%20Document.pdf' onclick='linkClicked()'>Knowsley Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Enfield%20Customer%20Document%20v1.pdf' onclick='linkClicked()'>London Borough of Enfield Council</a></li>
@@ -46,13 +43,9 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Pendle%20Borough%20Council%2016.11.2021.pdf' onclick='linkClicked()'>Pendle Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Plymouth%20City%20Council%2007.01.2022.pdf' onclick='linkClicked()'>Plymouth City Council</a></li>
     <li><a href='files/LA%20business%20rules/Portsmouth%20Customer%20Document.pdf' onclick='linkClicked()'>Portsmouth City Council</a></li>
-    <li><a href='files/LA%20business%20rules/Richmondshire%20Customer%20Document%20v0.2.pdf' onclick='linkClicked()'>Richmondshire District Council</a></li>
     <li><a href='files/LA%20business%20rules/Rutland%20County%20Council%20District%20Council%20Customer%20Document%20(002).pdf' onclick='linkClicked()'>Rutland County Council District Council</a></li>
-    <li><a href='files/LA%20business%20rules/Ryedale%20District%20Council%2024.03.2023.pdf' onclick='linkClicked()'>Ryedale District Council</a></li>
     <li><a href='files/LA%20business%20rules/Salford%20Customer%20Document%20v0.1.pdf' onclick='linkClicked()'>Salford City Council</a></li>
-    <li><a href='files/LA%20business%20rules/Scarborough%20Borough%20Council%2029.11.2021.pdf' onclick='linkClicked()'>Scarborough Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Sefton%20Council%20V2.pdf' onclick='linkClicked()'>Sefton Council</a></li>
-    <li><a href='files/LA%20business%20rules/Selby%20District%20Council%2013.03.2023.pdf' onclick='linkClicked()'>Selby District Council</a></li>
     <li><a href='files/LA%20business%20rules/Sevenoaks%20District%20Council%2027.04.2021.pdf' onclick='linkClicked()'>Sevenoaks District Council</a></li>
     <li><a href='files/LA%20business%20rules/Solihull%20Metropolitan%20Borough%20Council%2025.04.2022.pdf' onclick='linkClicked()'>Solihull Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/South%20Norfolk.pdf' onclick='linkClicked()'>South Norfolk Council</a></li>
@@ -63,6 +56,13 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Stratford%20District%20Council%20v3.pdf' onclick='linkClicked()'>Stratford-on-Avon District Council</a></li>
     <li><a href='files/LA%20business%20rules/Swansea%20City%20Council.pdf' onclick='linkClicked()'>Swansea City Council</a></li>
     <li><a href='files/LA%20business%20rules/Tameside%2008.10.2021.pdf' onclick='linkClicked()'>Tameside Metropolitan Borough Council</a></li>
+    <li><a href='files/LA%20business%20rules/The%20North%20Yorkshire%20Council%20(Formerly%20Craven%20District%20Council).pdf' onclick='linkClicked()'>The North Yorkshire Council (Formerly Craven District Council)</a></li>
+    <li><a href='files/LA%20business%20rules/The%20North%20Yorkshire%20Council%20(Formerly%20Hambleton%20District%20Council).pdf' onclick='linkClicked()'>The North Yorkshire Council (Formerly Hambleton District Council)</a></li>
+    <li><a href='files/LA%20business%20rules/The%20North%20Yorkshire%20Council%20(Formerly%20Harrogate%20Borough%20Council).pdf' onclick='linkClicked()'>The North Yorkshire Council (Formerly Harrogate Borough Council)</a></li>
+    <li><a href='files/LA%20business%20rules/The%20North%20Yorkshire%20Council%20(Formerly%20Richmondshire%20District%20Council).pdf' onclick='linkClicked()'>The North Yorkshire Council (Formerly Richmondshire District Council)</a></li>
+    <li><a href='files/LA%20business%20rules/The%20North%20Yorkshire%20Council%20(Formerly%20Ryedale%20District%20Council).pdf' onclick='linkClicked()'>The North Yorkshire Council (Formerly Ryedale District Council)</a></li>
+    <li><a href='files/LA%20business%20rules/The%20North%20Yorkshire%20Council%20(Formerly%20Scarborogh%20Borough%20Council).pdf' onclick='linkClicked()'>The North Yorkshire Council (Formerly Scarborough Borough Council)</a></li>
+    <li><a href='files/LA%20business%20rules/The%20North%20Yorkshire%20Council%20(Formerly%20Selby%20District%20Council).pdf' onclick='linkClicked()'>The North Yorkshire Council (Formerly Selby District Council)</a></li>
     <li><a href='files/LA%20business%20rules/Welwyn%20Hatfield%20Borough%20Council.pdf' onclick='linkClicked()'>Welwyn Hatfield Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/West%20Suffolk%20Search%20Diff%20doc.pdf' onclick='linkClicked()'>West Suffolk Council</a></li>
 </ol>
