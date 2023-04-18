@@ -19,15 +19,15 @@ breadcrumbs: true
   <div class='breadcrumb-bar-wrapper'>
     <div class='breadcrumb-bar'>
       <h1 class="heading-xlarge">Our support</h1>
-      <p>Find out about our finacial support and your roles and responsibilites</p>
+      <p>Find out about our finacial support and your Roles and responsibilities</p>
     </div>
   </div>
   <div class='width-container'>
     <div class='column-two-thirds'>
       <h2 class='heading-medium'>Check what help you can get</h2>
       <ol>
-        <li><a href='support-for-la'>Support for Local Authorities</a></li>
-        <li><a href='roles-la'>Roles and responsibilites</a></li>
+        <li><a href='support-for-la'>Support for Local authorities</a></li>
+        <li><a href='roles-la'>Roles and responsibilities</a></li>
       </ol>
       <hr>
     </div>

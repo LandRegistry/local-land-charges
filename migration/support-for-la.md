@@ -17,12 +17,12 @@ breadcrumbs: true
 
 <main id='content'>
   <div class='column-two-thirds'>
-  <h1 class='heading-large'>Support for Local Authorities (LA)</h1>
+  <h1 class='heading-large'>Support for Local authorities (LA)</h1>
     <p>Find out what support is available to LAs when joining the local land charges (LLC) register.</p>
     <div class='accordion-container' id='accordion'>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h3 class='heading-medium'>Resouce support</h3>
+          <h3 class='heading-medium'>Resource support</h3>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Scanning and digitisation of non-digital data</span>
@@ -35,7 +35,7 @@ breadcrumbs: true
       </div>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h3 class='heading-medium'>Process improvment</h3>
+          <h3 class='heading-medium'>Process improvement</h3>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Removing non-digital data from your authority</span>
@@ -55,7 +55,7 @@ breadcrumbs: true
       </div>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h3 class='heading-medium'>Finacial support</h3>
+          <h3 class='heading-medium'>Financial support</h3>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Burdens payment</span>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Migration process
+title: Delivering your migration
 show_home_link: true
 breadcrumbs: true
 ---
@@ -15,7 +15,7 @@ breadcrumbs: true
 
 <main id='content'>
   <div class='column-two-thirds'>
-    <h1 class='heading-large'>Migration process</h1>
+    <h1 class='heading-large'>Delivering your migration</h1>
     <h2 class='heading-medium not-bold'>Find out what happens at each stage of your migration delivery.</h2>
     <ol class='step-by-step'>
       <li class='step-by-step-item'>
@@ -71,15 +71,15 @@ breadcrumbs: true
         <div class='step-by-step-content'>
           <p>A workshop is usually held to determine:</p>
           <ol class='list list-bullet list-indented'>
-            <li>How to respond to an LLC1 search request</li>
-            <li>How to manually create a charge</li>
-            <li>Semi-automatic creation of charge</li>
-            <li>Updating and cancelling charges</li>
-            <li>Charge inventory – current register parts and charge types</li>
+            <li>how to respond to an LLC1 search request</li>
+            <li>how to manually create a charge</li>
+            <li>semi-automatic creation of charge</li>
+            <li>updating and cancelling charges</li>
+            <li>charge inventory – current register parts and charge types</li>
             <li>IT systems – a look at key systems and any planned upgrades</li>
-            <li>Data quality – the presence of duplicates or PAI issues</li>
-            <li>Data completeness – missing spatial</li>
-            <li>Data sources – digital, electronic, paper</li>
+            <li>data quality – the presence of duplicates or PAI issues</li>
+            <li>data completeness – missing spatial</li>
+            <li>data sources – digital, electronic, paper</li>
           </ol>
           <p>The attendees at the workshop should be anyone who is involved in processing an LLC1 search request or can add value to the discussion of the topics listed above.</p>
           <p>Once all the relevant information has been determined, the Delivery Manager, along with the local authority, will create a delivery plan.</p>
@@ -99,11 +99,11 @@ breadcrumbs: true
           <p>The analysis starts after the first data extract and continues throughout the migration journey.</p>
           <p>Once it has been established that the implementation of business rules will benefit the local authority, the business analyst will work with them to determine which business rules are most applicable:</p>
           <ol class='list list-bullet list-indented two-joining-lists'>
-            <li>Global rules which are applicable to all local authorities</li>
+            <li>global rules which are applicable to all local authorities</li>
           </ol>
           <span class='bold or-padding'>or</span>
           <ol class='list list-bullet list-indented'>
-            <li>Local rules which are tailored to meet the specific needs of the individual local authority.</li>
+            <li>local rules which are tailored to meet the specific needs of the individual local authority.</li>
           </ol>
           <p>Business rules will be agreed upon with a local authority prior to being applied to their data.</p>
           <h4 class='heading-small'>Benefits</h4>
@@ -180,8 +180,8 @@ breadcrumbs: true
         <div class='step-by-step-content'>
           <p>There are two overarching key principles to the final product:</p>
           <ol class='list list-bullet list-indented'>
-            <li>Charges will all have a spatial extent. It will be a spatial register</li>
-            <li>Search results will be automatic – no human checks or fine-tuning before results are provided to the customer</li>
+            <li>charges will all have a spatial extent. It will be a spatial register</li>
+            <li>search results will be automatic – no human checks or fine-tuning before results are provided to the customer</li>
           </ol>
           <p>Therefore, in simple terms, the extent of change is how far away from this you currently are.</p>
           <p>This is also a good time to consider how you’d prefer the future service to work.</p>
