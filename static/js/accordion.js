@@ -1,33 +1,36 @@
-var a = null
-function initialise() {
+function initialise(type, hideButtonLocation) {
+  let selector = `.${type}-item`
+  let hiddenContentSelector = `.${type}-content`
+  showAllSuffix = type === 'accordion' ? 'sections': 'steps'
+  
   let showAllDiv = document.createElement('div')
   let showAllButton = document.createElement('button')
   let showAllIcon = document.createElement('span')
   let showAllContent = document.createElement('span')
   let showAllContentWrapper = document.createElement('span')
 
-  showAllIcon.setAttribute('class', 'accordion-icon show')
-  showAllContent.textContent = 'Show all sections'
+  showAllIcon.setAttribute('class', 'show-hide-icon show')
+  showAllContent.textContent = `Show all ${showAllSuffix}`
   showAllContent.setAttribute('class', 'show-all-content')
   showAllButton.setAttribute('class', 'show-all-button')
   showAllContentWrapper.setAttribute('class', 'accordion-content-wrapper')
 
   showAllButton.addEventListener('click', () => {
     if (showAllContent.textContent.startsWith('Show')) {
-      showAllContent.textContent = 'Hide all sections'
-      $('.accordion-item').each(function () {
-        $('.accordion-content', this).show()
+      showAllContent.textContent = `Hide all ${showAllSuffix}`
+      $(selector).each(function () {
+        $(hiddenContentSelector, this).show()
         $('.show-hide-content', this).html('Hide')
-        $('accordion-icon', this).removeClass('show')
-        $('accordion-icon', this).addClass('hide')
+        $('show-hide-icon', this).removeClass('show')
+        $('show-hide-icon', this).addClass('hide')
       })
     } else {
-      showAllContent.textContent = 'Show all sections'
-      $('.accordion-item').each(function () {
-        $('.accordion-content', this).hide()
+      showAllContent.textContent = `Show all ${showAllSuffix}`
+      $(selector).each(function () {
+        $(hiddenContentSelector, this).hide()
         $('.show-hide-content', this).html('Show')
-        $('accordion-icon', this).removeClass('hide')
-        $('accordion-icon', this).addClass('show')
+        $('show-hide-icon', this).removeClass('hide')
+        $('show-hide-icon', this).addClass('show')
       })
     }
   })
@@ -36,16 +39,21 @@ function initialise() {
   showAllButton.append(showAllContentWrapper)
   showAllDiv.append(showAllButton)
 
-  $('.accordion-container').prepend(showAllDiv)
-  $('.accordion-container').addClass('js-enabled')
+  if (type === 'accordion') {
+    $('.accordion-container').prepend(showAllDiv)
+    $('.accordion-container').addClass('js-enabled')
+  }
+  else {
+    $('.step-by-step').before(showAllDiv)
+  }
 
-  $('.accordion-item').each(function () {
+  $(selector).each(function () {
     let hideShowContent = document.createElement('span')
     let hideShowIcon = document.createElement('span')
     let hideShowText = document.createElement('span')
-    let hiddenContent = $('.accordion-content', this)
+    let hiddenContent = $(hiddenContentSelector, this)
 
-    hideShowIcon.setAttribute('class', 'accordion-icon show')
+    hideShowIcon.setAttribute('class', 'show-hide-icon show')
     hideShowText.textContent = 'Show'
     hideShowText.setAttribute('class', 'show-hide-content')
     hideShowContent.setAttribute('class', 'accordion-content-wrapper')
@@ -53,28 +61,23 @@ function initialise() {
     accordionButton = document.createElement('button')
     hiddenContent.hide()
 
-    $('h3', this).after(hideShowContent)
+    $(hideButtonLocation, this).after(hideShowContent)
     $('.button-wrapper' ,this).wrapInner(accordionButton)
 
     $('button', this).on('click', (event) => {
       if (hideShowText.textContent == 'Show') {
         hiddenContent.show()
         hideShowText.textContent = 'Hide'
-        hideShowIcon.setAttribute('class', 'accordion-icon hide')
-        $('.show-all-content').html(calculate_all_sections_content($('.accordion-item')))
+        hideShowIcon.setAttribute('class', 'show-hide-icon hide')
+        $('.show-all-content').html(calculate_all_sections_content($(selector)))
       } else {
         hiddenContent.hide()
         hideShowText.textContent = 'Show'
-        hideShowIcon.setAttribute('class', 'accordion-icon show')
-        $('.show-all-content').html(calculate_all_sections_content($('.accordion-item')))
+        hideShowIcon.setAttribute('class', 'show-hide-icon show')
+        $('.show-all-content').html(calculate_all_sections_content($(selector)))
       }         
     })
   })
-}
-
-
-window.onload = function() {
-  initialise()
 }
 
 function calculate_all_sections_content(elements) {
@@ -84,5 +87,5 @@ function calculate_all_sections_content(elements) {
       hide_number ++
     }
   })
-  return (hide_number == elements.length ? 'Hide all sections': 'Show all sections')
+  return (hide_number == elements.length ? `Hide all ${showAllSuffix}`: `Show all ${showAllSuffix}`)
 }

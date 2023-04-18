@@ -27,7 +27,7 @@ breadcrumbs: true
       <div class='tile-table'>
         <div class='tiled-link'>
           <hr>
-          <a href='#'>
+          <a href='before-migration'>
             <h2 class='heading-small'>Before your migration</h2>
             <span>Tools to help you work out if you're ready and prepared for migration</span>
           </a>
@@ -41,7 +41,7 @@ breadcrumbs: true
         </div>
         <div class='tiled-link'>
           <hr>
-          <a href='#'>
+          <a href='our-agreements'>
             <h2 class='heading-small'>Our agreements</h2>
             <span>Check our agreements</span>
           </a>

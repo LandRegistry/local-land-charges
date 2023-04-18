@@ -425,7 +425,7 @@ a:focus {
     padding-right: 1.3em;
 }
 
-.accordion-icon {
+.show-hide-icon {
     box-sizing: border-box;
     display: inline-block;
     position: relative;
@@ -438,19 +438,19 @@ a:focus {
     margin-bottom: 0.2em;
 }
 
-.accordion-icon.show {
+.show-hide-icon.show {
     -webkit-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     transform: rotate(180deg);
 }
 
-.accordion-icon.hide {
+.show-hide-icon.hide {
     -webkit-transform: unset;
     -ms-transform: unset;
     transform: unset;
 }
 
-.accordion-icon:after {
+.show-hide-icon:after {
     content: "";
     box-sizing: border-box;
     display: block;
@@ -471,17 +471,20 @@ a:focus {
     font-size: 19px;
 }
 
-.accordion-item button {
+.button-wrapper button {
     width: 100%;
     padding: 10px 0 0 0;
     border: 0;
-    border-top: 1px solid #b1b4b6;
     border-bottom: 10px solid transparent;
     color: #0b0c0c;
     background: none;
     text-align: left;
     cursor: pointer;
     -webkit-appearance: none;
+}
+
+.accordion-item button {
+    border-top: 1px solid #b1b4b6;
 }
 
 .accordion-container.js-enabled {
@@ -492,15 +495,15 @@ a:focus {
     color: #1d70b8;
 }
 
-.accordion-item button:hover span{
+.button-wrapper button:hover span{
     color: #0b0c0c;
 }
 
-.accordion-item button:hover .accordion-icon {
+.button-wrapper button:hover .show-hide-icon {
     background-color: #000000;
 }
 
-.accordion-container.js-enabled button:hover .accordion-icon:after {
+.button-wrapper button:hover .show-hide-icon:after {
     color: #ffffff;
 }
 
@@ -515,7 +518,12 @@ a:focus {
     cursor: pointer;
 }
 
-.accordion-container.js-enabled button:hover {
+.button-wrapper button:hover {
+    color: #0b0c0c;
+    background: #f3f2f1;
+}
+
+.show-all-button:hover {
     color: #0b0c0c;
     background: #f3f2f1;
 }
@@ -524,42 +532,86 @@ a:focus {
     font-size: 19px;
 }
 
-.accordion-container.js-enabled button:hover .accordion-icon {
+.button-wrapper button:hover .show-hide-icon {
     background-color: #000000;
 }
 
-.accordion-container.js-enabled button:focus .accordion-icon {
+.show-all-button:hover .show-hide-icon {
     background-color: #000000;
 }
 
-.accordion-container.js-enabled button:focus {
+.show-all-button button:hover {
+    color: #0b0c0c;
+    background: #f3f2f1;
+}
+
+.show-all-button:hover span{
     color: #0b0c0c;
 }
 
-.accordion-container.js-enabled button:focus .accordion-icon:after{
+.show-all-button:hover .show-hide-icon {
+    background-color: #000000;
+}
+
+.show-all-button:hover .show-hide-icon:after {
+    color: #ffffff;
+}
+
+.button-wrapper button:focus .show-hide-icon {
+    background-color: #000000;
+}
+
+.button-wrapper button:focus {
+    color: #0b0c0c;
+}
+
+.button-wrapper button:focus .show-hide-icon:after{
     color: #fd0;
 }
 
-.accordion-container.js-enabled button:focus {
+.show-all-button:hover .show-hide-icon {
+    background-color: #000000;
+}
+
+.show-all-button:focus .show-hide-icon {
+    background-color: #000000;
+}
+
+.show-all-button:focus {
+    color: #0b0c0c;
+}
+
+.show-all-button:focus .show-hide-icon:after{
+    color: #fd0;
+}
+
+.button-wrapper button:focus {
     outline: unset;
 }
 
-.accordion-container.js-enabled button:focus .accordion-content-wrapper {
+.button-wrapper button:focus .accordion-content-wrapper {
     background-color: #fd0;
     box-shadow: 0 -2px #fd0, 0 4px #0b0c0c;
     padding-top: 0.2em;
 }
 
-.accordion-container.js-enabled button:focus h3.heading-medium {
+.show-all-button:focus {
+    outline: unset;
+    background-color: #fd0;
+    box-shadow: 0 -2px #fd0, 0 4px #0b0c0c;
+    color: #0b0c0c;
+}
+
+.button-wrapper button:focus h3.heading-medium, .button-wrapper button:focus h2.heading-medium{
     background-color: #fd0;
     box-shadow: 0 -2px #fd0, 0 4px #0b0c0c;
 }
 
-.accordion-container.js-enabled button h3.heading-medium {
+.button-wrapper button h3.heading-medium,  .button-wrapper button h2.heading-medium{
     width: fit-content;
 }
 
-.accordion-item button:focus span{
+.button-wrapper button:focus span{
     color: #0b0c0c;
 }
 
@@ -620,7 +672,7 @@ a:focus {
     padding-right: 25px;
 }
 
-.heading-large.grey{
+.grey{
     color: #6f777b;
 }
 
@@ -636,4 +688,83 @@ a:focus {
     background-color: #fd0;
     box-shadow: 0 -2px #fd0, 0 4px #0b0c0c;
     text-decoration: none;
+}
+
+.pagination.next .pagination-link svg {
+    left: 15em;
+}
+
+.step-by-step > li {
+    position: relative;
+    padding-left: 3.75em;
+    padding-bottom: 1em;
+}
+
+.step-by-step .button-wrapper {
+    border-top: 1px solid #B1B4B6;
+}
+
+.step-by-step h2.heading-medium {
+    margin-top: unset;
+    padding-top: 0.5em;
+}
+
+.step-by-step .button-wrapper .number {
+    color: #000000;
+    position: absolute;
+    top: 0em;
+    left: 0em;
+    border: solid 1px #b1b4b6;
+    border-radius: 100px;
+    text-align: center;
+    width: 1.8421052632em;
+    height: 1.8421052632em;
+    font-weight: 800;
+    line-height: 2em;
+    z-index: 8;
+    background: #ffffff;
+    font-size: 19px;
+}
+
+.step-by-step > li:after {
+    content: "";
+    position: absolute;
+    z-index: 2;
+    width: 0;
+    height: 100%;
+    border-left: solid 1px #b1b4b6;
+    background: #ffffff;
+    left: 0;
+    margin-left: 0.92em;
+    top: 0;
+}
+
+.step-by-step > li:last-child:before {
+    content: "";
+    position: absolute;
+    z-index: 6;
+    bottom: 0;
+    left: 0;
+    margin-left: 0.5em;
+    width: 15px;
+    height: 0;
+    border-bottom: solid 1px #b1b4b6;
+    width: 17.5px;
+}
+
+.step-by-step .show-hide-content {
+    font-size: 19px;
+}
+
+.step-by-step .show-hide-icon {
+    font-size: 19px;
+}
+
+.inset-text {
+    border-left: 10px solid #b1b4b6;
+    padding: 15px;
+}
+
+.step-by-step {
+    margin-bottom: 1em;
 }

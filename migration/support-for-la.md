@@ -73,6 +73,11 @@ breadcrumbs: true
         </div>
       </div>
       <script src="/local-land-charges/static/js/accordion.js"></script>
+      <script>
+        window.onload = function() {
+          initialise('accordion', 'h3')
+        }
+      </script>
     </div>
   </div>
-<main>
+</main>
