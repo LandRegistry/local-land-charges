@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support for Local Authorities (LA)
+title: Support for local authorities (LA)
 show_home_link: true
 breadcrumbs: true
 ---
@@ -17,7 +17,7 @@ breadcrumbs: true
 
 <main id='content'>
   <div class='column-two-thirds'>
-  <h1 class='heading-large'>Support for Local authorities (LA)</h1>
+  <h1 class='heading-large'>Support for local authorities (LAs)</h1>
     <p>Find out what support is available to LAs when joining the local land charges (LLC) register.</p>
     <div class='accordion-container' id='accordion'>
       <div class='accordion-item'>

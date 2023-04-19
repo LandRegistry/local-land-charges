@@ -7,7 +7,7 @@ main_nav_bar: true
 
 Materials and documents to help you migrate your Local Land Charges (LLC) from your local authority to HM Land Registry's digital register.
 
-<a href='https://www.youtube.com/watch?v=8Ql7JtzB9ks' onclick='linkClicked()'>Watch a video</a> about our innovative LLC Register.
+<a href='https://www.youtube.com/watch?v=8Ql7JtzB9ks' onclick='linkClicked()'>Watch a video about our innovative LLC Register.</a>
 
 {: .heading-large}
 <h2><a href='info'>Information</a></h2>
@@ -15,7 +15,7 @@ Materials and documents to help you migrate your Local Land Charges (LLC) from y
 Information that shows you the purpose of the Local Land Charges service, what support you can get from HM Land Registry and more about your role in migrating data.
 
 {: .heading-large}
-<h2><a href='migration'>Migration Hub</a></h2>
+<h2><a href='migration'>Migration process</a></h2>
 
 Templates and guidance designed to help you get your service ready for migration to the Local Land Charges digital register. 
 

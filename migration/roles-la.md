@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Roles and responsibilities
+title: Local Authority (LA)
 show_home_link: true
 breadcrumbs: true
 ---
@@ -17,15 +17,15 @@ breadcrumbs: true
 
 <main id='content'>
   <div class='column-two-thirds'>
-    <h1 class='heading-large grey'>Roles and responsibilities</h1>
-    <h2 class='heading-medium no-top-margin'>Local Authority (LA)</h2>
+    <span class='heading-large grey'>Roles and responsibilities</span>
+    <h1 class='heading-medium no-top-margin'>Local Authority (LA)</h1>
     <ol class='list list-line'>
       <li>Local authority (LA)</li>
       <li><a href='roles-la'>HM Land Registry (HMLR)</a></li>
     </ol>
     <p>An overview of the different roles and actions taken during migration.</p>
     <br>
-    <h3 class='heading-small'>Senior Responsible Owner</h3>
+    <h2 class='heading-small'>Senior Responsible Owner</h2>
     <ol class='list list-bullet list-indent'>
       <li>Leads the strategic oversight of the migration</li>
       <li>Makes strategic decisions on behalf of the local authority</li>
@@ -35,7 +35,7 @@ breadcrumbs: true
       <li>Raises awareness of the support infrastructure provided by HMLR</li>
     </ol>
     <br>
-    <h3 class='heading-small'>Operational Lead</h3>
+    <h2 class='heading-small'>Operational Lead</h2>
     <ol class='list list-bullet list-indent'>
       <li>Primary contact within the local authority</li>
       <li>Works closely with the HMLR Delivery Manager</li>
@@ -45,7 +45,7 @@ breadcrumbs: true
       <li>Engages all necessary support functions as required</li>
     </ol>
     <br>
-    <h3 class='heading-small'>Local Land Charges Officer</h3>
+    <h2 class='heading-small'>Local Land Charges Officer</h2>
     <ol class='list list-bullet list-indent'>
       <li>Undertakes migration activities</li>
       <li>Responds to data-related queries</li>
@@ -53,7 +53,7 @@ breadcrumbs: true
       <li>Continues to deliver the LLC service through migration</li>
     </ol>
     <br>
-    <h3 class='heading-small'>IT Lead</h3>
+    <h2 class='heading-small'>IT Lead</h2>
     <ol class='list list-bullet list-indent'>
       <li>Enables extraction of data</li>
       <li>Provides information on IT architecture, software and processes</li>
@@ -61,24 +61,24 @@ breadcrumbs: true
       <li>Implements system-related upgrades</li>
     </ol>
     <br>
-    <h3 class='heading-small'>GIS Officer</h3>
+    <h2 class='heading-small'>GIS Officer</h2>
     <ol class='list list-bullet list-indent'>
       <li>Provides information on and access to spatial data</li>
     </ol>
     <br>
-    <h3 class='heading-small'>Planning Officer</h3>
+    <h2 class='heading-small'>Planning Officer</h2>
     <ol class='list list-bullet list-indent'>
       <li>Provides information on and access to planning data and processes</li>
       <li>Responds to data issue enquiries</li>
       <li>Effects amendments to local authority data</li>
     </ol>
     <br>
-    <h3 class='heading-small'>Legal</h3>
+    <h2 class='heading-small'>Legal</h2>
     <ol class='list list-bullet list-indent'>
       <li>Main contact for legal matters including consideration of the Collaboration Agreement and HR-related matters</li>
     </ol>
     <br>
-    <h3 class='heading-small'>Finance</h3>
+    <h2 class='heading-small'>Finance</h2>
     <ol class='list list-bullet list-indent'>
       <li>Provides information on financial charge-related data and processes</li>
       <li>Responds to data issue enquiries</li>

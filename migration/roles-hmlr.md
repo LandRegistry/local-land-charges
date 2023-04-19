@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Roles and responsibilities
+title: HM Land Registry (HMLR)
 show_home_link: true
 breadcrumbs: true
 ---
@@ -17,15 +17,15 @@ breadcrumbs: true
 
 <main id='content'>
   <div class='column-two-thirds'>
-    <h1 class='heading-large grey'>Roles and responsibilities</h1>
-    <h2 class='heading-medium no-top-margin'>HM Land Registry (HMLR)</h2>
+    <span class='heading-large grey'>Roles and responsibilities</span>
+    <h1 class='heading-medium no-top-margin'>HM Land Registry (HMLR)</h1>
     <ol class='list list-line'>
       <li><a href='roles-la'>Local authority (LA)</a></li>
       <li>HM Land Registry (HMLR)</li>
     </ol>
     <p>An overview of the different roles and actions taking during migraiton</p>
     <br>
-    <h3 class='heading-small'>Local Authority Delivery Manager</h3>
+    <h2 class='heading-small'>Local Authority Delivery Manager</h2>
     <ol class='list list-bullet list-indented'>
       <li>Main contact within the Programme</li>
       <li>Works closely with the local authority Operational Lead</li>
@@ -33,28 +33,28 @@ breadcrumbs: true
       <li>Coordinates with HMLR subject matter expertise</li>
     </ol>
     <br>
-    <h3 class='heading-small'>Customer Delivery Manager</h3>
+    <h2 class='heading-small'>Customer Delivery Manager</h2>
     <ol class='list list-bullet list-indented'>
       <li>Raises awareness of the Local Land Charges service with customers</li>
       <li>Leads launch event planning</li>
       <li>Account manages volume Local Land Charges customers</li>
     </ol>
     <br>
-    <h3 class='heading-small'>Business Analyst</h3>
+    <h2 class='heading-small'>Business Analyst</h2>
     <ol class='list list-bullet list-indented'>
       <li>Works with local authorities and suppliers to deliver digitisation and transformation of local authority data</li>
       <li>Undertakes analysis of local authority data to determine compatibility with HMLR’s LLC Register</li>
       <li>Works with local authority Local Land Charges teams and HMLR Local Authority Delivery Managers to enhance local authority data to meet HMLR’s LLC Register requirements</li>
     </ol>
     <br>
-    <h3 class='heading-small'>Data Quality Analyst</h3>
+    <h2 class='heading-small'>Data Quality Analyst</h2>
     <ol class='list list-bullet list-indented'>
       <li>Evaluates data output against pre-defined standards and data specifications</li>
       <li>Develops and reviews technical solutions to enable standardised quality assessments to be carried out against bulk data sets</li>
       <li>Assimilates and reports on output from quality assessments to give assurance quality is being maintained at the correct level</li>
     </ol>
     <br>
-    <h3 class='heading-small'>Technical Delivery Manager</h3>
+    <h2 class='heading-small'>Technical Delivery Manager</h2>
     <ol class='list list-bullet list-indented'>
       <li>Supports local authorities in the extraction of Local Land Charges</li>
       <li>Works closely with local authority IT Lead</li>
@@ -63,7 +63,7 @@ breadcrumbs: true
       <li>Works closely with the Local Authority Delivery Manager</li>
     </ol>
     <br>
-    <h3 class='heading-small'>Lawyer</h3>
+    <h2 class='heading-small'>Lawyer</h2>
     <ol class='list list-bullet list-indented'>
       <li>Provides legal support on policy, commercial and migration matters</li>
       <li>Primary Programme contact for Collaboration Agreement queries</li>

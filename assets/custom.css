@@ -118,9 +118,9 @@ img {
 
 .home-link {
     font-size: 28px !important;
-    padding-left: 2em;
+    margin-left: 2em;
     float: left;
-    padding-top: 0.5em;
+    margin-top: 0.5em;
 }
 
 .heading-logo {
@@ -167,8 +167,8 @@ a:focus {
     content: "";
     height: 7px;
     position: absolute;
-    top: 2.25em;
-    left: 80%;
+    top: 2.5em;
+    right: 1.75em;
     -webkit-transform: translateY(0) rotate(45deg) scale(1);
     -ms-transform: translateY(0) rotate(45deg) scale(1);
     transform: translateY(0) rotate(45deg) scale(1);
@@ -186,10 +186,6 @@ a:focus {
 
     .tiled-link .heading-small {
         width: 100%;
-    }
-
-    .tiled-link .heading-small:before {
-        left: 85%;
     }
 }
 
@@ -767,4 +763,12 @@ a:focus {
 
 .step-by-step {
     margin-bottom: 1em;
+}
+
+.list-links li:not(:first-child) {
+    margin-top: 0.4em;
+}
+
+span.heading-large.grey {
+    display: block
 }

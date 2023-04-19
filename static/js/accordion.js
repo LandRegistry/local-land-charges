@@ -19,18 +19,22 @@ function initialise(type, hideButtonLocation) {
     if (showAllContent.textContent.startsWith('Show')) {
       showAllContent.textContent = `Hide all ${showAllSuffix}`
       $(selector).each(function () {
+        let sectionHeading = $(hideButtonLocation, this).text().toLowerCase()
         $(hiddenContentSelector, this).show()
         $('.show-hide-content', this).html('Hide')
         $('show-hide-icon', this).removeClass('show')
         $('show-hide-icon', this).addClass('hide')
+        $('button', this).attr('aria-label', `Hide ${sectionHeading}`)
       })
     } else {
       showAllContent.textContent = `Show all ${showAllSuffix}`
       $(selector).each(function () {
+        let sectionHeading = $(hideButtonLocation, this).text().toLowerCase()
         $(hiddenContentSelector, this).hide()
         $('.show-hide-content', this).html('Show')
         $('show-hide-icon', this).removeClass('hide')
         $('show-hide-icon', this).addClass('show')
+        $('button', this).attr('aria-label', `Show ${sectionHeading}`)
       })
     }
   })
@@ -52,6 +56,7 @@ function initialise(type, hideButtonLocation) {
     let hideShowIcon = document.createElement('span')
     let hideShowText = document.createElement('span')
     let hiddenContent = $(hiddenContentSelector, this)
+    let sectionHeading = $(hideButtonLocation, this).text().toLowerCase()
 
     hideShowIcon.setAttribute('class', 'show-hide-icon show')
     hideShowText.textContent = 'Show'
@@ -59,6 +64,7 @@ function initialise(type, hideButtonLocation) {
     hideShowContent.setAttribute('class', 'accordion-content-wrapper')
     hideShowContent.append(hideShowIcon, hideShowText)
     accordionButton = document.createElement('button')
+    accordionButton.setAttribute('aria-label', `Show ${sectionHeading}`)
     hiddenContent.hide()
 
     $(hideButtonLocation, this).after(hideShowContent)
@@ -69,10 +75,12 @@ function initialise(type, hideButtonLocation) {
         hiddenContent.show()
         hideShowText.textContent = 'Hide'
         hideShowIcon.setAttribute('class', 'show-hide-icon hide')
+        $('button', this).attr('aria-label', `Hide ${sectionHeading}`)
         $('.show-all-content').html(calculate_all_sections_content($(selector)))
       } else {
         hiddenContent.hide()
         hideShowText.textContent = 'Show'
+        $('button', this).attr('aria-label', `Show ${sectionHeading}`)
         hideShowIcon.setAttribute('class', 'show-hide-icon show')
         $('.show-all-content').html(calculate_all_sections_content($(selector)))
       }         

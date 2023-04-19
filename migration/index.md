@@ -4,9 +4,6 @@ title: Migration process
 show_home_link: true
 main_nav_bar: true
 ---
-
-To make your delivery a success, you can use the:
-
 <div class='tile-table'>
     <div class='tiled-link'>
         <hr>

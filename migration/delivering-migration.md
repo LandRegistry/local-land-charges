@@ -180,7 +180,7 @@ breadcrumbs: true
         <div class='step-by-step-content'>
           <p>There are two overarching key principles to the final product:</p>
           <ol class='list list-bullet list-indented'>
-            <li>charges will all have a spatial extent. It will be a spatial register</li>
+            <li>charges will all have a spatial extent - it will be a spatial register</li>
             <li>search results will be automatic – no human checks or fine-tuning before results are provided to the customer</li>
           </ol>
           <p>Therefore, in simple terms, the extent of change is how far away from this you currently are.</p>

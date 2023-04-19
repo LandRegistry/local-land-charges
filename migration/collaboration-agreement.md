@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collaboration agreement
+title: Find out about the Collaboration Agreement (CA)
 show_home_link: true
 breadcrumbs: true
 ---
@@ -17,15 +17,15 @@ breadcrumbs: true
 
 <main id='content'>
   <div class='column-two-thirds'>
-    <h1 class='heading-large grey'>Collaboration agreement</h1>
-    <h2 class='heading-medium no-top-margin'>Find out about the Collaboration Agreement (CA)</h2>
+    <span class='heading-large grey'>Collaboration agreement</span>
+    <h1 class='heading-medium no-top-margin'>Find out about the Collaboration Agreement (CA)</h1>
     <ol class='list list-line'>
       <li>Find out about the Collaboration Agreement (CA)</li>
       <li><a href='terms-collaboration-agreement'>Check the Terms of Collaboration (ToC)</a></li>
     </ol>
-    <p>Information on the agreement between HM Land Registry (HMLR) and local authorities (LA’s).</p>
+    <p>Information on the agreement between HM Land Registry (HMLR) and local authorities (LAs).</p>
     <br>
-    <h3 class='heading-small'>What is it</h3>
+    <h2 class='heading-small'>What is it</h2>
     <p>This is an agreement between HMLR and an LA. The CA authorises the digitalisation of LA data. It then transfers the responsibility of local land charges (LLC) from the LA to HMLR.</p>
     <p>The CA means both parties agree to collaborate. This means HMLR becomes the registering authority for LLC. This is in accordance with Schedule 5 to the Infrastructure Act 2015 and sets out the respective rights and obligations of both parties.</p>
     <p>The Collaboration Agreement contains 2 Schedules:</p>
@@ -34,11 +34,11 @@ breadcrumbs: true
       <li>Schedule 2 – sets out the specific process for the transmission of the Authority Data to HMLR</li>
     </ol>
     <br>
-    <h3 class='heading-small'>When it is signed</h3>
+    <h2 class='heading-small'>When it is signed</h2>
     <p>We issue the CA during early engagement with the LA. They must complete it before sharing the data with HMLR.</p>
     <p>We recommend sharing the document early with the legal department in your LA.</p>
     <br>
-    <h3 class='heading-small'>What happens next</h3>
+    <h2 class='heading-small'>What happens next</h2>
     <p>The LA and HMLR work together to undertake a mobilisation meeting and agree a delivery plan. The CA is valid for 2 years before going live (with option to extend).</p>
     <p>This qualifies the LA for the initial transition payment and permits LA’s data to go live on HMLR’s register.</p>
     <div class='pagination next ca'>
