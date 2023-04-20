@@ -15,7 +15,7 @@ breadcrumbs: true
 
 <main id='content'>
   <div class='column-two-thirds'>
-    <h1 class='heading-large'>Delivering your migration</h1>
+    <h1 class='heading-large' id='top'>Delivering your migration</h1>
     <h2 class='heading-medium not-bold'>Find out what happens at each stage of your migration delivery.</h2>
     <ol class='step-by-step'>
       <li class='step-by-step-item'>
@@ -61,6 +61,7 @@ breadcrumbs: true
           <p>Early understanding of the type and volume of data improvement work that will need to be completed.</p>
           <p>Ability to plan resources to carry out the required data improvement work.</p>
           <p>Opportunity to have a regularly updated view of the condition of the digital data to show progress made.</p>
+          <a href='https://www.youtube.com/watch?v=w9ZBruK5xCU' target='_blank'>Find out how the data analysis dashboard works (opens in new tab)</a>
         </div>
       </li>
       <li class='step-by-step-item'>
@@ -192,6 +193,14 @@ breadcrumbs: true
         </div>
       </li>
     </ol>
+    <div class='back-top'>
+      <a href='#top'>
+        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17" aria-hidden="true" focusable="false">
+          <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+        </svg>
+        Back to top
+      </a>
+    </div>
     <script src="/local-land-charges/static/js/accordion.js"></script>
     <script>
       window.onload = function() {

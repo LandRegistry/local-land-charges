@@ -772,3 +772,12 @@ a:focus {
 span.heading-large.grey {
     display: block
 }
+
+.back-top svg {
+    float: left;
+    margin-right: 0.3em;
+}
+
+.back-top {
+    margin-top: 1.5em;
+}
