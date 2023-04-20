@@ -32,7 +32,7 @@ breadcrumbs: true
       <hr>
       <h2 class='heading-medium'>Preparing your business case</h2>
       <ol class='list-links'>
-        <li><a href='/files/Info/Outline%20Business%20Case%20for%20LAs%20commencing%20LLC%20digitisation%20(6).pdf ' onclick="linkClicked()">Download business case outline</a> (PDF, 8 pages, 245KB)</li>
+        <li><a href='/local-land-charges/files/Info/Outline%20Business%20Case%20for%20LAs%20commencing%20LLC%20digitisation%20(6).pdf ' onclick="linkClicked()">Download business case outline</a> (PDF, 8 pages, 245KB)</li>
       </ol>
       <hr>
       <h2 class='heading-medium'>Preparing your data</h2>
