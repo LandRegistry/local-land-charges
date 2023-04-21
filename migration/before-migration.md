@@ -19,7 +19,7 @@ breadcrumbs: true
   <div class='breadcrumb-bar-wrapper'>
     <div class='breadcrumb-bar'>
       <h1 class="heading-xlarge">Before your migration</h1>
-      <p>Tools to help you work out if you're ready and preapre for migration</p>
+      <p>Tools to help you work out if you're ready and prepare for migration</p>
     </div>
   </div>
   <div class='width-container'>
