@@ -19,7 +19,7 @@ breadcrumbs: true
   <div class='breadcrumb-bar-wrapper'>
     <div class='breadcrumb-bar'>
       <h1 class="heading-xlarge">Before your migration</h1>
-      <p>Tools to help you work out if you're ready and prepare for migration</p>
+      <p>Tools to help you work out if you're ready and prepare for migration.</p>
     </div>
   </div>
   <div class='width-container'>
@@ -37,7 +37,7 @@ breadcrumbs: true
       <hr>
       <h2 class='heading-medium'>Preparing your data</h2>
       <ol class='list-links'>
-        <li><a href='https://www.gov.uk/government/publications/local-land-charges-local-authority-pre-digitisation-and-migration-guide' target='_blank' onclick="linkClicked()">Preparing your data for the new digital register (opens in new tab)</a></li>
+        <li><a href='https://www.gov.uk/government/publications/local-land-charges-local-authority-pre-digitisation-and-migration-guide/local-land-charges-preparing-data-for-the-new-digital-register' target='_blank' onclick="linkClicked()">Preparing your data for the new digital register (opens in new tab)</a></li>
         <li><a href='extract-data'>How to extract your electronic and digital data</a></li>
         <li><a href='data-discovery'>How the initial data discovery process works</a></li>
         <li><a href='/local-land-charges/files/Migration/Getting%20your%20service%20ready/A%20detailed%20guide%20to%20extracting%20your%20electronic%20and%20digital%20data.mp4' onclick="linkClicked()">A detailed guide to extracting your electronic and digital data (opens in new tab)</a> (MP4, 3 minutes 25 seconds, 9.8MB)</li>

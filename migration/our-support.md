@@ -19,7 +19,7 @@ breadcrumbs: true
   <div class='breadcrumb-bar-wrapper'>
     <div class='breadcrumb-bar'>
       <h1 class="heading-xlarge">Our support</h1>
-      <p>Find out about our financial support and your Roles and responsibilities</p>
+      <p>Find out about our financial support and your Roles and responsibilities.</p>
     </div>
   </div>
   <div class='width-container'>
