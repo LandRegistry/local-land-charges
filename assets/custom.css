@@ -781,3 +781,11 @@ span.heading-large.grey {
 .back-top {
     margin-top: 1.5em;
 }
+
+.footer-meta-inner {
+    flex: 1;
+}
+
+.footer-meta {
+    display: flex;
+}
