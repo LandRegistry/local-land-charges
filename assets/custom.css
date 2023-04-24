@@ -51,6 +51,8 @@ img {
 
 .hmlr-logo.heading-logo {
     background-image: url(/local-land-charges/assets/hmlr-logo-white.svg);
+    filter: unset;
+    -webkit-filter: unset;
 }
 
 .main-navbar {
