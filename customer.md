@@ -62,6 +62,7 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/The%20North%20Yorkshire%20Council%20(Formerly%20Ryedale%20District%20Council).pdf' onclick='linkClicked()'>The North Yorkshire Council (Formerly Ryedale District Council)</a></li>
     <li><a href='files/LA%20business%20rules/The%20North%20Yorkshire%20Council%20(Formerly%20Scarborogh%20Borough%20Council).pdf' onclick='linkClicked()'>The North Yorkshire Council (Formerly Scarborough Borough Council)</a></li>
     <li><a href='files/LA%20business%20rules/The%20North%20Yorkshire%20Council%20(Formerly%20Selby%20District%20Council).pdf' onclick='linkClicked()'>The North Yorkshire Council (Formerly Selby District Council)</a></li>
+    <li><a href='files/LA%20business%20rules/Trafford%20Customer%20Information.pdf' onclick='linkClicked()'>Trafford Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Welwyn%20Hatfield%20Borough%20Council.pdf' onclick='linkClicked()'>Welwyn Hatfield Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/West%20Lindsey%20Customer%20Document.pdf' onclick='linkClicked()'>West Lindsey District Council</a></li>
     <li><a href='files/LA%20business%20rules/West%20Suffolk%20Search%20Diff%20doc.pdf' onclick='linkClicked()'>West Suffolk Council</a></li>
