@@ -49,6 +49,10 @@ img {
     white-space: nowrap;
 }
 
+.hmlr-logo.heading-logo {
+    background-image: url(/local-land-charges/assets/hmlr-logo-white.svg);
+}
+
 .main-navbar {
     margin: 0 auto;
     height: 100%;
