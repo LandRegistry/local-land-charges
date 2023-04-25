@@ -5,14 +5,19 @@ show_home_link: false
 main_nav_bar: true
 ---
 
-Materials and documents to help you migrate your Local Land Charges (LLC) from your local authority to HM Land Registry's digital register.
-
-<a href='https://www.youtube.com/watch?v=8Ql7JtzB9ks' onclick='linkClicked()'>Watch a video about our innovative LLC Register.</a>
+Use the Migration Hub to:
+<ol class='list list-bullet'>
+  <li>find out more about the local land charges (LLC) register</li>
+  <li>get information on the migration process</li>
+  <li>understand what support you can get from HM Land Registry</li>
+</ol>
 
 {: .heading-large}
-<h2><a href='info'>Information</a></h2>
-
-Information that shows you the purpose of the Local Land Charges service, what support you can get from HM Land Registry and more about your role in migrating data.
+<h2>Overview of the programme</h2>
+We have created a detailed video to give you an overview of the programme.
+<br>
+<br>
+<a href='https://www.youtube.com/watch?v=8Ql7JtzB9ks' onclick='linkClicked()' class='button-link'>Go to video</a>
 
 {: .heading-large}
 <h2><a href='migration'>Migration process</a></h2>
@@ -35,14 +40,9 @@ Learn from the local authorities that have completed their migration to the Loca
 Information videos and guidance for registering local land charges.
 
 {: .heading-large}
-<h2><a href='communications'>Communications</a></h2>
+<h2><a href='news'>News</a></h2>
 
 Read copies of our monthly programme newsletters and watch recordings of our previous webinar events. 
-
-{: .heading-large}
-<h2><a href='customer'>Customer</a></h2>
-
-For those using our service to search for Local Land Charges. Here you will find details of changes and enhancements to the results you may have previously experienced. 
 
 {: .heading-large}
 <h2>Contact us</h2>

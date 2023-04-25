@@ -70,6 +70,10 @@ breadcrumbs: true
           </ol>
           <p>HM Land Registry is paying existing local authority software suppliers for work to automate the process for updating through application programming interfaces (API) local authority systems. We will pay suppliers API maintenance for 3 years.</p>
           <p>If a local authority undertakes development of their own API integration instead of using one provided by a supplier, work done will form part of the burdens payments made within 3 months of migration.</p>
+          <span class='bold'>Transition payments</span>
+          <p>The transition payment will be in addition to the new burdens, which cover the cost a local authority may incur when migrating their data. This means the overall financial support available will be more than £40m.</p>
+          <p>The payment can be used by LA’s for resources, such as administrative support, equipment or services that will enable a smooth and timely migration.</p>
+          <p>Local authorities will receive two separate payments, when they achieve two key delivery milestones. The first payment will be issued when they sign their Delivery Plan and formally enter service migration. After the service goes live, they will receive the second final payment.</p>
         </div>
       </div>
       <script src="/local-land-charges/static/js/accordion.js"></script>

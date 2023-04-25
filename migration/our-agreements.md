@@ -19,7 +19,7 @@ breadcrumbs: true
   <div class='breadcrumb-bar-wrapper'>
     <div class='breadcrumb-bar'>
       <h1 class="heading-xlarge">Our agreements</h1>
-      <p>Check and get copies of our agreements</p>
+      <p>Check and get copies of our agreements.</p>
     </div>
   </div>
   <div class='width-container'>

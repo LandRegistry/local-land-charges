@@ -29,11 +29,15 @@ breadcrumbs: true
       <li><a href='#dataset'>A dataset designed to support local enterprise collaboration</a></li>
     </ol>
     <h2 class='heading-medium not-bold'>Understand the benefits of the migration process, to support making a business case.</h2>
+    <hr>
     <ol class='bold-big-numbers'>
       <li class='numbered-item'>
         <h3 class='heading-medium' id='streamlined'>A streamlined service delivering resource savings</h3>
         <h4 class='heading-small'>Efficiency</h4>
-        <p>We know from migrated LAs that the teams no longer have to process LLC search requests, which allows them to be deployed in other areas. Due to the high quality of the data, Contact Centre teams can handle more enquiries independently, enabling the officials to manage complex enquiries. Many migrated LAs have reported that internal processes have improved after being reviewed following migration. Asking questions about the flow of data identifies key improvements and offers senior staff an insight into pain points. Specific outcomes include:</p>
+        <p>We know from migrated LAs that the teams no longer have to process LLC search requests, which allows them to be deployed in other areas.</p>
+        <p>Due to the high quality of the data, Contact Centre teams can handle more enquiries independently, enabling the officials to manage complex enquiries. Many migrated LAs have reported that internal processes have improved after being reviewed following migration.</p>
+        <p>Asking questions about the flow of data identifies key improvements and offers senior staff an insight into pain points.</p>
+        <p>Specific outcomes include:</p>
         <ol class='list list-bullet list-indented'>
           <li>reduced turnaround times for CON29 searches post go-live</li>
           <li>triggered review of CON29 and other datasets</li>
@@ -44,9 +48,12 @@ breadcrumbs: true
         <h4 class='heading-small'>Service delivery</h4>
         <p>LLC data can be shared across different LA departments to help deliver services more effectively. For example, highways departments would have access to all highway enforcement entries or encroachments that exist and manage these more efficiently as part of their network management.</p>
         <h4 class='heading-small'>Data verification</h4>
-        <p>Free access to spatial data will allow staff to self-serve when answering queries, reducing the number of requests for information between departments. Quick and easy access to LLC data encourages wider use within LAs and increases its visibility among teams. This creates opportunities for new and streamlined ways of working that could produce unexpected resource and/or cost savings. Disparate departments within each LA can use this newly cleansed data to ensure each dataset is as accurate as possible and could provide the option to enhance by providing spatial extents.</p>
+        <p>Free access to spatial data will allow staff to self-serve when answering queries, reducing the number of requests for information between departments.</p>
+        <p>Quick and easy access to LLC data encourages wider use within LAs and increases its visibility among teams. This creates opportunities for new and streamlined ways of working that could produce unexpected resource and/or cost savings.</p>
+        <p>Disparate departments within each LA can use this newly cleansed data to ensure each dataset is as accurate as possible and could provide the option to enhance by providing spatial extents.</p>
         <h4 class='heading-small'>API</h4>
-        <p>HMLR and Nationwide have developed an API for lenders that assesses LLC data at the first instance of a lending application that unlocks additional benefits and provides greater certainty to lenders for lending on properties affected by certain charge types. This work underpins the LLC business case and the HMLR spending review submissions which details a net present value return to the economy of £3 billion over a 20-year appraisal period.</p>
+        <p>HMLR and Nationwide have developed an API for lenders that assesses LLC data at the first instance of a lending application that unlocks additional benefits and provides greater certainty to lenders for lending on properties affected by certain charge types.</p>
+        <p>This work underpins the LLC business case and the HMLR spending review submissions which details a net present value return to the economy of £3 billion over a 20-year appraisal period.</p>
       </li>
       <li class='numbered-item'>
         <h3 class='heading-medium' id='resilient'>A resilient service accessible remotely to improve business continuity</h3>
@@ -65,9 +72,11 @@ breadcrumbs: true
       <li class='numbered-item'>
         <h3 class='heading-medium' id='geospatial'>A geospatial dataset to support local investment decisions</h3>
         <h4 class='heading-small'>Spatial data</h4>
-        <p>Spatial LLC data can be overlaid with other LA mapping systems to provide a holistic picture of the LAs assets, locally maintained areas and features. For example, a park maintenance team would have access to all tree preservation orders (TPO’s) in specific areas of interest. Officers dealing with highway boundary issues can compare TPO data with tree ownership information to improve maintenance.</p>
+        <p>Spatial LLC data can be overlaid with other LA mapping systems to provide a holistic picture of the LAs assets, locally maintained areas and features. For example, a park maintenance team would have access to all tree preservation orders (TPO’s) in specific areas of interest.</p>
+        <p>Officers dealing with highway boundary issues can compare TPO data with tree ownership information to improve maintenance.</p>
         <h4 class='heading-small'>Digitisation</h4>
-        <p>A fully digital dataset with spatial information supports other service areas in the LA, as they can all use the same high quality data. The LA team can update charges on the new register using an intuitive, easy to use system from any location. During the data migration process, LA staff work closely with HMLR staff and often develop new skills which can be utilised in other internal data projects. This includes defining business rules, using new data analysis and spatial capture tools and understanding the wider uses of data.</p>
+        <p>A fully digital dataset with spatial information supports other service areas in the LA, as they can all use the same high quality data.</p>
+        <p>The LA team can update charges on the new register using an intuitive, easy to use system from any location. During the data migration process, LA staff work closely with HMLR staff and often develop new skills which can be utilised in other internal data projects. This includes defining business rules, using new data analysis and spatial capture tools and understanding the wider uses of data.</p>
       </li>
       <li class='numbered-item'>
         <h3 class='heading-medium' id='digital-data'>Digital data available to support planning and infrastructure projects and stimulate economic growth</h3>
@@ -76,7 +85,7 @@ breadcrumbs: true
         <ol class='list list-bullet list-indented'>
           <li>the dataset uploaded to HMLR’s digital register is cleansed and checked, reducing risk of errors being present in it</li>
           <li>risks around the manual process have been significantly reduced – less handoffs and accurate data</li>
-          <li>fully digital dataset integrated with the spatial planning information in ‘Uniform</li>
+          <li>fully digital dataset integrated with the spatial planning information in Uniform</li>
           <li>the LLC Programme has helped to identify previously unknown data owners who have since cleansed their data and taken responsibility for it</li>
           <li>improved functionality within spatial layers for internal colleagues to use and interrogate</li>
           <li>report of expired charges extremely useful for local authorities</li>

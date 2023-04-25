@@ -90,7 +90,7 @@ var cookies_options = cookies_options || {};
       if (analytics === 'accepted' || analytics === 'rejected') {
         $(COOKIES_BANNER).hide()
         $(ACCEPTED_COOKIES_BANNER).show()
-        $(SELECTED_OPTION).text(analytics)
+        $(SELECTED_OPTION).html(`You’ve ${analytics} analytics cookies. You can <a href="cookies">change your cookie settings</a> at any time.`)
       } else {
         $(COOKIES_BANNER).show()
         $(ACCEPTED_COOKIES_BANNER).hide()
@@ -106,20 +106,20 @@ var cookies_options = cookies_options || {};
     $(COOKIE_ACCEPT_BUTTON).click(function () {
       $(COOKIES_BANNER).hide()
       $(ACCEPTED_COOKIES_BANNER).show()
-      $(SELECTED_OPTION).text('accepted')
+      $(SELECTED_OPTION).html('You’ve accepted analytics cookies. You can <a href="cookies">change your cookie settings</a> at any time.')
       setCookie('cookie_options', 'enable_analytics=true,hide_cookie_bar=false', 365)
       startGATracking(true)
     });
     $(COOKIE_REJECT_BUTTON).click(function () {
       $(COOKIES_BANNER).hide()
       $(ACCEPTED_COOKIES_BANNER).show()
-      $(SELECTED_OPTION).text('rejected')
+      $(SELECTED_OPTION).html('You’ve rejected analytics cookies. You can <a href="cookies">change your cookie settings</a> at any time.')
       setCookie('cookie_options', 'enable_analytics=false,hide_cookie_bar=false', 365)
     });
     $(COOKIE_BAR_HIDE_BUTTON).click(function () {
       $(COOKIES_BANNER).hide()
       $(ACCEPTED_COOKIES_BANNER).hide()
-      setCookie('cookie_options', 'enable_analytics=true,hide_cookie_bar=true', 365)
+      setCookie('cookie_options', `enable_analytics=${analytics_enabled()},hide_cookie_bar=true`, 365)
     });
     
   }

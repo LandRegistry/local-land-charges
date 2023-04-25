@@ -23,8 +23,8 @@ breadcrumbs: true
       <li><a href='collaboration-agreement'>Find out about the Collaboration Agreement (CA)</a></li>
       <li>Check the Terms of Collaboration (ToC)</li>
     </ol>
-    <p>Information on the terms between HM Land Registry (HMLR) and local authorities (LAs).</p>
-    <br>
+    <p class='heading-medium not-bold'>Information on the terms between HM Land Registry (HMLR) and local authorities (LAs).</p>
+    <hr>
     <h2 class='heading-small'>What is it</h2>
     <p>Terms of Collaboration (ToC) is an agreement between HM Land Registry (HMLR) and a local authority (LA). It authorises HMLR to receive data from the LA and begin data assessment activities.</p>
     <p>Under the agreement, the LA makes its Local Land Charge (LLC) data available to HMLR. This includes both the textual and spatial elements to:</p>

@@ -23,8 +23,8 @@ breadcrumbs: true
       <li>Find out about the Collaboration Agreement (CA)</li>
       <li><a href='terms-collaboration-agreement'>Check the Terms of Collaboration (ToC)</a></li>
     </ol>
-    <p>Information on the agreement between HM Land Registry (HMLR) and local authorities (LAs).</p>
-    <br>
+    <p class='heading-medium not-bold'>Information on the agreement between HM Land Registry (HMLR) and local authorities (LAs).</p>
+    <hr>
     <h2 class='heading-small'>What is it</h2>
     <p>This is an agreement between HMLR and an LA. The CA authorises the digitalisation of LA data. It then transfers the responsibility of local land charges (LLC) from the LA to HMLR.</p>
     <p>The CA means both parties agree to collaborate. This means HMLR becomes the registering authority for LLC. This is in accordance with Schedule 5 to the Infrastructure Act 2015 and sets out the respective rights and obligations of both parties.</p>

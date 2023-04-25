@@ -23,8 +23,8 @@ breadcrumbs: true
       <li><a href='roles-la'>Local authority (LA)</a></li>
       <li>HM Land Registry (HMLR)</li>
     </ol>
-    <p>An overview of the different roles and actions taking during migraiton</p>
-    <br>
+    <p class='heading-medium not-bold'>An overview of the different roles and actions taking during migraiton</p>
+    <hr>
     <h2 class='heading-small'>Local Authority Delivery Manager</h2>
     <ol class='list list-bullet list-indented'>
       <li>Main contact within the Programme</li>

@@ -21,10 +21,10 @@ breadcrumbs: true
     <h1 class='heading-medium no-top-margin'>Local Authority (LA)</h1>
     <ol class='list list-line'>
       <li>Local authority (LA)</li>
-      <li><a href='roles-la'>HM Land Registry (HMLR)</a></li>
+      <li><a href='roles-hmlr'>HM Land Registry (HMLR)</a></li>
     </ol>
-    <p>An overview of the different roles and actions taken during migration.</p>
-    <br>
+    <p class='heading-medium not-bold'>An overview of the different roles and actions taken during migration.</p>
+    <hr>
     <h2 class='heading-small'>Senior Responsible Owner</h2>
     <ol class='list list-bullet list-indent'>
       <li>Leads the strategic oversight of the migration</li>
