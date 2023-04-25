@@ -834,3 +834,9 @@ a.button-link:focus {
     padding-bottom: 3.5em;
     font-size: 19px;
 }
+
+.grey-background {
+    background-color: #f3f2f1;
+    padding: 10px;
+    margin-bottom: 20px;
+}
