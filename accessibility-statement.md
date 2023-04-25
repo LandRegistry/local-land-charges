@@ -70,7 +70,7 @@ breadcrumbs: true
             <p>Some PDF files have been flagged to have missing PDF or UA identifiers which is classed as a Metadata and Settings issue. All these issues may affect the order in which the screen reader reads text from the PDF files affected, it may not always be in the logical order.</p>
             <p>These PDF files are supplied to us by people external to the service, therefore we are not able to anticipate whether the PDF files are PDF or UA compliant when we receive them and upload them to the migration hub.</p>
         </div>
-        <p>This fails <a href='https://www.w3.org/WAI/WCAG21/Understanding/non-text-content'>1.1.1 Non text content</a>, <a href='https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence'>1.3.2 Meaningful Sequence</a>, <a href='https://www.w3.org/WAI/WCAG21/Understanding/keyboard'>2.1.1 Keyboard</a> and <a href='https://www.w3.org/WAI/WCAG21/Understanding/focus-order'>2.4.3 Focus Order</a>. Currently this issue is not in the scope of the accessibility regulations.</p>
+        <p>This fails <a href='https://www.w3.org/WAI/WCAG21/Understanding/non-text-content'>1.1.1 Non text content</a>, <a href='https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence'>1.3.2 Meaningful Sequence</a>, <a href='https://www.w3.org/WAI/WCAG21/Understanding/keyboard'>2.1.1 Keyboard</a> and <a href='https://www.w3.org/WAI/WCAG21/Understanding/focus-order'>2.4.3 Focus Order</a>.</p>
         <hr>
         <h3 class='heading-small'>Links to GOV.UK</h3>
         <div class='grey-background'>
