@@ -71,9 +71,11 @@ breadcrumbs: true
           <p>HM Land Registry is paying existing local authority software suppliers for work to automate the process for updating through application programming interfaces (API) local authority systems. We will pay suppliers API maintenance for 3 years.</p>
           <p>If a local authority undertakes development of their own API integration instead of using one provided by a supplier, work done will form part of the burdens payments made within 3 months of migration.</p>
           <span class='bold'>Transition payments</span>
-          <p>The transition payment will be in addition to the new burdens, which cover the cost a local authority may incur when migrating their data. This means the overall financial support available will be more than £40m.</p>
-          <p>The payment can be used by LA’s for resources, such as administrative support, equipment or services that will enable a smooth and timely migration.</p>
+          <p>The transition payment will be in addition to the new burdens. It covers any costs a local authority may incur when migrating their data. This means the overall financial support available will be more than £40m. The payment can be used by LAs for resources, such as administrative support, equipment or services that will enable a smooth and timely migration.</p>
+          <p>Payments will be based on the size of the housing market the local authority provides service for. We have used the Office for National Statistics property sales data to create five local authority bands. Local authorities will typically be offered between £60,000 and £90,000 respectively, a small number of very large authorities will be offered a higher amount. These payment amounts are non-negotiable.</p>
           <p>Local authorities will receive two separate payments, when they achieve two key delivery milestones. The first payment will be issued when they sign their Delivery Plan and formally enter service migration. After the service goes live, they will receive the second final payment.</p>
+          <p>For LAs that miss their second milestone we will apply a tapered system of weekly deductions which will determine the amount the LA will receive if they meet a revised serve notice date. The LA will have 2.5% of the milestone 2 payment deducted for each week past the original deadline. If cause of the delay lies with HM Land Registry, payment will be made as normal.</p>
+          <p>Payments are conditional on local authorities meeting the delivery milestones, by the dates agreed with HM Land Registry.</p>
         </div>
       </div>
       <script src="/local-land-charges/static/js/accordion.js"></script>

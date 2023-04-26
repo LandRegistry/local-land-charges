@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Benefits of the migration process
+title: Benefits of migrating your data
 show_home_link: true
 breadcrumbs: true
 ---
@@ -17,7 +17,7 @@ breadcrumbs: true
 
 <main id='content'>
   <div class='column-two-thirds'>
-    <h1 class='heading-large'>Benefits of the migration process</h1>
+    <h1 class='heading-large'>Benefits of migrating your data</h1>
     <p class='grey'>Contents</p>
     <ol class='list list-line'>
       <li><a href='#streamlined'>A streamlined service delivering resource savings</a></li>
@@ -116,7 +116,7 @@ breadcrumbs: true
         </ol>
       </li>
       <li class='numbered-item'>
-        <h4 class='heading-medium' id='dataset'>A dataset designed to support local enterprise collaboration</h4>
+        <h3 class='heading-medium' id='dataset'>A dataset designed to support local enterprise collaboration</h4>
         <h4 class='heading-small'>People</h4>
         <p>This means:</p>
         <ol class='list list-bullet list-indented'>

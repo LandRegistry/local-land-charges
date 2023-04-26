@@ -28,21 +28,21 @@ breadcrumbs: true
         <div class='tiled-link'>
           <hr>
           <a href='before-migration'>
-            <h2 class='heading-small'>Before your migration</h2>
+            <h3 class='heading-small'>Before your migration</h3>
             <span>Tools to help you work out if you're ready and prepared for migration</span>
           </a>
         </div>
         <div class='tiled-link'>
           <hr>
           <a href='our-support'>
-            <h2 class='heading-small'>Our support</h2>
+            <h3 class='heading-small'>Our support</h3>
             <span>Find about our financial support and roles and responsibilities</span>
           </a>
         </div>
         <div class='tiled-link'>
           <hr>
           <a href='our-agreements'>
-            <h2 class='heading-small'>Our agreements</h2>
+            <h3 class='heading-small'>Our agreements</h3>
             <span>Check our agreements</span>
           </a>
         </div>

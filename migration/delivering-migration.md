@@ -46,6 +46,7 @@ breadcrumbs: true
           <p>Extracted data will be run through a Data Analysis Dashboard to identify data improvement work that needs to be undertaken.</p>
           <p>Ability to extract data at regular intervals throughout the migration journey to show progress made in data improvement work.</p>
           <p class='inset-text'>Data extracts can be taken at any time without interrupting normal business operations. However, local authorities have the option to run them overnight or at the weekend. The time taken to extract the data is mainly dependent on the size of the dataset.</p>
+          <a href='/local-land-charges/files/Migration/Getting%20your%20service%20ready/A%20detailed%20guide%20to%20extracting%20your%20electronic%20and%20digital%20data.mp4' onclick="linkClicked()">A detailed guide to extracting your electronic and digital data (opens in new tab)</a> (MP4, 3 minutes 25 seconds, 9.8MB)
         </div>
       </li>
       <li class='step-by-step-item'>
@@ -158,6 +159,7 @@ breadcrumbs: true
           <p>The tool is sometimes easier to use for LAs than the in-house incumbent systems.</p>
           <p>The use of the tool together with the Data Transformation Team can free up time for Local Authority officers to focus on the more complex charge decisions where, perhaps, local knowledge is key.</p>
           <p>Progress is fed back regularly via the Delivery Manager and Data Manager.</p>
+          <a href='/local-land-charges/files/Migration/Delivering%20migration/A%20narrated%20guide%20for%20using%20our%20migration%20helper.mp4' onclick="linkClicked()">A narrated guide for using our migration helper</a> (MP4, 4 minutes 27 seconds, 12.5MB)
         </div>
       </li>
       <li class='step-by-step-item'>
@@ -171,6 +173,7 @@ breadcrumbs: true
           <h4 class='heading-small'>Benefits</h4>
           <p>Automation, where possible, helps release time for experienced officers to focus on the more complex requirements.</p>
           <p class='inset-text'>Potential positional accuracy problems are first identified during the Early Engagement phase. A further examination is conducted during data discovery activities, as the local authority progresses along its migration journey. A PAI dashboard is only run when it is deemed necessary to verify an issue.</p>
+          <a href='/local-land-charges/files/Migration/Getting%20your%20service%20ready/A%20detailed%20guide%20to%20addressing%20Positional%20Accuracy%20Issues%20(PAI)%20in%20your%20data.mp4' onclick="linkClicked()">A detailed guide to addressing positional accuracy issues (PAI) in your data</a> (MP4, 5 minutes 26 seconds, 17.1MB)
         </div>
       </li>
       <li class='step-by-step-item'>
@@ -190,6 +193,7 @@ breadcrumbs: true
           <p>Understanding the transformational work upfront means that you can start to make the changes required much sooner and spread the work over a longer period, reducing the day-to-day impact on resources.</p>
           <p class='inset-text'>If there are changes to processes, the Delivery Manager will help to identify the necessary training. With HM Land Registry’s support, local authorities can manage minor changes in-house. HM Land Registry will provide training for major changes, such as the adoption of the User Interface (UI).</p>
           <p>It is helpful if a local authority makes a prompt decision about using the Application Programming Interface (API) or the UI, so the appropriate interfaces can be set up, and training provided.</p>
+          <a href='https://www.youtube.com/watch?v=RciSfxaBa-o' target='_blank' onclick="linkClicked()">Guidance on how to search for LLC on GOV.UK (opens in new tab)</a>
         </div>
       </li>
     </ol>
