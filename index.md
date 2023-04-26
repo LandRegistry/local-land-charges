@@ -17,7 +17,7 @@ Use the Migration Hub to:
 We have created a detailed video to give you an overview of the programme.
 <br>
 <br>
-<a href='https://www.youtube.com/watch?v=8Ql7JtzB9ks' onclick='linkClicked()' class='button-link'>Go to video</a>
+<a href='https://www.youtube.com/watch?v=8Ql7JtzB9ks' onclick='linkClicked()' class='button-link' aria-label='Go to programme overview video'>Go to video</a>
 
 {: .heading-large}
 <h2><a href='migration'>Migration process</a></h2>

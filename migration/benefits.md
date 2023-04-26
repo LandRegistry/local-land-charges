@@ -116,7 +116,7 @@ breadcrumbs: true
         </ol>
       </li>
       <li class='numbered-item'>
-        <h3 class='heading-medium' id='dataset'>A dataset designed to support local enterprise collaboration</h4>
+        <h3 class='heading-medium' id='dataset'>A dataset designed to support local enterprise collaboration</h3>
         <h4 class='heading-small'>People</h4>
         <p>This means:</p>
         <ol class='list list-bullet list-indented'>
