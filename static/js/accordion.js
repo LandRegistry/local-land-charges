@@ -19,7 +19,7 @@ function initialise(type, hideButtonLocation) {
     if (showAllContent.textContent.startsWith('Show')) {
       showAllContent.textContent = `Hide all ${showAllSuffix}`
       $(selector).each(function () {
-        let sectionHeading = $(hideButtonLocation, this).text().toLowerCase()
+        let sectionHeading = $(hideButtonLocation, this).text().toLowerCase().replace('show', '')
         $(hiddenContentSelector, this).show()
         $('.show-hide-content', this).html('Hide')
         $('show-hide-icon', this).removeClass('show')
@@ -29,7 +29,7 @@ function initialise(type, hideButtonLocation) {
     } else {
       showAllContent.textContent = `Show all ${showAllSuffix}`
       $(selector).each(function () {
-        let sectionHeading = $(hideButtonLocation, this).text().toLowerCase()
+        let sectionHeading = $(hideButtonLocation, this).text().toLowerCase().replace('hide', '')
         $(hiddenContentSelector, this).hide()
         $('.show-hide-content', this).html('Show')
         $('show-hide-icon', this).removeClass('hide')
@@ -67,8 +67,8 @@ function initialise(type, hideButtonLocation) {
     accordionButton.setAttribute('aria-label', `Show ${sectionHeading}`)
     hiddenContent.hide()
 
-    $(hideButtonLocation, this).after(hideShowContent)
-    $('.button-wrapper' ,this).wrapInner(accordionButton)
+    $(hideButtonLocation, this).wrapInner(accordionButton)
+    $(`${hideButtonLocation} button`, this).append(hideShowContent)
 
     $('button', this).on('click', (event) => {
       if (hideShowText.textContent == 'Show') {

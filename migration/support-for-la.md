@@ -22,7 +22,7 @@ breadcrumbs: true
     <div class='accordion-container' id='accordion'>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h2 class='heading-medium'>Resource support</h2>
+          <h2><span class='heading-content'>Resource support</span></h2>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Scanning and digitisation of non-digital data</span>
@@ -35,7 +35,7 @@ breadcrumbs: true
       </div>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h2 class='heading-medium'>Process improvement</h2>
+          <h2 class='heading-medium'><span class='heading-content'>Process improvement</span></h2>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Removing non-digital data from your authority</span>
@@ -44,7 +44,7 @@ breadcrumbs: true
       </div>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h2 class='heading-medium'>Migration tools</h2>
+          <h2 class='heading-medium'><span class='heading-content'>Migration tools</span></h2>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Data Analysis Dashboard</span>
@@ -55,7 +55,7 @@ breadcrumbs: true
       </div>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h2 class='heading-medium'>Financial support</h2>
+          <h2 class='heading-medium'><span class='heading-content'>Financial support</span></h2>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Burdens payment</span>

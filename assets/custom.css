@@ -409,6 +409,15 @@ a:focus {
     border-width: 1px 1px 0 0;
 }
 
+.button-wrapper span.heading-content {
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 0.83em;
+    display: block;
+    width: fit-content;
+    color: #000000;
+}
+
 .navbar-breadcrumbs-wrapper-grey .navbar-breadcrumbs li:not(:first-child) a:before {
     border-color: #ffffff;
 }
@@ -596,7 +605,7 @@ a:focus {
     color: #0b0c0c;
 }
 
-.button-wrapper button:focus h3.heading-medium, .button-wrapper button:focus h2.heading-medium{
+.button-wrapper button:focus span.heading-content {
     background-color: #fd0;
     box-shadow: 0 -2px #fd0, 0 4px #0b0c0c;
 }

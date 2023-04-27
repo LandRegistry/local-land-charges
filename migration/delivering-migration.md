@@ -21,7 +21,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>1</span>
-          <h3 class='heading-medium'>Scan your data</h3>
+          <h3><span class='heading-content'>Scan your data</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>Scanning is usually undertaken by HM Land Registry or their Delivery Partners and is generally completed off-site.</p>
@@ -35,7 +35,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>2</span>
-          <h3 class='heading-medium'>Extract your data</h3>
+          <h3><span class='heading-content'>Extract your data</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>Ensure you are confident using the extraction tool installed by your incumbent supplier and you are using the latest version.</p>
@@ -52,7 +52,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>3</span>
-          <h3 class='heading-medium'>Use the data analysis dashboard</h3>
+          <h3><span class='heading-content'>Use the data analysis dashboard</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>The earlier a data extract can be provided to HM Land Registry so it can be run through the DAD the better.</p>
@@ -68,7 +68,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>4</span>
-          <h3 class='heading-medium'>Start a discovery</h3>
+          <h3><span class='heading-content'>Start a discovery</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>A workshop is usually held to determine:</p>
@@ -95,7 +95,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>5</span>
-          <h3 class='heading-medium'>Do an analysis</h3>
+          <h3><span class='heading-content'>Do an analysis</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>The analysis starts after the first data extract and continues throughout the migration journey.</p>
@@ -117,7 +117,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>6</span>
-          <h3 class='heading-medium'>Complete a formative assessment</h3>
+          <h3><span class='heading-content'>Complete a formative assessment</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>The Delivery Manager will endeavour to schedule this to fall after the majority of data transformation work has been completed.</p>
@@ -131,7 +131,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>7</span>
-          <h3 class='heading-medium'>Do a final quality and search comparison</h3>
+          <h3><span class='heading-content'>Do a final quality and search comparison</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>Final Quality Assurance might show some accuracy issues – these will need to be corrected. Further checking may need to be undertaken to ensure that errors aren’t part of a wider trend.</p>
@@ -148,7 +148,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>8</span>
-          <h3 class='heading-medium'>Start using the Migration Helper tool</h3>
+          <h3><span class='heading-content'>Start using the Migration Helper tool</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>The Migration Helper is a web-based tool, which is used by <span class='bold'>both</span> the local authority and the HMLR Data Transformation Teams.</p>
@@ -165,7 +165,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>9</span>
-          <h3 class='heading-medium'>Identify any Positional Accuracy Issues (PAI)</h3>
+          <h3><span class='heading-content'>Identify any Positional Accuracy Issues (PAI)</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>Our Migration Helper tool can be used to address these issues and we can help correct some of these issues for the LA.</p>
@@ -179,7 +179,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>10</span>
-          <h3 class='heading-medium'>Check the business readiness</h3>
+          <h3><span class='heading-content'>Check the business readiness</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>There are two overarching key principles to the final product:</p>

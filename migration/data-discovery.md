@@ -24,7 +24,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>1</span>
-          <h2 class='heading-medium'>Service assessment</h2>
+          <h2><span class='heading-content'>Service assessment</span></h2>
         </div>
         <div class='step-by-step-content'>
           <p>This involves completing a document to identify key contacts, local land charges volumes, data formats and sources within the local authority.</p>
@@ -34,7 +34,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>2</span>
-          <h2 class='heading-medium'>Non-digital data</h2>
+          <h2><span class='heading-content'>Non-digital data</span></h2>
         </div>
         <div class='step-by-step-content'>
           <p>In cases where we have identified paper-based data within a local authority, we may need an on-site data discovery. This is to give us an early understanding of the size and scale of the data held by a local authority.</p>
@@ -44,7 +44,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>3</span>
-          <h2 class='heading-medium'>Data extract</h2>
+          <h2><span class='heading-content'>Data extract</span></h2>
         </div>
         <div class='step-by-step-content'>
           <p>The first digital data extract allows us an early look at the local authority’s data. This enables us to identify key areas of concern and determine where additional resources may be required.</p>
