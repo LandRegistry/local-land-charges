@@ -16,6 +16,7 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Blaenau%20Gwent%20Borough%20County%20Council%2023.01.2023.pdf' onclick='linkClicked()'>Blaenau Gwent Borough County Council</a></li>
     <li><a href='files/LA%20business%20rules/Blackburn%20with%20Darwen%20.pdf' onclick='linkClicked()'>Blackburn with Darwen Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Bromsgrove%20and%20Redditch%2008.10.2021.pdf' onclick='linkClicked()'>Bromsgrove and Redditch Borough Councils</a></li>
+    <li><a href='files/LA%20business%20rules/Burnley%20Customer%20Document.pdf' onclick='linkClicked()'>Burnley Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Bury%20Migration%20Hub%20Customer%20Document%20(002).pdf' onclick='linkClicked()'>Bury Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Chelmsford%20Customer%20Information.pdf' onclick='linkClicked()'>Chelmsford City Council</a></li>
     <li><a href='files/LA%20business%20rules/Cheltenham%20Customer%20Document%20(002).pdf' onclick='linkClicked()'>Cheltenham Borough Council</a></li>
