@@ -27,6 +27,7 @@ Some of the search results may look a little different to those you have seen be
     <li><a href='files/LA%20business%20rules/Fenland%20Customer%20Document%20v0.1.pdf' onclick='linkClicked()'>Fenland District Council</a></li>
     <li><a href='files/LA%20business%20rules/Halton%20Borough%20Council%20Customer%20Document.pdf' onclick='linkClicked()'>Halton Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Harborough%20District%20Council%2029.04.2022.pdf' onclick='linkClicked()'>Harborough District Council</a></li>
+    <li><a href='files/LA%20business%20rules/High%20Peak%20Borough%20Council.pdf' onclick='linkClicked()'>High Peak Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Isle%20of%20Wight%20Council.pdf' onclick='linkClicked()'>Isle of Wight Council</a></li>
     <li><a href='files/LA%20business%20rules/Knowsley%20Customer%20Document.pdf' onclick='linkClicked()'>Knowsley Metropolitan Borough Council</a></li>
     <li><a href='files/LA%20business%20rules/Enfield%20Customer%20Document%20v1.pdf' onclick='linkClicked()'>London Borough of Enfield Council</a></li>
