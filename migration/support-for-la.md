@@ -22,7 +22,7 @@ breadcrumbs: true
     <div class='accordion-container' id='accordion'>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h3 class='heading-medium'>Resource support</h3>
+          <h2 class='heading-medium'>Resource support</h2>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Scanning and digitisation of non-digital data</span>
@@ -35,7 +35,7 @@ breadcrumbs: true
       </div>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h3 class='heading-medium'>Process improvement</h3>
+          <h2 class='heading-medium'>Process improvement</h2>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Removing non-digital data from your authority</span>
@@ -44,7 +44,7 @@ breadcrumbs: true
       </div>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h3 class='heading-medium'>Migration tools</h3>
+          <h2 class='heading-medium'>Migration tools</h2>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Data Analysis Dashboard</span>
@@ -55,7 +55,7 @@ breadcrumbs: true
       </div>
       <div class='accordion-item'>
         <div class='button-wrapper'>
-          <h3 class='heading-medium'>Financial support</h3>
+          <h2 class='heading-medium'>Financial support</h2>
         </div>
         <div class='accordion-content'>
           <span class='bold'>Burdens payment</span>
@@ -81,7 +81,7 @@ breadcrumbs: true
       <script src="/local-land-charges/static/js/accordion.js"></script>
       <script>
         window.onload = function() {
-          initialise('accordion', 'h3')
+          initialise('accordion', 'h2')
         }
       </script>
     </div>
