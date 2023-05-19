@@ -45,7 +45,7 @@ Information videos and guidance for registering local land charges.
 Read copies of our monthly programme newsletters and watch recordings of our previous webinar events. 
 
 {: .heading-large}
-<h2><a href='[migrated local authorities]https://www.gov.uk/government/publications/hm-land-registry-local-land-charges-programme'>Migrated local authorities</a></h2>
+<h2><a href='https://www.gov.uk/government/publications/hm-land-registry-local-land-charges-programme'>Migrated local authorities</a></h2>
 
 Information and guidance for migrated local authorities and customers. 
 
