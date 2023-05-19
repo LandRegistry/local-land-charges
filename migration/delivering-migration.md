@@ -184,7 +184,7 @@ breadcrumbs: true
         </div>
         <div class='step-by-step-content'>
           <p>Our Migration Helper tool can be used to address these issues and we can help correct some of these issues for the LA.</p>
-          <p>HM Land Registry will work collaboratively with the Local Authority to determine the best approach.</p>
+          <p>HM Land Registry will work collaboratively with the local authority to determine the best approach.</p>
           <h4 class='heading-small'>Benefits</h4>
           <p>Our standardised approach has been derived from our experience in handling migrations for other local authorities.Automation, where possible, helps release time for experienced officers to focus on the more complex requirements.</p>
           <p class='inset-text'>Potential positional accuracy problems are first identified during the Early Engagement phase. A further examination is conducted during data discovery activities, as the local authority progresses along its migration journey. A PAI dashboard is only run when it is deemed necessary to verify an issue.</p>
