@@ -45,6 +45,12 @@ Information videos and guidance for registering local land charges.
 Read copies of our monthly programme newsletters and watch recordings of our previous webinar events. 
 
 {: .heading-large}
+<h2><a href='[migrated local authorities](https://www.gov.uk/government/publications/hm-land-registry-local-land-charges-programme)'>Migrated local authorities</a></h2>
+
+Information and guidance for migrated local authorities and customers. 
+
+
+{: .heading-large}
 <h2>Contact us</h2>
 
 If you have any questions about the process of migrating your LLC service to HM Land Registry’s digital register, or any of the resources contained on this site, email our project team inbox: <a href='mailto:llcproject@landregistry.gov.uk'>llcproject@landregistry.gov.uk</a>.
