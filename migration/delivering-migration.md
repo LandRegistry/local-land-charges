@@ -21,9 +21,11 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>1</span>
-          <h3><span class='heading-content'>Scan your data</span></h3>
+          <h3><span class='heading-content'>Scanning your non- digital data</span></h3>
         </div>
         <div class='step-by-step-content'>
+          <h4 class='heading-small'>Purpose</h4>
+          <p>To provide an overview of what a local authority needs to consider when preparing for HM Land Registry or their Delivery Partners to scan their non-digital data. This includes identifying what needs to be scanned and the location and volume of the non-digital data.</p>
           <p>Scanning is usually undertaken by HM Land Registry or their Delivery Partners and is generally completed off-site.</p>
           <p>The non-digital data will be collected from the local authority and returned in the same format once the scanning has been completed. Only non-digital data that is required for migrating onto the HM Land Registry digital register will be included in the scanning exercise.</p>
           <h4 class='heading-small'>Benefits</h4>
@@ -35,9 +37,11 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>2</span>
-          <h3><span class='heading-content'>Extract your data</span></h3>
+          <h3><span class='heading-content'>Extracting your digital data</span></h3>
         </div>
         <div class='step-by-step-content'>
+          <h4 class='heading-small'>Purpose</h4>
+          <p>To provide an overview of what a local authority needs to consider when preparing to self-extract electronic and digital data. This includes preparation before the extract, activities during extraction and sharing the extracted data with HM Land Registry once it is available.</p>
           <p>Ensure you are confident using the extraction tool installed by your incumbent supplier and you are using the latest version.</p>
           <p>Remember to reset the data every time you begin a new extract and inform your Delivery Manager of the date you will be sending the extracted data to HM Land Registry so they can make the necessary preparations to receive it.</p>
           <p>If you are unsure of any stages in the process, HM Land Registry has Technical Delivery Managers who can work with local authorities to help you get this right.</p>
@@ -52,12 +56,13 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>3</span>
-          <h3><span class='heading-content'>Use the data analysis dashboard</span></h3>
+          <h3><span class='heading-content'>What is a data analysis dashboard</span></h3>
         </div>
         <div class='step-by-step-content'>
-          <p>The earlier a data extract can be provided to HM Land Registry so it can be run through the DAD the better.</p>
+          <p>The Data Analysis Dashboard (dashboard) is a tool used by HM Land Registry to help local authorities get a better understanding of the current condition of their digital data. The output report from the tool will inform the local authority of the volume and type of data improvement work that is needed to ensure it is ready for migration onto the digital register.</p>
+          <p>The earlier a data extract can be provided to HM Land Registry so it can be run through the dashboard the better.</p>
           <p>This will provide a comprehensive insight into the size of the task facing the local authority and will also highlight areas where HM Land Registry may be able to help by completing the data improvement work for them.</p>
-          <p>Several data analysis can be run over the duration of the migration journey to keep track of progress made with the data improvement work.</p>
+          <p>Several dashboards can be run over the duration of the migration journey to keep track of progress made with the data improvement work.</p>
           <h4 class='heading-small'>Benefits</h4>
           <p>Early understanding of the type and volume of data improvement work that will need to be completed.</p>
           <p>Ability to plan resources to carry out the required data improvement work.</p>
@@ -68,10 +73,10 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>4</span>
-          <h3><span class='heading-content'>Start a discovery</span></h3>
+          <h3><span class='heading-content'>Discovery and design</span></h3>
         </div>
         <div class='step-by-step-content'>
-          <p>A workshop is usually held to determine:</p>
+          assurance
           <ol class='list list-bullet list-indented'>
             <li>how to respond to an LLC1 search request</li>
             <li>how to manually create a charge</li>
@@ -88,6 +93,7 @@ breadcrumbs: true
           <p>This is a living document and should be reviewed and updated regularly.</p>
           <h4 class='heading-small'>Benefits</h4>
           <p>Changes to current processes are identified early so training can be provided.</p>
+          <p>All relevant data sources are identified and the requirement for scanning or digitisation of non-digital records can be included in the delivery plan.</p>
           <p>The quality and completeness of the data identified during discovery will help inform the development of the delivery plan. This helps local authorities plan their resources to meet the delivery timeline.</p>
           <p class='inset-text'>The delivery timeline is determined by several factors, such as the size of the dataset, the type of data (digital, non-digital or a mixture of both) and the resources available to prepare the data. There is no fixed duration for the process of migrating a local authority's data.</p>
         </div>
@@ -95,9 +101,13 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>5</span>
-          <h3><span class='heading-content'>Do an analysis</span></h3>
+          <h3><span class='heading-content'>Analysis, Rules and Transformation</span></h3>
         </div>
         <div class='step-by-step-content'>
+          <h4 class='heading-small'>ARTs</h4>
+          <p>Analysis is an ongoing process during migration delivery and builds on the initial analysis which started with Early Engagement. This is often driven by data extracts in the first instance and will include ‘dashboards’ and regular collaboration.</p>
+          <p>Rules in this context refers to business rules which our analysts can apply to the data to effect change on a large scale, rather than manually changing each charge individually.</p>
+          <p>Transformation refers to the ongoing changes to the data, informed by the analysis and completed by HM Land Registry and local authority colleagues in collaboration.</p>
           <p>The analysis starts after the first data extract and continues throughout the migration journey.</p>
           <p>Once it has been established that the implementation of business rules will benefit the local authority, the business analyst will work with them to determine which business rules are most applicable:</p>
           <ol class='list list-bullet list-indented two-joining-lists'>
@@ -117,9 +127,11 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>6</span>
-          <h3><span class='heading-content'>Complete a formative assessment</span></h3>
+          <h3><span class='heading-content'>Formative assessment</span></h3>
         </div>
         <div class='step-by-step-content'>
+          <h4 class='heading-small'>Purpose</h4>
+          <p>Towards the end of the Analysis, Rules, and Transformation (ART) phase, our Quality Assurance team will conduct a series of checks on the charges. These checks employ a variety of methodologies, including significant automation through logic rules. For instance, we verify if the charge's spatial extent matches the post code mentioned in the charge description. Additionally, we manually review charges to ensure accuracy and completeness.</p>
           <p>The Delivery Manager will endeavour to schedule this to fall after the majority of data transformation work has been completed.</p>
           <p>They will also allow appropriate time in the plan to respond to the outcomes, which might include further checking to prove/disprove trends.</p>
           <p>It is common for there to be fixes/amendments to be identified through this process.</p>
@@ -131,9 +143,12 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>7</span>
-          <h3><span class='heading-content'>Do a final quality and search comparison</span></h3>
+          <h3><span class='heading-content'>Do a final quality assurance and search comparison</span></h3>
         </div>
         <div class='step-by-step-content'>
+          <h4 class='heading-small'>Purpose</h4>
+          <p>The final Quality Assurance process shares similarities with the earlier Formative Assessment process. It involves a combination of automated logic checks and human manual sampling. The goal is to ensure that the charges meet the required standard of accuracy and quality to be included in the new HM Land Registry Register.</p>
+          <p>The Search Comparison process is a parallel exercise that compares real, historical search results generated by the local authority with results obtained from the newly created Register for the same address search. This comparison aims to identify any discrepancies in the results. There are three possible outcomes: omissions, where a charge is not revealed by the new Register but was previously revealed by the local authority; commissions, where charges are revealed by the new Register but were not previously revealed by the Local Authority; or a match, where both searches yield the same charges.</p>
           <p>Final Quality Assurance might show some accuracy issues – these will need to be corrected. Further checking may need to be undertaken to ensure that errors aren’t part of a wider trend.</p>
           <p>The Search Comparison exercise is often completed in stages and involves regular feedback sessions with the LA team. Commissions are not uncommon due to the spatial nature of the new register.</p>
           <p>Omissions need to be explained and rectified if deemed to be an error.</p>
@@ -141,22 +156,22 @@ breadcrumbs: true
           <p>The overall approach continues to be collaborative.</p>
           <h4 class='heading-small'>Benefits</h4>
           <p>Broad and thorough checking ensures the data being migrated is accurate.</p>
-          <p>Post-migrated issues are minimised, and customers receive excellent service.</p>
+          <p>Post-migrated issues are minimised, and customers receive excellent service.It is important to highlight that these checks are conducted independently of the Migration Delivery team, ensuring they are impartial and objective in nature.</p>
           <p class='inset-text'>By performing quality checks early with the Formative Assessment, the local authority can identify and correct errors while still in the data cleansing phase. This approach ensures the data is in a good, clean state when it reaches the Final Quality Assurance, requiring little management at the end of the migration journey.</p>
         </div>
       </li>
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>8</span>
-          <h3><span class='heading-content'>Start using the Migration Helper tool</span></h3>
+          <h3><span class='heading-content'>The Migration Helper tool</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>The Migration Helper is a web-based tool, which is used by <span class='bold'>both</span> the local authority and the HMLR Data Transformation Teams.</p>
           <p>It is used to create or amend spatial extent data and can also be used to amend textual data.</p>
           <p>It uses the data associated with a charge to suggest several ‘candidate’ polygons for charges without spatial extents, which often removes the need to plot a spatial extent from scratch.</p>
-          <p>We will demo the tool and provide training as required.</p>
+          <p>Determining the most effective utilisation of the tool is a collaborative decision. We will conduct tool demonstrations and offer training as needed.We will demo the tool and provide training as required.</p>
           <h4 class='heading-small'>Benefits</h4>
-          <p>The tool is sometimes easier to use for LAs than the in-house incumbent systems.</p>
+          <p>HM Land Registry has the ability to efficiently handle large volumes of potentially simpler tasks, including creating tens of thousands of spatial extents for individual migrations.The tool is sometimes easier to use for LAs than the in-house incumbent systems.</p>
           <p>The use of the tool together with the Data Transformation Team can free up time for Local Authority officers to focus on the more complex charge decisions where, perhaps, local knowledge is key.</p>
           <p>Progress is fed back regularly via the Delivery Manager and Data Manager.</p>
           <a href='/local-land-charges/files/Migration/Delivering%20migration/A%20narrated%20guide%20for%20using%20our%20migration%20helper.mp4' onclick="linkClicked()">A narrated guide for using our migration helper</a> (MP4, 4 minutes 27 seconds, 12.5MB)
@@ -171,7 +186,7 @@ breadcrumbs: true
           <p>Our Migration Helper tool can be used to address these issues and we can help correct some of these issues for the LA.</p>
           <p>HM Land Registry will work collaboratively with the Local Authority to determine the best approach.</p>
           <h4 class='heading-small'>Benefits</h4>
-          <p>Automation, where possible, helps release time for experienced officers to focus on the more complex requirements.</p>
+          <p>Our standardised approach has been derived from our experience in handling migrations for other local authorities.Automation, where possible, helps release time for experienced officers to focus on the more complex requirements.</p>
           <p class='inset-text'>Potential positional accuracy problems are first identified during the Early Engagement phase. A further examination is conducted during data discovery activities, as the local authority progresses along its migration journey. A PAI dashboard is only run when it is deemed necessary to verify an issue.</p>
           <a href='/local-land-charges/files/Migration/Getting%20your%20service%20ready/A%20detailed%20guide%20to%20addressing%20Positional%20Accuracy%20Issues%20(PAI)%20in%20your%20data.mp4' onclick="linkClicked()">A detailed guide to addressing positional accuracy issues (PAI) in your data</a> (MP4, 5 minutes 26 seconds, 17.1MB)
         </div>
@@ -182,12 +197,14 @@ breadcrumbs: true
           <h3><span class='heading-content'>Check the business readiness</span></h3>
         </div>
         <div class='step-by-step-content'>
+          <h4 class='heading-small'>Purpose</h4>
+          <p>The concept of "extent of change" involves understanding the future state of the register, its functionality, and the implications it will have on your current operations. It encompasses comparing the current state ("as is") with the envisioned future state ("to be").</p>
           <p>There are two overarching key principles to the final product:</p>
           <ol class='list list-bullet list-indented'>
             <li>charges will all have a spatial extent - it will be a spatial register</li>
             <li>search results will be automatic – no human checks or fine-tuning before results are provided to the customer</li>
           </ol>
-          <p>Therefore, in simple terms, the extent of change is how far away from this you currently are.</p>
+          <p>Therefore, in simple terms, the extent of change is how far away from this you currently are.Is it possible to use an API for automatic updates from the Incumbent System to the new Register? Alternatively, direct input into the HM Land registry Register via a web-based interface may result in duplicated workload.</p>
           <p>This is also a good time to consider how you’d prefer the future service to work.</p>
           <h4 class='heading-small'>Benefits</h4>
           <p>Understanding the transformational work upfront means that you can start to make the changes required much sooner and spread the work over a longer period, reducing the day-to-day impact on resources.</p>
