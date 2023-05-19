@@ -136,7 +136,7 @@ breadcrumbs: true
         <div class='step-by-step-content'>
           <p>Final Quality Assurance might show some accuracy issues – these will need to be corrected. Further checking may need to be undertaken to ensure that errors aren’t part of a wider trend.</p>
           <p>The Search Comparison exercise is often completed in stages and involves regular feedback sessions with the LA team. Commissions are not uncommon due to the spatial nature of the new register.</p>
-          <p>Omissions need to be explained and rectified if deemed to be an error.Omissions need to be explained and rectified if deemed to be an error.</p>
+          <p>Omissions need to be explained and rectified if deemed to be an error.</p>
           <p>The Delivery Manager will allow time in the plan for analysis and remedial work which the LA may need to undertake.</p>
           <p>The overall approach continues to be collaborative.</p>
           <h4 class='heading-small'>Benefits</h4>
