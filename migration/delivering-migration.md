@@ -24,8 +24,9 @@ breadcrumbs: true
           <h3><span class='heading-content'>Scanning your non- digital data</span></h3>
         </div>
         <div class='step-by-step-content'>
-          <h4 class='heading-small'>Purpose and best practice</h4>
-          <p>To provide an overview of what a local authority needs to consider when preparing for HM Land Registry or their Delivery Partners to scan their non-digital data. This includes identifying what needs to be scanned and the location and volume of the non-digital data.</p>
+          <h4 class='heading-small'>Purpose</h4>
+          <p>An overview of the things a local authority needs to consider when preparing for HM Land Registry or their Delivery Partners to scan their non-digital data. This includes identifying what needs to be scanned and the location and volume of the non-digital data.</p>
+          <h4 class='heading-small'>Best practice</h4>
           <p>Scanning is usually undertaken by HM Land Registry or their Delivery Partners and is generally completed off-site.</p>
           <p>The non-digital data will be collected from the local authority and returned in the same format once the scanning has been completed. Only non-digital data that is required for migrating onto the HM Land Registry digital register will be included in the scanning exercise.</p>
           <h4 class='heading-small'>Benefits</h4>
@@ -40,8 +41,9 @@ breadcrumbs: true
           <h3><span class='heading-content'>Extracting your digital data</span></h3>
         </div>
         <div class='step-by-step-content'>
-          <h4 class='heading-small'>Purpose and best practice</h4>
-          <p>To provide an overview of what a local authority needs to consider when preparing to self-extract electronic and digital data. This includes preparation before the extract, activities during extraction and sharing the extracted data with HM Land Registry once it is available.</p>
+          <h4 class='heading-small'>Purpose</h4>
+          <p>An overview of the things a local authority needs to consider when preparing to self-extract electronic and digital data. This includes preparation before the extract, activities during extraction and sharing the extracted data with HM Land Registry when it is available.</p>
+          <h4 class='heading-small'>Best practice</h4>
           <p>Ensure you are confident using the extraction tool installed by your incumbent supplier and you are using the latest version.</p>
           <p>Remember to reset the data every time you begin a new extract and inform your Delivery Manager of the date you will be sending the extracted data to HM Land Registry so they can make the necessary preparations to receive it.</p>
           <p>If you are unsure of any stages in the process, HM Land Registry has Technical Delivery Managers who can work with local authorities to help you get this right.</p>
@@ -59,10 +61,12 @@ breadcrumbs: true
           <h3><span class='heading-content'>Using the Data Analysis Dashboard</span></h3>
         </div>
         <div class='step-by-step-content'>
+          <h4 class='heading-small'>Purpose</h4>
           <p>The Data Analysis Dashboard (dashboard) is a tool used by HM Land Registry to help local authorities get a better understanding of the current condition of their digital data. The output report from the tool will inform the local authority of the volume and type of data improvement work that is needed to ensure it is ready for migration onto the digital register.</p>
+          <h4 class='heading-small'>Best practice</h4>
           <p>The earlier a data extract can be provided to HM Land Registry so it can be run through the dashboard the better.</p>
-          <p>This will provide a comprehensive insight into the size of the task facing the local authority and will also highlight areas where HM Land Registry may be able to help by completing the data improvement work for them.</p>
-          <p>Several dashboards can be run over the duration of the migration journey to keep track of progress made with the data improvement work.</p>
+          <p>The dashboard report provides comprehensive insight into the size of the task facing the local authority and will also highlight areas where HM Land Registry may be able to help by completing the data improvement work for them.</p>
+          <p>Several dashboards can be run during migration to track the progress of the data improvement work.</p>
           <h4 class='heading-small'>Benefits</h4>
           <p>Early understanding of the type and volume of data improvement work that will need to be completed.</p>
           <p>Ability to plan resources to carry out the required data improvement work.</p>
@@ -76,8 +80,10 @@ breadcrumbs: true
           <h3><span class='heading-content'>Discovery and design</span></h3>
         </div>
         <div class='step-by-step-content'>
-          <p>Understanding the current processes and data sources involved in LLC1 search requests, including IT systems, data quality, and non-digital data volumes and storage, informs the development of a delivery plan—a timeline of activities essential for a successful migration.</p>
-         <p>A workshop is usually held to determine:</p>
+          <h4 class='heading-small'>Purpose</h4>
+          <p>Gain a holistic view of the current processes and data sources used when responding to an LLC1 search request. Understanding which IT systems are used, the quality of the data, the volumes of non-digital data and where it is stored,  helps to inform the development of the delivery plan. The delivery plan is a timeline of activities that need to be carried out for a successful migration.</p>
+         <h4 class='heading-small'>Best practice</h4>
+          <p>A workshop is usually held to determine:</p>
           <ol class='list list-bullet list-indented'>
             <li>how to respond to an LLC1 search request</li>
             <li>how to manually create a charge</li>
@@ -105,11 +111,13 @@ breadcrumbs: true
           <h3><span class='heading-content'>Analysis, Rules and Transformation</span></h3>
         </div>
         <div class='step-by-step-content'>
+          <h4 class='heading-small'>Purpose</h4>
           <h4 class='heading-small'>ARTs</h4>
-          <p><span class='bold'>Analysis</span> is an ongoing process during migration delivery and builds on the initial analysis which started with Early Engagement. This is often driven by data extracts in the first instance and will include ‘dashboards’ and regular collaboration.</p>
+          <p><span class='bold'>Analysis</span> is an ongoing process during migration delivery and builds on the initial analysis, which started with Early Engagement. This is often driven by data extracts in the first instance and will include ‘dashboards’ and regular collaboration.</p>
           <p><span class='bold'>Rules</span> in this context refers to business rules which our analysts can apply to the data to effect change on a large scale, rather than manually changing each charge individually.</p>
           <p><span class='bold'>Transformation</span> refers to the ongoing changes to the data, informed by the analysis and completed by HM Land Registry and local authority colleagues in collaboration.</p>
-          <p>The analysis starts after the first data extract and continues throughout the migration journey.</p>
+          <h4 class='heading-small'>Best practice</h4>
+          <p>Analysis starts after the first data extract and continues throughout the migration journey.</p>
           <p>Once it has been established that the implementation of business rules will benefit the local authority, the business analyst will work with them to determine which business rules are most applicable:</p>
           <ol class='list list-bullet list-indented two-joining-lists'>
             <li>global rules which are applicable to all local authorities</li>
