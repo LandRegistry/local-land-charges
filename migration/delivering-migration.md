@@ -224,7 +224,11 @@ breadcrumbs: true
             <li>search results will be automatic – no human checks or fine-tuning before results are provided to the customer</li>
           </ol>
           <p>Therefore, in simple terms, the extent of change is how far away from this you currently are.Is it possible to use an API for automatic updates from the Incumbent System to the new Register? Alternatively, direct input into the HM Land registry Register via a web-based interface may result in duplicated workload.</p>
-          <p>This is also a good time to consider how you’d prefer the future service to work.</p>
+          <h4 class='heading-small'>Best practice</h4>
+          <ol class='list list-bullet list-indented'>
+            <li>Identify and potentially document current processes</li>
+            <li>Engage with departments/teams which contribute to the LLC register, (Planning for example). Ensure they are aware of the extent of change</li>
+            <li>•	Engage with incumbent software suppliers to gauge options, (do they have an API?)</li>
           <h4 class='heading-small'>Benefits</h4>
           <p>Understanding the transformational work upfront means that you can start to make the changes required much sooner and spread the work over a longer period, reducing the day-to-day impact on resources.</p>
           <p class='inset-text'>If there are changes to processes, the Delivery Manager will help to identify the necessary training. With HM Land Registry’s support, local authorities can manage minor changes in-house. HM Land Registry will provide training for major changes, such as the adoption of the User Interface (UI).</p>
