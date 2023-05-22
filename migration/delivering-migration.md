@@ -56,7 +56,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>3</span>
-          <h3><span class='heading-content'>Using the data analysis dashboard</span></h3>
+          <h3><span class='heading-content'>Using the Data Analysis Dashboard</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>The Data Analysis Dashboard (dashboard) is a tool used by HM Land Registry to help local authorities get a better understanding of the current condition of their digital data. The output report from the tool will inform the local authority of the volume and type of data improvement work that is needed to ensure it is ready for migration onto the digital register.</p>
@@ -201,7 +201,7 @@ breadcrumbs: true
           <h3><span class='heading-content'>Check the business readiness</span></h3>
         </div>
         <div class='step-by-step-content'>
-          <h4 class='heading-small'>Purpose</h4>
+          <h4 class='heading-small'>Purpose and best practice</h4>
           <p>The concept of "extent of change" involves understanding the future state of the register, its functionality, and the implications it will have on your current operations. It encompasses comparing the current state ("as is") with the envisioned future state ("to be").</p>
           <p>There are two overarching key principles to the final product:</p>
           <ol class='list list-bullet list-indented'>
