@@ -24,7 +24,7 @@ breadcrumbs: true
           <h3><span class='heading-content'>Scanning your non- digital data</span></h3>
         </div>
         <div class='step-by-step-content'>
-          <h4 class='heading-small'>Purpose</h4>
+          <h4 class='heading-small'>Purpose and best practice</h4>
           <p>To provide an overview of what a local authority needs to consider when preparing for HM Land Registry or their Delivery Partners to scan their non-digital data. This includes identifying what needs to be scanned and the location and volume of the non-digital data.</p>
           <p>Scanning is usually undertaken by HM Land Registry or their Delivery Partners and is generally completed off-site.</p>
           <p>The non-digital data will be collected from the local authority and returned in the same format once the scanning has been completed. Only non-digital data that is required for migrating onto the HM Land Registry digital register will be included in the scanning exercise.</p>
@@ -40,7 +40,7 @@ breadcrumbs: true
           <h3><span class='heading-content'>Extracting your digital data</span></h3>
         </div>
         <div class='step-by-step-content'>
-          <h4 class='heading-small'>Purpose</h4>
+          <h4 class='heading-small'>Purpose and best practice</h4>
           <p>To provide an overview of what a local authority needs to consider when preparing to self-extract electronic and digital data. This includes preparation before the extract, activities during extraction and sharing the extracted data with HM Land Registry once it is available.</p>
           <p>Ensure you are confident using the extraction tool installed by your incumbent supplier and you are using the latest version.</p>
           <p>Remember to reset the data every time you begin a new extract and inform your Delivery Manager of the date you will be sending the extracted data to HM Land Registry so they can make the necessary preparations to receive it.</p>
@@ -56,7 +56,7 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>3</span>
-          <h3><span class='heading-content'>What is a data analysis dashboard</span></h3>
+          <h3><span class='heading-content'>Using the data analysis dashboard</span></h3>
         </div>
         <div class='step-by-step-content'>
           <p>The Data Analysis Dashboard (dashboard) is a tool used by HM Land Registry to help local authorities get a better understanding of the current condition of their digital data. The output report from the tool will inform the local authority of the volume and type of data improvement work that is needed to ensure it is ready for migration onto the digital register.</p>
@@ -106,9 +106,9 @@ breadcrumbs: true
         </div>
         <div class='step-by-step-content'>
           <h4 class='heading-small'>ARTs</h4>
-          <p>Analysis is an ongoing process during migration delivery and builds on the initial analysis which started with Early Engagement. This is often driven by data extracts in the first instance and will include ‘dashboards’ and regular collaboration.</p>
-          <p>Rules in this context refers to business rules which our analysts can apply to the data to effect change on a large scale, rather than manually changing each charge individually.</p>
-          <p>Transformation refers to the ongoing changes to the data, informed by the analysis and completed by HM Land Registry and local authority colleagues in collaboration.</p>
+          <p><span class='bold'>Analysis</span> is an ongoing process during migration delivery and builds on the initial analysis which started with Early Engagement. This is often driven by data extracts in the first instance and will include ‘dashboards’ and regular collaboration.</p>
+          <p><span class='bold'>Rules</span> in this context refers to business rules which our analysts can apply to the data to effect change on a large scale, rather than manually changing each charge individually.</p>
+          <p><span class='bold'>Transformation</span> refers to the ongoing changes to the data, informed by the analysis and completed by HM Land Registry and local authority colleagues in collaboration.</p>
           <p>The analysis starts after the first data extract and continues throughout the migration journey.</p>
           <p>Once it has been established that the implementation of business rules will benefit the local authority, the business analyst will work with them to determine which business rules are most applicable:</p>
           <ol class='list list-bullet list-indented two-joining-lists'>
@@ -131,8 +131,8 @@ breadcrumbs: true
           <h3><span class='heading-content'>Formative assessment</span></h3>
         </div>
         <div class='step-by-step-content'>
-          <h4 class='heading-small'>Purpose</h4>
-          <p>Towards the end of the Analysis, Rules, and Transformation (ART) phase, our Quality Assurance team will conduct a series of checks on the charges. These checks employ a variety of methodologies, including significant automation through logic rules.</p> 
+          <h4 class='heading-small'>Purpose and best practice</h4>
+          <p>Towards the end of the Analysis, Rules, and Transformation (ARTs) phase, our Quality Assurance team will conduct a series of checks on the charges. These checks employ a variety of methodologies, including significant automation through logic rules.</p> 
           <p> For instance, we verify if the charge's spatial extent matches the post code mentioned in the charge description. Additionally, we manually review charges to ensure accuracy and completeness.</p>
           <p>The Delivery Manager will endeavour to schedule this to fall after the majority of data transformation work has been completed.</p>
           <p>They will also allow appropriate time in the plan to respond to the outcomes, which might include further checking to prove/disprove trends.</p>
@@ -145,10 +145,10 @@ breadcrumbs: true
       <li class='step-by-step-item'>
         <div class='button-wrapper'>
           <span class='number'>7</span>
-          <h3><span class='heading-content'>Do a final quality assurance and search comparison</span></h3>
+          <h3><span class='heading-content'>The final quality assurance and search comparison</span></h3>
         </div>
         <div class='step-by-step-content'>
-          <h4 class='heading-small'>Purpose</h4>
+          <h4 class='heading-small'>Purpose and best practice</h4>
           <p>The final Quality Assurance process shares similarities with the earlier Formative Assessment process. It involves a combination of automated logic checks and human manual sampling.</p> 
           <p> The goal is to ensure that the charges meet the required standard of accuracy and quality to be included in the new HM Land Registry Register.</p>
           <p>The Search Comparison process is a parallel exercise that compares real, historical search results generated by the local authority with results obtained from the newly created Register for the same address search. This comparison aims to identify any discrepancies in the results.</p>
