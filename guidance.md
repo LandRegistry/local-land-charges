@@ -12,6 +12,7 @@ General guidance for registering local land charges.
 {: .heading-small}
 List of data categories on the LLC Register
 
+
 <ol class='list list-number'>
     <li><a href='https://search-local-land-charges.service.gov.uk/category-list'>list of charge categories</a></li>
     <li><a href='https://search-local-land-charges.service.gov.uk/statutory-provision-list'>View a statutory provision</a></li>
