@@ -27,6 +27,7 @@ Videos
     <li><a href='files/Guidance/Changes%20To%20Buying%20a%20House%20Native%20Video.mp4' onclick='linkClicked()'>How the Local Land Charges Programme will improve homebuying</a> (MP4 3 minutes 31 seconds)</li>
 </ol>
 
+    
 {: .heading-medium}
 Practice guide
 <ol class='list list-number'>
