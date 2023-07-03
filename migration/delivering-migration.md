@@ -228,7 +228,8 @@ breadcrumbs: true
           <ol class='list list-bullet list-indented'>
             <li>Identify and potentially document current processes</li>
             <li>Engage with other departments and/or teams which contribute to your LLC register, for example the planning team. Ensure they are aware of the extent of change</li>
-            <li>Engage with incumbent software suppliers to gauge options,for instance do they have an API?</li>
+            <li>Engage with incumbent software suppliers to gauge options,for instance do they have an API</li>
+          </ol>
           <h4 class='heading-small'>Benefits</h4>
           <p>The benefit of understanding the transformational work from an early stage ensures you can start to make the required changes much sooner.</p>
           <p>Transformational work can be spread over a longer period, reducing the day-to-day impact on resources. For example, you can introduce plotting spatial extents when generating new charges if you are not already doing so. This change might involve linking with ‘feeder’ departments. If change is required, longer lead times generally help make the transition easier.</p>
