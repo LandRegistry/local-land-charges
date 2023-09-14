@@ -25,7 +25,8 @@ Read our monthly programme newsletters. If you would like to subscribe to our ne
 {: .heading-small}
 2023
     
- <ol class='list list-number'>  
+ <ol class='list list-number'>
+    <li><a href='files/Communications/LLC newsletter_Sept2023.pdf' onclick='linkClicked()'>September </a></li>
     <li><a href='files/Communications/LLC%20newsletter_August%202023(004).pdf' onclick='linkClicked()'>August </a></li> 
     <li><a href='files/Communications/LLC%20newsletter_July%202023.pdf' onclick='linkClicked()'>July </a></li>
     <li><a href='files/Communications/LLC%20newsletter_June%202023.pdf' onclick='linkClicked()'>June </a></li>
