@@ -19,30 +19,12 @@ Programme Director Mark Kelso is in a panel interview with Channel 4’s propert
 
 Read our monthly programme newsletters. If you would like to subscribe to our newsletters, please join our <a href="https://public.govdelivery.com/accounts/UKGOVUK_LR/signup/35766">mailing list</a>.
 
-
-    
     
 {: .heading-small}
-2023
+2024
     
  <ol class='list list-number'>
-    <li><a href='files/Communications/LLC%20newsletter_Dec2023.pdf' onclick='linkClicked()'>December </a></li>
-    <li><a href='files/Communications/LLC%20newsletter_Nov2023.pdf' onclick='linkClicked()'>November </a></li>
-    <li><a href='files/Communications/LLC%20newsletter_Oct2023.pdf' onclick='linkClicked()'>October </a></li>
-    <li><a href='files/Communications/LLC%20newsletter_Sept2023.pdf' onclick='linkClicked()'>September </a></li>
-    <li><a href='files/Communications/LLC%20newsletter_August%202023(004).pdf' onclick='linkClicked()'>August </a></li> 
-    <li><a href='files/Communications/LLC%20newsletter_July%202023.pdf' onclick='linkClicked()'>July </a></li>
-    <li><a href='files/Communications/LLC%20newsletter_June%202023.pdf' onclick='linkClicked()'>June </a></li>
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_May%202023%20(002).pdf' onclick='linkClicked()'>May </a></li>
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_April%202023.pdf' onclick='linkClicked()'>April </a></li>
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_MARCH%202023%20EDITION.pdf' onclick='linkClicked()'>March </a></li>
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_FEB%202023%20EDITION_GG%20(002).pdf' onclick='linkClicked()'>February </a></li>
-    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_JANUARY%202023_GG%20(002).pdf' onclick='linkClicked()'>January </a></li>
-    
-
-    
-     
-    
+    <li><a href='files/Communications/LLC%20newsletter_Jan2024.pdf' onclick='linkClicked()'>January</a></li>   
 </ol>
 
 {: .heading-large}
@@ -99,7 +81,23 @@ Register to watch our webinar recordings.
 <h2>Archived newsletters</h2>
 
   
-  
+  {: .heading-small}
+2023
+    
+ <ol class='list list-number'>
+    <li><a href='files/Communications/LLC%20newsletter_Dec2023.pdf' onclick='linkClicked()'>December </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_Nov2023.pdf' onclick='linkClicked()'>November </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_Oct2023.pdf' onclick='linkClicked()'>October </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_Sept2023.pdf' onclick='linkClicked()'>September </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_August%202023(004).pdf' onclick='linkClicked()'>August </a></li> 
+    <li><a href='files/Communications/LLC%20newsletter_July%202023.pdf' onclick='linkClicked()'>July </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_June%202023.pdf' onclick='linkClicked()'>June </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_May%202023%20(002).pdf' onclick='linkClicked()'>May </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_April%202023.pdf' onclick='linkClicked()'>April </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_MARCH%202023%20EDITION.pdf' onclick='linkClicked()'>March </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_FEB%202023%20EDITION_GG%20(002).pdf' onclick='linkClicked()'>February </a></li>
+    <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_JANUARY%202023_GG%20(002).pdf' onclick='linkClicked()'>January </a></li>
+    
      
 {: .heading-small}
 2022
