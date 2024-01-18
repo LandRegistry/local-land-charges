@@ -103,7 +103,6 @@ Register to watch our webinar recordings.
 2022
 
 <ol class='list list-number'>
-    
  <li><a href='files/Communications/LLC%20newsletter_NEW%20STYLE_DECEMBER%202022%201.pdf' onclick='linkClicked()'>December </a></li>
  <li><a href='files/Communications/LLC%20newsletter_NOVEMBER%202022.pdf' onclick='linkClicked()'>November </a></li>
  <li><a href='files/Communications/LLC%20newsletter%20OCTOBER%202022%20(1).pdf' onclick='linkClicked()'>October </a></li>
@@ -115,15 +114,13 @@ Register to watch our webinar recordings.
  <li><a href='files/Communications/LLC%20newsletter_APRIL%202022.pdf' onclick='linkClicked()'>April </a></li>
  <li><a href='files/Communications/LLC%20newsletter_MARCH%202022.pdf' onclick='linkClicked()'>March </a></li>
  <li><a href='files/Communications/HM%20Land%20Registry%20local%20land%20charges%20newsletter%20January%202022.pdf' onclick='linkClicked()'>January </a></li>   
-    
-
   </ol>
+
   
 {: .heading-small}
 2021
 
 <ol class='list list-number'>
-    
  <li><a href='files/Communications/DECEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>December </a></li>
  <li><a href='files/Communications/NOVEMBER%20newsletter%202021.pdf' onclick='linkClicked()'>November </a></li>   
  <li><a href='files/Communications/OCTnewsletter%202021.pdf' onclick='linkClicked()'>October </a></li>
@@ -139,7 +136,6 @@ Register to watch our webinar recordings.
     
 {: .heading-small}
 2020
-
  <ol class='list list-number' start='8'>
     <li><a href='files/Communications/NOV-DEC%20newsletter%202020.pdf' onclick='linkClicked()'>November/December </a></li>
     <li><a href='files/Communications/October%20LLC%20Final.pdf' onclick='linkClicked()'>October </a></li>
