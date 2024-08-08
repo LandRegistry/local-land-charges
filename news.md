@@ -24,6 +24,7 @@ Read our monthly programme newsletters. If you would like to subscribe to our ne
 2024
     
  <ol class='list list-number'>
+    <li><a href='files/Communications/August%20newsletter_2024.pdf' onclick='linkClicked()'>August</a></li> 
     <li><a href='files/Communications/July%20newsletter%202024.pdf' onclick='linkClicked()'>July</a></li> 
     <li><a href='files/Communications/LLC%20newsletter_May2024.pdf' onclick='linkClicked()'>May</a></li>
     <li><a href='files/Communications/April%20newsletter%202024.pdf' onclick='linkClicked()'>April</a></li>
@@ -142,6 +143,7 @@ Register to watch our webinar recordings.
     
 {: .heading-small}
 2020
+
  <ol class='list list-number' start='8'>
     <li><a href='files/Communications/NOV-DEC%20newsletter%202020.pdf' onclick='linkClicked()'>November/December </a></li>
     <li><a href='files/Communications/October%20LLC%20Final.pdf' onclick='linkClicked()'>October </a></li>
