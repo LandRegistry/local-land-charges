@@ -39,6 +39,7 @@ Read our monthly programme newsletters. If you would like to subscribe to our ne
 <h2>Case Studies</h2>
 
 <ol class='list list-number'>
+<li><a href='files/Communications/LLC%20Mid%20Devon%20Council%20case%20study.pdf' onclick='linkClicked()'>Mid Devon District Council </a></li>
 <li><a href='files/Communications/LLC_CASE%20STUDY_Tameside_291021.pdf' onclick='linkClicked()'>Tameside Council </a></li>
 <li><a href='files/Communications/OXBRIDGE%20CASE%20STUDY_%20east%20west%20rail%203_BEST%20(1).pdf' onclick='linkClicked()'>The OxCam Arc</a></li>
 <li><a href='files/Communications/CASE%20STUDY_LIVERPOOLCOUNCIL_vc.pdf' onclick='linkClicked()'>Liverpool Council </a></li>
