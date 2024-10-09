@@ -24,6 +24,7 @@ Read our monthly programme newsletters. If you would like to subscribe to our ne
 2024
     
  <ol class='list list-number'>
+     <li><a href='files/Communications/October%20newsletter_2024.pdf' onclick='linkClicked()'>October</a></li> 
     <li><a href='files/Communications/September%20newsletter%202024.pdf' onclick='linkClicked()'>September</a></li> 
     <li><a href='files/Communications/August%20newsletter_2024.pdf' onclick='linkClicked()'>August</a></li> 
     <li><a href='files/Communications/July%20newsletter%202024.pdf' onclick='linkClicked()'>July</a></li> 
